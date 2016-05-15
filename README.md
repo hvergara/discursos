@@ -15,4 +15,7 @@ Mi sueño es digitalizar la totalidad de estos discursos. Pero como mencionaba a
 
 Puedes comenzar clonando este repositorio (Fork), modificando lo que estimes conveniente y luego enviar Pull Requests.
 
-Gracias!
+### Formato
+
+Todos los discursos están en formato de texto, bajo el estilo definido por el estándar [Markdown](https://es.wikipedia.org/wiki/Markdown)
+
