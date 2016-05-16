@@ -1,1153 +1,587 @@
-                         MENSAJE PRESIDENCIAL 21 DE MAYO 2006
-
-
-
-
-Señor Presidente del Senado y ex Presidente de la República.
-
-Señor Presidente de la Corte Suprema.
-
-Señor Presidente de la Cámara de Diputados.
-
-Estimadas senadoras y senadores.
-
-Estimadas diputadas y diputados.
-
-Señores Embajadores.
+# MENSAJE PRESIDENCIAL 21 DE MAYO 2006
 
 Chilenas y chilenos:
 
-Hace poco más de cuatro meses los ciudadanos y ciudadanas de Chile me encomendaron una gran
-tarea.
+Hace poco más de cuatro meses los ciudadanos y ciudadanas de Chile me encomendaron una gran tarea.
 
-Esa noche del 16 de enero, desde una ventana vi a miles y miles de personas caminar
-alegremente por la Alameda. Mujeres, jóvenes y niños con una banda presidencial con nuestros
-colores patrios sobre su pecho. Miles de aplausos. Miles de chilenos orgullosos de su país.
+Esa noche del 16 de enero, desde una ventana vi a miles y miles de personas caminar alegremente por la Alameda. Mujeres, jóvenes y niños con una banda presidencial con nuestros colores patrios sobre su pecho. Miles de aplausos. Miles de chilenos orgullosos de su país.
 
-Es señal de un nuevo tiempo que se asoma en Chile, estimados conciudadanos del Senado y de la
-Cámara.
+Es señal de un nuevo tiempo que se asoma en Chile, estimados conciudadanos del Senado y de la Cámara.
 
-El país ha vivido grandes cambios en los últimos años. Hemos recuperado el clima de libertades
-que por tantos años caracterizó a nuestra República. Hemos construido una sociedad más abierta,
-diversa y tolerante.
+El país ha vivido grandes cambios en los últimos años. Hemos recuperado el clima de libertades que por tantos años caracterizó a nuestra República. Hemos construido una sociedad más abierta, diversa y tolerante.
 
-Pero junto a ello, en estos meses, desde aquel 16 de enero, hemos notado también una muy
-buena actitud. Se respira un ánimo de renovación y de nuevas ideas.
+Pero junto a ello, en estos meses, desde aquel 16 de enero, hemos notado también una muy buena actitud. Se respira un ánimo de renovación y de nuevas ideas.
 
 Se asoma también un tiempo de mujeres y hombres, como nunca antes en nuestro país.
-Cosechamos hoy una larga siembra. Además de tantos hombres notables, está hoy con nosotros
-la visión de una Elena Caffarena o una Amanda Labarca. El símbolo de una Inés Enríquez. La
-dignidad de una Tencha Allende. El coraje de una Sola Sierra. Pero sobre todo, el tesón y el
-sacrificio de miles y miles de mujeres en todo el país que se esfuerzan por sacar a sus familias
-adelante, por trabajar, por estudiar.
 
-¡Quién lo hubiera pensado! Hoy le habla a este Congreso Pleno una mujer Presidenta. Aquí están
-mis diez Ministras y mis quince Subsecretarias.
+Cosechamos hoy una larga siembra. Además de tantos hombres notables, está hoy con nosotros la visión de una Elena Caffarena o una Amanda Labarca. El símbolo de una Inés Enríquez. La dignidad de una Tencha Allende. El coraje de una Sola Sierra. Pero sobre todo, el tesón y el sacrificio de miles y miles de mujeres en todo el país que se esfuerzan por sacar a sus familias adelante, por trabajar, por estudiar.
 
-Aquí está, como lo prometí durante la campaña, el primer gobierno paritario de toda nuestra
-historia.
+¡Quién lo hubiera pensado! Hoy le habla a este Congreso Pleno una mujer Presidenta. Aquí están mis diez Ministras y mis quince Subsecretarias.
 
-Se asoma también el tiempo de los ciudadanos. Un Chile de todos. Un Chile más integrador y más
-integrado.
+Aquí está, como lo prometí durante la campaña, el primer gobierno paritario de toda nuestra historia.
 
-Una sociedad más inclusiva, que no discrimina y que no olvida a quienes se quedan atrás. Estoy
-aquí como mujer, representando la derrota a la exclusión de que fuimos objeto tanto tiempo. Hoy
-es la hora de incluir en nuestro desarrollo a aquellos ciudadanos y ciudadanas que sufren otro tipo
-de exclusiones. A eso nos dedicaremos.
+Se asoma también el tiempo de los ciudadanos. Un Chile de todos. Un Chile más integrador y más integrado.
 
-Porque este es el gobierno de los ciudadanos y para los ciudadanos.
-Los próximos años serán decisivos. Se trata de consolidar una sociedad que no sólo reconoce
-libertades, sino que las defiende y las promueve. Un Estado que no sólo enumera derechos, sino
-que los garantiza a todos sus ciudadanos.
+Una sociedad más inclusiva, que no discrimina y que no olvida a quienes se quedan atrás. Estoy aquí como mujer, representando la derrota a la exclusión de que fuimos objeto tanto tiempo. Hoy es la hora de incluir en nuestro desarrollo a aquellos ciudadanos y ciudadanas que sufren otro tipo de exclusiones. A eso nos dedicaremos.
 
-Quiero ciudadanos críticos, conscientes, que planteen sus ideas y sus reivindicaciones. Pero esa
-crítica debe hacerse con un espíritu constructivo, con propuestas sobre la mesa y, lo más
-importante, a cara descubierta y sin violencia. Quiero ser muy clara: lo que hemos visto en
-semanas recientes es inaceptable. ¡No toleraré el vandalismo, ni los destrozos, ni la intimidación a
-las personas! Aplicaré todo el rigor de la ley. La democracia la ganamos con la cara descubierta y
-debemos continuar con la cara descubierta.
+Porque este es el gobierno de los ciudadanos y para los ciudadanos. Los próximos años serán decisivos. Se trata de consolidar una sociedad que no sólo reconoce libertades, sino que las defiende y las promueve. Un Estado que no sólo enumera derechos, sino que los garantiza a todos sus ciudadanos.
 
-Me propongo también renovar el modo como se ejerce el poder desde el gobierno. Para
-asesorarme en el diseño de algunas reformas clave, he nombrado consejos asesores con
-profesionales y representantes del más alto nivel y de amplios sectores. La labor de este tipo de
-consejos es muy importante. Constituye una innovación en cómo hemos hecho las políticas
-públicas. Es un método, el del diálogo social, muy usado en democracias muy desarrolladas.
+Quiero ciudadanos críticos, conscientes, que planteen sus ideas y sus reivindicaciones. Pero esa crítica debe hacerse con un espíritu constructivo, con propuestas sobre la mesa y, lo más importante, a cara descubierta y sin violencia. Quiero ser muy clara: lo que hemos visto en semanas recientes es inaceptable. ¡No toleraré el vandalismo, ni los destrozos, ni la intimidación a las personas! Aplicaré todo el rigor de la ley. La democracia la ganamos con la cara descubierta y debemos continuar con la cara descubierta.
 
-¡Cuánto más fácil habría sido, y más rápido tal vez, encargar a un puñado de técnicos de un solo
-color redactar un proyecto de ley en un par de días! Pero hemos querido hacerlo de este otro
-modo, incluyendo todas las visiones, con la más amplia participación ciudadana. Así despejamos
-mitos y consensuamos los diagnósticos.
+Me propongo también renovar el modo como se ejerce el poder desde el gobierno. Para asesorarme en el diseño de algunas reformas clave, he nombrado consejos asesores con profesionales y representantes del más alto nivel y de amplios sectores. La labor de este tipo de consejos es muy importante. Constituye una innovación en cómo hemos hecho las políticas públicas. Es un método, el del diálogo social, muy usado en democracias muy desarrolladas.
 
-Nada de lo que hagamos tendrá pleno sentido si no lo palpan los ciudadanos allí donde viven, en
-sus ciudades y regiones, en sus calles y pasajes. Que lo note el trabajador, el estudiante y la
-dueña de casa. Que se note en las escuelas, en el paradero, en el juzgado, en el consultorio y en
-la casa.
+¡Cuánto más fácil habría sido, y más rápido tal vez, encargar a un puñado de técnicos de un solo color redactar un proyecto de ley en un par de días! Pero hemos querido hacerlo de este otro modo, incluyendo todas las visiones, con la más amplia participación ciudadana. Así despejamos mitos y consensuamos los diagnósticos.
 
-Un país sin exclusiones exige que las mujeres ejerzan en plenitud la ciudadanía, en todas sus
-facetas. Chile aún vive la experiencia diaria de discriminaciones y de segregación. Mi gobierno
-apoyará del modo más decidido el ejercicio efectivo de los derechos de la mujer.
+Nada de lo que hagamos tendrá pleno sentido si no lo palpan los ciudadanos allí donde viven, en sus ciudades y regiones, en sus calles y pasajes. Que lo note el trabajador, el estudiante y la dueña de casa. Que se note en las escuelas, en el paradero, en el juzgado, en el consultorio y en la casa.
+
+Un país sin exclusiones exige que las mujeres ejerzan en plenitud la ciudadanía, en todas sus facetas. Chile aún vive la experiencia diaria de discriminaciones y de segregación. Mi gobierno apoyará del modo más decidido el ejercicio efectivo de los derechos de la mujer.
 
 ¡Gracias por los hombres que también aplaudieron!
 
 Nos proponemos eliminar las discriminaciones de entrada a la mujer en el mundo laboral,
-promover la igual remuneración a igual mérito, evitar las segregaciones en los seguros de salud y
-en la previsión, y luchar sin descanso por terminar con la violencia en los hogares.
+promover la igual remuneración a igual mérito, evitar las segregaciones en los seguros de salud y en la previsión, y luchar sin descanso por terminar con la violencia en los hogares.
 
-De igual manera, perfeccionaremos la ley de acoso sexual, haremos más eficientes los juicios por
-pensiones de alimentos y garantizaremos la continuidad en los estudios de las mujeres
-embarazadas o madres. Erradicaremos la discriminación contra las mujeres en edad fértil en los
-planes ofrecidos por las Isapres.
+De igual manera, perfeccionaremos la ley de acoso sexual, haremos más eficientes los juicios por pensiones de alimentos y garantizaremos la continuidad en los estudios de las mujeres embarazadas o madres. Erradicaremos la discriminación contra las mujeres en edad fértil en los planes ofrecidos por las Isapres.
 
-Dos cosas son igualmente ciertas. Las mujeres tienen la capacidad de salir adelante. Pero también
-necesitan mayores oportunidades para incorporarse al mundo moderno. Predicamos con el
-ejemplo. El gobierno paritario es el principio y no el fin del camino.
+Dos cosas son igualmente ciertas. Las mujeres tienen la capacidad de salir adelante. Pero también necesitan mayores oportunidades para incorporarse al mundo moderno. Predicamos con el ejemplo. El gobierno paritario es el principio y no el fin del camino.
 
-Chile será un país más desarrollado, justo y democrático cuando dejen de existir las poderosas
-barreras para la integración de las mujeres al trabajo, la cultura, la economía y la vida pública. Sin
-la presencia activa de la mujer no podremos derrotar la pobreza ni ser un país más competitivo.
+Chile será un país más desarrollado, justo y democrático cuando dejen de existir las poderosas barreras para la integración de las mujeres al trabajo, la cultura, la economía y la vida pública. Sin la presencia activa de la mujer no podremos derrotar la pobreza ni ser un país más competitivo.
 
-Los chilenos me han encomendado una tarea que me honra. Me presenté al país con un programa
-de gobierno, el que estoy empeñada en cumplir.
+Los chilenos me han encomendado una tarea que me honra. Me presenté al país con un programa de gobierno, el que estoy empeñada en cumplir.
 
-Porque si realmente queremos prestigiar la actividad política, debemos comenzar por honrar
-nuestros compromisos. Este es un gobierno que a lo mejor no habla tanto, pero que cumple
-mucho. Que dice y hace. Y que enfrenta los problemas.
+Porque si realmente queremos prestigiar la actividad política, debemos comenzar por honrar nuestros compromisos. Este es un gobierno que a lo mejor no habla tanto, pero que cumple mucho. Que dice y hace. Y que enfrenta los problemas.
 
-Fuimos transparentes en la campaña. Dijimos al país qué haríamos al iniciar el gobierno. Ahí está
-el Plan de los 100 días y las 36 medidas.
+Fuimos transparentes en la campaña. Dijimos al país qué haríamos al iniciar el gobierno. Ahí está el Plan de los 100 días y las 36 medidas.
 
-Dije: diré lo que pienso y haré lo que digo. Es mi estilo en la política. Se trata de cumplir la
-palabra y precisar las prioridades. Las medidas que propuse al país en ese plan obedecen a una
-prioridad del gobierno y otras son el inicio de un proyecto mayor de reformas en áreas claves.
-Porque los chilenos y chilenas quieren saber qué hará su gobierno, cómo y cuándo.
+Dije: diré lo que pienso y haré lo que digo. Es mi estilo en la política. Se trata de cumplir la palabra y precisar las prioridades. Las medidas que propuse al país en ese plan obedecen a una prioridad del gobierno y otras son el inicio de un proyecto mayor de reformas en áreas claves. Porque los chilenos y chilenas quieren saber qué hará su gobierno, cómo y cuándo.
 
-LAS CUATRO TRANSFORMACIONES
 
-Por eso la carta de navegación debe ser clara y conocida por todos. Hoy presento al país las cuatro
-grandes transformaciones que impulsará mi gobierno. Se trata de grandes cambios en cuatro
-áreas que son cruciales para que podamos superar las exclusiones y construir una sociedad cada
-vez más acogedora e inclusiva.
 
-Tenemos el mandato histórico para hacerlo. Tenemos el compromiso de llegar al 2010 con un país
-más moderno, integrado y desarrollado.
+## LAS CUATRO TRANSFORMACIONES
 
-La primera transformación se centra en el sistema de previsión. Sin pensiones dignas y seguras no
-puede haber una vejez tranquila.
+Por eso la carta de navegación debe ser clara y conocida por todos. Hoy presento al país las cuatro grandes transformaciones que impulsará mi gobierno. Se trata de grandes cambios en cuatro áreas que son cruciales para que podamos superar las exclusiones y construir una sociedad cada vez más acogedora e inclusiva.
 
-La segunda transformación ocurrirá en la educación: necesitamos más salas cunas y jardines para
-los más pequeños, y escuelas y liceos de mayor calidad para los niños y niñas más grandes.
+Tenemos el mandato histórico para hacerlo. Tenemos el compromiso de llegar al 2010 con un país más moderno, integrado y desarrollado.
 
-La tercera transformación tiene que ver con innovación y emprendimiento: una nueva política de
-desarrollo para el crecimiento.
+La primera transformación se centra en el sistema de previsión. Sin pensiones dignas y seguras no puede haber una vejez tranquila.
 
-La cuarta transformación nos permitirá tener barrios amables, con calidad de vida para las
-personas.
+La segunda transformación ocurrirá en la educación: necesitamos más salas cunas y jardines para los más pequeños, y escuelas y liceos de mayor calidad para los niños y niñas más grandes.
 
-1. Reforma a las pensiones
+La tercera transformación tiene que ver con innovación y emprendimiento: una nueva política de desarrollo para el crecimiento.
 
-Preocuparse de las jubilaciones de chilenas y chilenos ahora es un imperativo ético e histórico de
-nuestra sociedad y, en particular, de nuestra generación.
+La cuarta transformación nos permitirá tener barrios amables, con calidad de vida para las personas.
 
-En el Plan de los 100 días ya dimos muestra de esta preocupación. Aprobamos dos medidas
-trascendentales, que consistieron en un reajuste extraordinario a las pensiones más bajas y en
-garantizar el derecho a la pensión asistencial a todos aquellos mayores de 65 años que cumplan
-con los requisitos, medidas que benefician a más de un millón 200 mil personas.
 
-Quiero agradecer hoy a este Congreso por haber aprobado rápidamente esta ley, lo que ha
-permitido que desde el 1º de mayo se estén pagando las pensiones ya reajustadas.
+### 1. Reforma a las pensiones
+
+Preocuparse de las jubilaciones de chilenas y chilenos ahora es un imperativo ético e histórico de nuestra sociedad y, en particular, de nuestra generación.
+
+En el Plan de los 100 días ya dimos muestra de esta preocupación. Aprobamos dos medidas trascendentales, que consistieron en un reajuste extraordinario a las pensiones más bajas y en garantizar el derecho a la pensión asistencial a todos aquellos mayores de 65 años que cumplan con los requisitos, medidas que benefician a más de un millón 200 mil personas.
+
+Quiero agradecer hoy a este Congreso por haber aprobado rápidamente esta ley, lo que ha permitido que desde el 1º de mayo se estén pagando las pensiones ya reajustadas.
 
 Pero ello no es suficiente. Lo central es la reforma al sistema de pensiones que hemos iniciado.
 
-Nuestra misión es clara: queremos un sistema previsional que cubra a todos los trabajadores. Un
-sistema capaz de servir por igual a los empleados y a los temporeros, a los profesionales y a los
-microempresarios. Un sistema que dé cuenta de las diversas realidades de nuestro país. Porque la
-seguridad social es un derecho de todas y todos.
+Nuestra misión es clara: queremos un sistema previsional que cubra a todos los trabajadores. Un sistema capaz de servir por igual a los empleados y a los temporeros, a los profesionales y a los microempresarios. Un sistema que dé cuenta de las diversas realidades de nuestro país. Porque la seguridad social es un derecho de todas y todos.
 
-En su informe preliminar, el Consejo Asesor de la Reforma Previsional ha identificado los
-principales problemas. Ha detectado que incluso los más favorables al actual sistema reconocen la
-necesidad de perfeccionarlo. A la vez que ni siquiera los más críticos proponen terminar con el
-sistema de capitalización individual.
+En su informe preliminar, el Consejo Asesor de la Reforma Previsional ha identificado los principales problemas. Ha detectado que incluso los más favorables al actual sistema reconocen la necesidad de perfeccionarlo. A la vez que ni siquiera los más críticos proponen terminar con el sistema de capitalización individual.
 
-Existe un amplio acuerdo en torno a ciertas áreas a reformar: buscar los mecanismos para ampliar
-la cobertura a todo tipo de trabajadores, incorporar a los independientes, perfeccionar las
-garantías mínimas, introducir más equidad entre hombres y mujeres, aumentar la competencia y
-la transparencia y aumentar la rentabilidad de los fondos. Es decir, pensiones dignas y decentes.
+Existe un amplio acuerdo en torno a ciertas áreas a reformar: buscar los mecanismos para ampliar la cobertura a todo tipo de trabajadores, incorporar a los independientes, perfeccionar las garantías mínimas, introducir más equidad entre hombres y mujeres, aumentar la competencia y la transparencia y aumentar la rentabilidad de los fondos. Es decir, pensiones dignas y decentes.
 
-Se trata de una gran reforma. Y en el segundo semestre de este año enviaré al Congreso el
-proyecto de ley.
-2. Una educación de calidad
+Se trata de una gran reforma. Y en el segundo semestre de este año enviaré al Congreso el proyecto de ley.
 
-Una sociedad inclusiva es una sociedad que educa. Hemos hecho mucho. Estamos llegando al 100
-por ciento de la cobertura básica y media. Como sociedad hemos garantizado el derecho de
-nuestros hijos a cursar doce años de escolaridad. También hemos mejorado y dignificado los
-espacios pedagógicos y entregado el material didáctico necesario para el aprendizaje.
+### 2. Una educación de calidad
+
+Una sociedad inclusiva es una sociedad que educa. Hemos hecho mucho. Estamos llegando al 100 por ciento de la cobertura básica y media. Como sociedad hemos garantizado el derecho de nuestros hijos a cursar doce años de escolaridad. También hemos mejorado y dignificado los espacios pedagógicos y entregado el material didáctico necesario para el aprendizaje.
 
 Tenemos, entonces, una base sólida desde donde partir. Tenemos cimientos, casa y mobiliario.
 Tenemos derechos y tenemos conciencia sobre lo que nos falta por avanzar.
 
 A qué los invito hoy:
 
-Vamos a reformar profundamente la educación preescolar, porque es en esos primeros años
-donde se gestan las primeras exclusiones y desigualdades.
+Vamos a reformar profundamente la educación preescolar, porque es en esos primeros años donde se gestan las primeras exclusiones y desigualdades.
 
-Ustedes ya lo saben: en el marco de las 36 medidas estamos habilitando nuevas salas cunas en
-todo el país. A la fecha hemos inaugurado 113 y llegaremos a la meta de 200. A fin de año
-habremos sobrepasado la meta de 800.
+Ustedes ya lo saben: en el marco de las 36 medidas estamos habilitando nuevas salas cunas en todo el país. A la fecha hemos inaugurado 113 y llegaremos a la meta de 200. A fin de año habremos sobrepasado la meta de 800.
 
-En los próximos cuatro años implantaremos un sistema de atención preescolar para niños de entre
-uno y tres años que entregará atención a todos los niños de hogares pertenecientes al 40 por
-ciento más pobre de la población.
+En los próximos cuatro años implantaremos un sistema de atención preescolar para niños de entre uno y tres años que entregará atención a todos los niños de hogares pertenecientes al 40 por ciento más pobre de la población.
 
-Nuestra meta es universalizar el kinder y el pre kinder. En estos primeros días de gobierno ya
-hemos ampliado en 20 mil nuevos cupos el pre kinder. Nunca más habrá un niño en 1° básico que
-pise por primera vez una escuela.
+Nuestra meta es universalizar el kinder y el pre kinder. En estos primeros días de gobierno ya hemos ampliado en 20 mil nuevos cupos el pre kinder. Nunca más habrá un niño en 1° básico que pise por primera vez una escuela.
 
-No me olvido, por supuesto, de la educación general, básica y media. ¿Qué es lo que más nos
-preocupa? Calidad, calidad y más calidad para todos nuestros niños.
+No me olvido, por supuesto, de la educación general, básica y media. ¿Qué es lo que más nos preocupa? Calidad, calidad y más calidad para todos nuestros niños.
 
-Sin docentes realmente capacitados para formar niños de orígenes diversos no es posible avanzar
-en calidad. Para eso estamos trabajando con las universidades, para establecer lineamientos
-comunes en la formación de los docentes, y exigiendo la acreditación de los centros formadores de
-profesores.
+Sin docentes realmente capacitados para formar niños de orígenes diversos no es posible avanzar en calidad. Para eso estamos trabajando con las universidades, para establecer lineamientos comunes en la formación de los docentes, y exigiendo la acreditación de los centros formadores de profesores.
 
-Otro punto fundamental: generar oferta educativa de calidad pasa por incrementar los recursos
-disponibles para educar a los niños que tienen menos.
+Otro punto fundamental: generar oferta educativa de calidad pasa por incrementar los recursos disponibles para educar a los niños que tienen menos.
 
-Lo digo con toda claridad: más recursos para los niños de familias con menores ingresos, sí; pero
-también más rendimiento de las escuelas donde esos niños asisten. Por eso pido a este Congreso
-que apruebe prontamente la ley de subvención preferencial.
+Lo digo con toda claridad: más recursos para los niños de familias con menores ingresos, sí; pero también más rendimiento de las escuelas donde esos niños asisten. Por eso pido a este Congreso que apruebe prontamente la ley de subvención preferencial.
 
-En la educación pública redoblaremos el trabajo con nuestros alcaldes, para que los municipios
-gestionen con eficacia y eficiencia a sus escuelas. Apoyaremos a 100 escuelas prioritarias en el
-país, en las zonas con mayor población, y a 50 liceos prioritarios en todo Chile. De lo que se trata
-es que reciban el apoyo experto de universidades e instituciones prestigiosas para tener escuelas
-y liceos de excelencia a lo largo del país. Así, pondremos al alcance de los niños y jóvenes de los
-sectores vulnerables de Chile la misma calidad de que gozan los alumnos del mejor colegio
-privado.
+En la educación pública redoblaremos el trabajo con nuestros alcaldes, para que los municipios gestionen con eficacia y eficiencia a sus escuelas. Apoyaremos a 100 escuelas prioritarias en el país, en las zonas con mayor población, y a 50 liceos prioritarios en todo Chile. De lo que se trata es que reciban el apoyo experto de universidades e instituciones prestigiosas para tener escuelas y liceos de excelencia a lo largo del país. Así, pondremos al alcance de los niños y jóvenes de los sectores vulnerables de Chile la misma calidad de que gozan los alumnos del mejor colegio privado.
 
-Tenemos otra asignatura pendiente. En 1990 la mitad de los chilenos mayores de edad no había
-completado su educación media. El Presidente Lagos inició el programa Chile Califica. En mi
-gobierno, más de 400 mil chilenos podrán completar sus estudios básicos y medios, acompañando
-este esfuerzo con la formación en oficios para los adultos.
+Tenemos otra asignatura pendiente. En 1990 la mitad de los chilenos mayores de edad no había completado su educación media. El Presidente Lagos inició el programa Chile Califica. En mi gobierno, más de 400 mil chilenos podrán completar sus estudios básicos y medios, acompañando este esfuerzo con la formación en oficios para los adultos.
 
-En educación superior también tenemos una buena base. Hoy, en Chile, el 70 por ciento de los
-estudiantes viene de familias en que nunca nadie antes fue a la universidad.
+En educación superior también tenemos una buena base. Hoy, en Chile, el 70 por ciento de los estudiantes viene de familias en que nunca nadie antes fue a la universidad.
 
-En estos 70 días de gobierno ya estamos superando los 170 mil estudiantes con beneficios. Pero
-tenemos que ir más allá. De lo que se trata ahora es de implementar un Sistema Nacional de
-Becas que permita ofrecer programas integrales de beneficios: becas de aranceles, pero también
-de alimentación, de movilización y otras formas de ayuda. En una línea: un apoyo integral para
-que los jóvenes puedan finalizar sus estudios superiores.
+En estos 70 días de gobierno ya estamos superando los 170 mil estudiantes con beneficios. Pero tenemos que ir más allá. De lo que se trata ahora es de implementar un Sistema Nacional de Becas que permita ofrecer programas integrales de beneficios: becas de aranceles, pero también de alimentación, de movilización y otras formas de ayuda. En una línea: un apoyo integral para que los jóvenes puedan finalizar sus estudios superiores.
 
-Porque no quiero un Chile de compartimentos estancos, sin movilidad social. Quiero un país que
-premie el esfuerzo y el mérito.
+Porque no quiero un Chile de compartimentos estancos, sin movilidad social. Quiero un país que premie el esfuerzo y el mérito.
 
 En esta gran transformación, amigas y amigos, nos jugamos nuestro futuro como país.
 
-3. Innovación para el desarrollo
 
-Chile es hoy un país de ingresos medios. Si seguimos haciendo las cosas bien, pronto podremos
-alcanzar los ingresos de un país desarrollado. Para eso debemos crecer, y crecer de modo
-sostenido.
+### 3. Innovación para el desarrollo
 
-La productividad es clave para el crecimiento económico moderno. Subirla a veces implica adoptar
-o adaptar un nuevo proceso productivo, por básico que sea; a veces organizarnos mejor para
-perder menos tiempo o usar más eficientemente máquinas y equipos. Para ello la regulación
-estatal debe ser una ayuda, no una traba. Por eso me he comprometido a reducir trámites
-innecesarios.
+Chile es hoy un país de ingresos medios. Si seguimos haciendo las cosas bien, pronto podremos alcanzar los ingresos de un país desarrollado. Para eso debemos crecer, y crecer de modo sostenido.
 
-Subir la productividad también implica innovar. Introducir nuevos productos y añadir tecnología a
-nuestras exportaciones. Quiero un país en que no sólo exportemos cobre, sino software para la
-minería; no sólo fruta, sino técnicas para empacar y preservar los alimentos; no sólo salmones,
-sino vacunas para prevenir las enfermedades de los peces.
+La productividad es clave para el crecimiento económico moderno. Subirla a veces implica adoptar o adaptar un nuevo proceso productivo, por básico que sea; a veces organizarnos mejor para perder menos tiempo o usar más eficientemente máquinas y equipos. Para ello la regulación estatal debe ser una ayuda, no una traba. Por eso me he comprometido a reducir trámites innecesarios.
 
-¿Cómo se logra esto? Sobre este punto se han librado muchas batallas ideológicas y no siempre
-fructíferas. En las décadas de los 50 y los 60 algunos argumentaban que sólo la planificación
-centralizada redundaría en mayor productividad y crecimiento. En décadas posteriores otros
-sostenían que bastaba con dejar funcionar al mercado para que los privados aprovecharan cada
-oportunidad de innovación. Hoy, ambos enfoques extremos están desacreditados.
+Subir la productividad también implica innovar. Introducir nuevos productos y añadir tecnología a nuestras exportaciones. Quiero un país en que no sólo exportemos cobre, sino software para la minería; no sólo fruta, sino técnicas para empacar y preservar los alimentos; no sólo salmones, sino vacunas para prevenir las enfermedades de los peces.
 
-Nadie duda que son las personas, respondiendo a incentivos del mercado, las que llevan a cabo el
-grueso de la innovación productiva. Pero así como el mercado tiene grandes logros, también a
-veces falla. Puede ocurrir que los incentivos privados no sean suficientes para que se concrete la
-inversión socialmente deseable, o que esa inversión no ocurra por una falta de coordinación entre
-los privados.
+¿Cómo se logra esto? Sobre este punto se han librado muchas batallas ideológicas y no siempre fructíferas. En las décadas de los 50 y los 60 algunos argumentaban que sólo la planificación centralizada redundaría en mayor productividad y crecimiento. En décadas posteriores otros sostenían que bastaba con dejar funcionar al mercado para que los privados aprovecharan cada oportunidad de innovación. Hoy, ambos enfoques extremos están desacreditados.
 
-Por eso existe gran consenso hoy en que los países necesitan una política de innovación y
-desarrollo. Una política activa, de colaboración público-privada, en que participen las empresas,
-las universidades, los centros de investigación y las agencias estatales a través de estímulos
-focalizados. No basta con otorgar beneficios tributarios, como sostienen algunos.
+Nadie duda que son las personas, respondiendo a incentivos del mercado, las que llevan a cabo el grueso de la innovación productiva. Pero así como el mercado tiene grandes logros, también a veces falla. Puede ocurrir que los incentivos privados no sean suficientes para que se concrete la inversión socialmente deseable, o que esa inversión no ocurra por una falta de coordinación entre los privados.
 
-Esta tarea conduce a construir lo que la Organización para la Cooperación y el Desarrollo
-Económicos –el club de los países ricos– llama un Sistema Nacional de Innovación. Hoy en Chile
-gastamos muy poco en innovación: apenas el 0,6 por ciento del producto. Y dos tercios de este
-gasto lo hace el gobierno, mientras que en las naciones exitosas la inmensa mayoría de los
-dineros para este fin provienen de la empresa privada.
+Por eso existe gran consenso hoy en que los países necesitan una política de innovación y desarrollo. Una política activa, de colaboración público-privada, en que participen las empresas, las universidades, los centros de investigación y las agencias estatales a través de estímulos focalizados. No basta con otorgar beneficios tributarios, como sostienen algunos.
 
-Aquí Chile sin duda que tiene una tarea pendiente. Hoy ratifico el compromiso de mi gobierno de
-aplicar una nueva política de desarrollo orientada al conocimiento y la innovación.
+Esta tarea conduce a construir lo que la Organización para la Cooperación y el Desarrollo Económicos –el club de los países ricos– llama un Sistema Nacional de Innovación. Hoy en Chile gastamos muy poco en innovación: apenas el 0,6 por ciento del producto. Y dos tercios de este gasto lo hace el gobierno, mientras que en las naciones exitosas la inmensa mayoría de los dineros para este fin provienen de la empresa privada.
 
-En agosto de 2005 entró al Congreso Nacional una iniciativa legal que crea el Fondo de Innovación
-para la Competitividad. Este proyecto deposita en un Consejo de Innovación para la
-Competitividad la responsabilidad de formular y sugerir a la Presidenta de la República una
-estrategia de largo plazo y de proponer anualmente los usos del fondo.
+Aquí Chile sin duda que tiene una tarea pendiente. Hoy ratifico el compromiso de mi gobierno de aplicar una nueva política de desarrollo orientada al conocimiento y la innovación.
 
-Los dineros recaudados por el Impuesto Específico a la Minería serán la fuente principal de
-financiamiento de este esfuerzo de innovación. Pero no se trata de atar este gasto público a los
-vaivenes de la economía internacional. Por eso, el aporte anual se fijará con un criterio del precio
-de largo plazo del cobre, destinándose los excedentes –si existieran– a una cuenta especial para
-financiar un esfuerzo sostenido de innovación.
-El sector público aumentará en un 50 por ciento su gasto en investigación y desarrollo y nuestra
-meta es que para el Bicentenario el país destine más del uno por ciento del Producto Interno Bruto
-a investigación y desarrollo, y que una parte muy importante de este gasto venga de las
-empresas, tal como ocurre en los países avanzados.
+En agosto de 2005 entró al Congreso Nacional una iniciativa legal que crea el Fondo de Innovación para la Competitividad. Este proyecto deposita en un Consejo de Innovación para la Competitividad la responsabilidad de formular y sugerir a la Presidenta de la República una estrategia de largo plazo y de proponer anualmente los usos del fondo.
 
-Modernizaremos las instituciones para ponerlas a la altura de este reto. Chile tiene hoy más de 30
-programas o agencias públicas de fomento productivo, muchos de ellos bien evaluados. Pero
-existe poca coordinación, duplicación de funciones y una presencia insuficiente en regiones.
+Los dineros recaudados por el Impuesto Específico a la Minería serán la fuente principal de financiamiento de este esfuerzo de innovación. Pero no se trata de atar este gasto público a los vaivenes de la economía internacional. Por eso, el aporte anual se fijará con un criterio del precio de largo plazo del cobre, destinándose los excedentes –si existieran– a una cuenta especial para financiar un esfuerzo sostenido de innovación.
 
-En cumplimiento del Plan de los 100 días, ya hemos creado el marco legal para instalar Agencias
-Regionales de Desarrollo Productivo. Estas agencias fijarán prioridades y coordinarán los esfuerzos
-de todos los programas públicos de fomento que operan en cada una de las regiones de Chile. Y
-queremos además avanzar hacia oficinas provinciales de fomento productivo.
+El sector público aumentará en un 50 por ciento su gasto en investigación y desarrollo y nuestra meta es que para el Bicentenario el país destine más del uno por ciento del Producto Interno Bruto a investigación y desarrollo, y que una parte muy importante de este gasto venga de las empresas, tal como ocurre en los países avanzados.
 
-También flexibilizaremos y ampliaremos los mecanismos de la CORFO para apoyar a proyectos
-individuales de innovación, de manera que sean más accesibles a más empresas, especialmente a
-las pequeñas.
+Modernizaremos las instituciones para ponerlas a la altura de este reto. Chile tiene hoy más de 30 programas o agencias públicas de fomento productivo, muchos de ellos bien evaluados. Pero existe poca coordinación, duplicación de funciones y una presencia insuficiente en regiones.
 
-Hoy existen 627 mil pequeñas y microempresas formales, que emplean al 70 por ciento de la
-fuerza laboral. Pero este sector produce solamente un 17 por ciento de las ventas y menos del dos
-por ciento de las exportaciones. Estos son niveles muy inferiores a los de los países desarrollados.
-Por eso reitero, una vez más, el compromiso de mi gobierno para apoyar el crecimiento y
-modernización de las pequeñas y medianas empresas.
+En cumplimiento del Plan de los 100 días, ya hemos creado el marco legal para instalar Agencias Regionales de Desarrollo Productivo. Estas agencias fijarán prioridades y coordinarán los esfuerzos de todos los programas públicos de fomento que operan en cada una de las regiones de Chile. Y queremos además avanzar hacia oficinas provinciales de fomento productivo.
 
-El viernes recién pasado se firmó el decreto que establece una ventanilla digital única, a través de
-la cual las pequeñas empresas pueden hacer todos sus trámites. ¡Queremos emprendedores
-dedicados a mejorar sus productos, no a acumular papeles y llenar formularios!
+También flexibilizaremos y ampliaremos los mecanismos de la CORFO para apoyar a proyectos individuales de innovación, de manera que sean más accesibles a más empresas, especialmente a las pequeñas.
 
-En materia de financiamiento, BancoEstado mantendrá un sostenido crecimiento. En el 2008
-contará con una cartera de 300 mil clientes microempresarios. Y perfeccionaremos el Impuesto de
-Timbre y Estampilla, para así tener más competencia y un menor costo del financiamiento.
+Hoy existen 627 mil pequeñas y microempresas formales, que emplean al 70 por ciento de la fuerza laboral. Pero este sector produce solamente un 17 por ciento de las ventas y menos del dos por ciento de las exportaciones. Estos son niveles muy inferiores a los de los países desarrollados. Por eso reitero, una vez más, el compromiso de mi gobierno para apoyar el crecimiento y modernización de las pequeñas y medianas empresas.
 
-Durante el mes de junio enviaré al Congreso el proyecto de ley que establece un sistema
-simplificado de tributación para micro y pequeñas empresas, tal como lo contempla la medida 22.
-Este nuevo sistema les permitirá cumplir con sus obligaciones tributarias expeditamente, pero a la
-vez aumentando su liquidez y generando incentivos a la inversión.
+El viernes recién pasado se firmó el decreto que establece una ventanilla digital única, a través de la cual las pequeñas empresas pueden hacer todos sus trámites. ¡Queremos emprendedores dedicados a mejorar sus productos, no a acumular papeles y llenar formularios!
 
-Los empresarios que se acojan a este sistema podrán realizar la declaración y pago del impuesto
-de primera categoría por Internet, del mismo modo en que muchas personas naturales hacemos
-hoy nuestras declaraciones de impuesto a la renta. Así las pequeñas empresas podrán ahorrar
-costos y tiempo.
+En materia de financiamiento, BancoEstado mantendrá un sostenido crecimiento. En el 2008 contará con una cartera de 300 mil clientes microempresarios. Y perfeccionaremos el Impuesto de Timbre y Estampilla, para así tener más competencia y un menor costo del financiamiento.
 
-Redoblaremos los esfuerzos para hacer de Chile una plataforma exportadora de servicios,
-especialmente a América Latina. Nuestros logros en exportación de bienes ahora los debemos
-complementar exportando servicios, ya sean de ingeniería y construcción, financieros o
-informáticos, transportes o telecomunicaciones.
+Durante el mes de junio enviaré al Congreso el proyecto de ley que establece un sistema simplificado de tributación para micro y pequeñas empresas, tal como lo contempla la medida 22. Este nuevo sistema les permitirá cumplir con sus obligaciones tributarias expeditamente, pero a la vez aumentando su liquidez y generando incentivos a la inversión.
 
-El acceso a las tecnologías de la información será una prioridad. Ellas son la infraestructura
-invisible de esta nueva época. Así como la electricidad y el agua potable fueron los servicios
-básicos del siglo XX, mi gobierno se preocupará de garantizar el acceso universal a la sociedad de
-la información. Al 2010, diez mil escuelas y liceos estarán incorporados a la Red Enlaces. Además,
-alfabetizaremos digitalmente a un millón de ciudadanos.
+Los empresarios que se acojan a este sistema podrán realizar la declaración y pago del impuesto de primera categoría por Internet, del mismo modo en que muchas personas naturales hacemos hoy nuestras declaraciones de impuesto a la renta. Así las pequeñas empresas podrán ahorrar costos y tiempo.
 
-En resumen: durante los próximos cuatro años transformaremos la política de fomento productivo
-en Chile, creando un nuevo sistema nacional de innovación. En este sistema el Estado, el sector
-privado, las universidades y otras organizaciones no gubernamentales serán socios.
+Redoblaremos los esfuerzos para hacer de Chile una plataforma exportadora de servicios, especialmente a América Latina. Nuestros logros en exportación de bienes ahora los debemos complementar exportando servicios, ya sean de ingeniería y construcción, financieros o informáticos, transportes o telecomunicaciones.
 
-La transformación es indispensable: convertirnos en un país más innovador y productivo. Sólo así
-podemos aspirar a los estándares de vida de las naciones desarrolladas.
-4. Vivienda y ciudad
+El acceso a las tecnologías de la información será una prioridad. Ellas son la infraestructura invisible de esta nueva época. Así como la electricidad y el agua potable fueron los servicios básicos del siglo XX, mi gobierno se preocupará de garantizar el acceso universal a la sociedad de la información. Al 2010, diez mil escuelas y liceos estarán incorporados a la Red Enlaces. Además, alfabetizaremos digitalmente a un millón de ciudadanos.
 
-Queremos ciudades amables. Que la gente las sienta propias, respetuosas de su patrimonio.
-Nuestra política urbana se orienta hacia la calidad de vida y la equidad territorial.
+En resumen: durante los próximos cuatro años transformaremos la política de fomento productivo en Chile, creando un nuevo sistema nacional de innovación. En este sistema el Estado, el sector privado, las universidades y otras organizaciones no gubernamentales serán socios.
 
-Lo primero tiene que ver con la construcción de viviendas. Hemos construido más de un millón y
-medio de viviendas en los últimos 16 años. Ahora aplicaremos una estrategia que ponga en su
-centro la calidad de lo que se construye y revierta la segregación social.
+La transformación es indispensable: convertirnos en un país más innovador y productivo. Sólo así podemos aspirar a los estándares de vida de las naciones desarrolladas.
 
-¿Cómo lo haremos? Eliminaremos campamentos y ayudaremos a los allegados. Pondremos todo
-nuestro esfuerzo en reducir drásticamente el déficit de vivienda del 20 por ciento más pobre de la
-población. Este será un desafío principal de mi gobierno.
+### 4. Vivienda y ciudad
 
-Mejoraremos los estándares de calidad. ¡Queremos casas que no se lluevan en invierno, ni que
-tengan daños estructurales al cabo de un par de años! Vamos a fortalecer la legislación y la
-fiscalización para garantizar la calidad de lo que se construya.
+Queremos ciudades amables. Que la gente las sienta propias, respetuosas de su patrimonio. Nuestra política urbana se orienta hacia la calidad de vida y la equidad territorial.
 
-Aceleraremos los programas de reparación de viviendas. ¡Y aquellas casas que no pueden
-repararse, las demoleremos y construiremos otras nuevas! Eso es lo que merecen los ciudadanos.
-También aceleraremos las reparaciones de los inmuebles afectados por el terremoto en el Norte
-Grande.
+Lo primero tiene que ver con la construcción de viviendas. Hemos construido más de un millón y medio de viviendas en los últimos 16 años. Ahora aplicaremos una estrategia que ponga en su centro la calidad de lo que se construye y revierta la segregación social.
 
-Queremos mejores viviendas. Aumentaremos la superficie mínima de las viviendas nuevas. Y
-apoyaremos a las familias que quieran ampliar sus casas y departamentos. ¡Porque queremos
-garantizar condiciones dignas para todas las personas!
+¿Cómo lo haremos? Eliminaremos campamentos y ayudaremos a los allegados. Pondremos todo nuestro esfuerzo en reducir drásticamente el déficit de vivienda del 20 por ciento más pobre de la población. Este será un desafío principal de mi gobierno.
 
-Y lo más importante: mejoraremos el entorno en que vivimos los chilenos. En los últimos 16 años
-hemos estado abocados fundamentalmente a construir viviendas por el gran déficit que teníamos.
-Ahora nos centraremos en construir barrios. Queremos barrios seguros, iluminados, con áreas
-verdes y con espacios para el deporte y la vida al aire libre. Más plazas y más parques.
-Repararemos calles y veredas. Eliminaremos micro-vertederos y estimularemos los programas de
-limpieza y aseo. Los chilenos tenemos el derecho de vivir en vecindarios más acogedores.
+Mejoraremos los estándares de calidad. ¡Queremos casas que no se lluevan en invierno, ni que tengan daños estructurales al cabo de un par de años! Vamos a fortalecer la legislación y la fiscalización para garantizar la calidad de lo que se construya.
 
-Y de ningún modo me olvido de la clase media. He instruido a la Ministra de Vivienda para que
-perfeccione el subsidio habitacional dirigido a quienes, estando sobre la línea de la pobreza, no
-pueden obtener el crédito hipotecario. También vamos a incentivar la adquisición de viviendas
-usadas, como una manera de diversificar la oferta inmobiliaria hacia la clase media.
+Aceleraremos los programas de reparación de viviendas. ¡Y aquellas casas que no pueden repararse, las demoleremos y construiremos otras nuevas! Eso es lo que merecen los ciudadanos. También aceleraremos las reparaciones de los inmuebles afectados por el terremoto en el Norte Grande.
 
-Recuperaremos los barrios consolidados que con el paso del tiempo se han ido deteriorando. Es
-una de las 36 medidas. Se trata de ir abordando, con creatividad y participación activa de los
-vecinos, las acciones necesarias para mejorar las condiciones de 200 barrios en todo Chile.
+Queremos mejores viviendas. Aumentaremos la superficie mínima de las viviendas nuevas. Y apoyaremos a las familias que quieran ampliar sus casas y departamentos. ¡Porque queremos garantizar condiciones dignas para todas las personas!
 
-Esta tarea irá de la mano con la política de recuperación de barrios patrimoniales. Ya lo dije aquí
-mismo, hace unos días atrás en Valparaíso: tenemos la responsabilidad con Chile y el mundo de
-cuidar nuestro patrimonio, nuestra identidad. Para ello destinaremos, tanto los subsidios de
-renovación urbana, como los proyectos de recuperación patrimonial.
+Y lo más importante: mejoraremos el entorno en que vivimos los chilenos. En los últimos 16 años hemos estado abocados fundamentalmente a construir viviendas por el gran déficit que teníamos.
 
-Queremos ciudades bellas, amables, equitativas. Esto supone una política urbana moderna, con
-sentido del territorio. Supone fortalecer la legislación e incorporar las variables ambientales y de
-integración social en los instrumentos de planificación territorial.
+Ahora nos centraremos en construir barrios. Queremos barrios seguros, iluminados, con áreas verdes y con espacios para el deporte y la vida al aire libre. Más plazas y más parques.
+
+Repararemos calles y veredas. Eliminaremos micro-vertederos y estimularemos los programas de limpieza y aseo. Los chilenos tenemos el derecho de vivir en vecindarios más acogedores.
+
+Y de ningún modo me olvido de la clase media. He instruido a la Ministra de Vivienda para que perfeccione el subsidio habitacional dirigido a quienes, estando sobre la línea de la pobreza, no pueden obtener el crédito hipotecario. También vamos a incentivar la adquisición de viviendas usadas, como una manera de diversificar la oferta inmobiliaria hacia la clase media.
+
+Recuperaremos los barrios consolidados que con el paso del tiempo se han ido deteriorando. Es una de las 36 medidas. Se trata de ir abordando, con creatividad y participación activa de los vecinos, las acciones necesarias para mejorar las condiciones de 200 barrios en todo Chile.
+
+Esta tarea irá de la mano con la política de recuperación de barrios patrimoniales. Ya lo dije aquí mismo, hace unos días atrás en Valparaíso: tenemos la responsabilidad con Chile y el mundo de cuidar nuestro patrimonio, nuestra identidad. Para ello destinaremos, tanto los subsidios de renovación urbana, como los proyectos de recuperación patrimonial.
+
+Queremos ciudades bellas, amables, equitativas. Esto supone una política urbana moderna, con sentido del territorio. Supone fortalecer la legislación e incorporar las variables ambientales y de integración social en los instrumentos de planificación territorial.
 
 Chilenas y chilenos:
 
-Cuando cumplamos 200 años como nación independiente, el año 2010, estas cuatro
-transformaciones habrán sentado las bases de la sociedad moderna e inclusiva que queremos
-seguir construyendo.
+Cuando cumplamos 200 años como nación independiente, el año 2010, estas cuatro transformaciones habrán sentado las bases de la sociedad moderna e inclusiva que queremos seguir construyendo.
 
-Ese año 2010, al final de mi gobierno, los ciudadanos evaluarán si hemos cumplido con estas
-cuatro grandes metas.
+Ese año 2010, al final de mi gobierno, los ciudadanos evaluarán si hemos cumplido con estas cuatro grandes metas.
 
-Tenemos que trabajar mucho. Tenemos que trabajar mucho. Ese es mi llamado.
-El precio del cobre hoy constituye una oportunidad, pero también un desafío. La historia de
-América Latina muestra demasiados auges mal administrados que terminaron en crisis. Nuestro
-continente es abundante en petróleo, estaño, trigo, café. Pero ninguna de estas riquezas ha
-garantizado el desarrollo a las naciones que las poseen.
+Tenemos que trabajar mucho. Tenemos que trabajar mucho. Ese es mi llamado. 
 
-En Chile, el auge del salitre financió hace un siglo una prosperidad pasajera, pero no sentó las
-bases del despegue económico sostenido que el país anhelaba. Cuando el precio cayó y las
-exportaciones colapsaron, Chile entró en la depresión económica más profunda de nuestra
-historia.
+El precio del cobre hoy constituye una oportunidad, pero también un desafío. La historia de América Latina muestra demasiados auges mal administrados que terminaron en crisis. Nuestro continente es abundante en petróleo, estaño, trigo, café. Pero ninguna de estas riquezas ha garantizado el desarrollo a las naciones que las poseen.
 
-La situación, por tanto, produce entusiasmo pero requiere también prudencia. Hemos visto como
-el precio del cobre sube y después cae, casi diez por ciento en la semana pasada. No nos
-engañemos entonces: estos altos precios del cobre son con seguridad transitorios. Para que
-nuestra prosperidad no sea también transitoria debemos administrar muy bien estos mayores
-ingresos, con prudencia y sabiduría. Ese es nuestro desafío.
+En Chile, el auge del salitre financió hace un siglo una prosperidad pasajera, pero no sentó las bases del despegue económico sostenido que el país anhelaba. Cuando el precio cayó y las exportaciones colapsaron, Chile entró en la depresión económica más profunda de nuestra historia.
 
-Pero, actuar con prudencia ¿qué significa? Actuar con prudencia significa gastar una parte de los
-mayores ingresos del cobre y ahorrar otra parte.
+La situación, por tanto, produce entusiasmo pero requiere también prudencia. Hemos visto como el precio del cobre sube y después cae, casi diez por ciento en la semana pasada. No nos engañemos entonces: estos altos precios del cobre son con seguridad transitorios. Para que nuestra prosperidad no sea también transitoria debemos administrar muy bien estos mayores ingresos, con prudencia y sabiduría. Ese es nuestro desafío.
 
-Chile tiene la fortuna de contar con instituciones y reglas claras que guían la política fiscal, y
-vamos a aplicar esas reglas con rigor. Reitero hoy el compromiso de mi gobierno con la meta del
-superávit estructural del uno por ciento, tal como lo afirmé en la campaña y en mi programa de
-gobierno.
+Pero, actuar con prudencia ¿qué significa? Actuar con prudencia significa gastar una parte de los mayores ingresos del cobre y ahorrar otra parte.
 
-Siempre dije que financiaríamos nuestro amplio programa de protección social con el mayor precio
-del cobre de largo plazo, y así lo haremos. En el presupuesto del 2007 y de los años posteriores de
-mi gobierno gastaremos aquella parte de nuestros mayores ingresos que sea permanente y no
-pasajera. Porque no se trata de conceder mayores beneficios a las personas para quitárselos más
-adelante cuando el precio del cobre caiga. Al contrario: pondremos en práctica una política social
-ambiciosa pero, al mismo tiempo, sustentable. Y con estos mayores recursos de largo plazo
-ayudaremos también a financiar las cuatro transformaciones que he planteado hoy al país.
+Chile tiene la fortuna de contar con instituciones y reglas claras que guían la política fiscal, y vamos a aplicar esas reglas con rigor. Reitero hoy el compromiso de mi gobierno con la meta del superávit estructural del uno por ciento, tal como lo afirmé en la campaña y en mi programa de gobierno.
 
-El alto precio del cobre nos plantea también otro desafío: que el boom de los minerales no sea a
-costa de nuestras otras exportaciones. La apertura al mundo y la penetración de nuevos mercados
-con nuevos productos han sido los motores de nuestra modernización económica. En Chile, una
-estrategia de desarrollo es necesariamente una estrategia exportadora. Reitero hoy, también, mi
-compromiso con la competitividad internacional de nuestra economía.
+Siempre dije que financiaríamos nuestro amplio programa de protección social con el mayor precio del cobre de largo plazo, y así lo haremos. En el presupuesto del 2007 y de los años posteriores de mi gobierno gastaremos aquella parte de nuestros mayores ingresos que sea permanente y no pasajera. Porque no se trata de conceder mayores beneficios a las personas para quitárselos más adelante cuando el precio del cobre caiga. Al contrario: pondremos en práctica una política social ambiciosa pero, al mismo tiempo, sustentable. Y con estos mayores recursos de largo plazo ayudaremos también a financiar las cuatro transformaciones que he planteado hoy al país.
 
-Hemos adoptado y seguiremos adoptando medidas para preservar esa competitividad. Cuando los
-mayores recursos del cobre entran a Chile y se gastan localmente, se presiona el valor del dólar.
-Esa es una razón más para ahorrar parte de esos ingresos y para también ahorrarlos en el
-extranjero.
+El alto precio del cobre nos plantea también otro desafío: que el boom de los minerales no sea a costa de nuestras otras exportaciones. La apertura al mundo y la penetración de nuevos mercados con nuevos productos han sido los motores de nuestra modernización económica. En Chile, una estrategia de desarrollo es necesariamente una estrategia exportadora. Reitero hoy, también, mi compromiso con la competitividad internacional de nuestra economía.
 
-Por eso mi gobierno, en el proyecto de ley de Responsabilidad Fiscal, ha propuesto al Congreso la
-creación de dos fondos, uno de Garantía de Pensiones y otro de Estabilización Económica y Social.
-En estos fondos vamos a depositar los ahorros de este auge pasajero.
+Hemos adoptado y seguiremos adoptando medidas para preservar esa competitividad. Cuando los mayores recursos del cobre entran a Chile y se gastan localmente, se presiona el valor del dólar. Esa es una razón más para ahorrar parte de esos ingresos y para también ahorrarlos en el extranjero.
 
-Así podremos garantizar el cumplimiento de nuestros compromisos sociales en el futuro, ayudando
-también a la competitividad de nuestras exportaciones. Y lo que es muy importante: estas
-inversiones se harán con toda la seguridad y transparencia que los ciudadanos merecen. Por todas
-estas razones, hago un llamado a los parlamentarios a aprobar a la brevedad este proyecto de ley.
+Por eso mi gobierno, en el proyecto de ley de Responsabilidad Fiscal, ha propuesto al Congreso la creación de dos fondos, uno de Garantía de Pensiones y otro de Estabilización Económica y Social. En estos fondos vamos a depositar los ahorros de este auge pasajero.
 
-El ahorro trae beneficios en el futuro, pero también ganancias en el presente. Precisamente
-porque hemos sido prudentes, hoy el fisco tiene activos financieros que le reportan intereses. En
-este año 2006, siempre dentro del marco de superávit estructural, vamos a gastar estos ingresos
-extra en proyectos de directo beneficio social.
+Así podremos garantizar el cumplimiento de nuestros compromisos sociales en el futuro, ayudando también a la competitividad de nuestras exportaciones. Y lo que es muy importante: estas inversiones se harán con toda la seguridad y transparencia que los ciudadanos merecen. Por todas estas razones, hago un llamado a los parlamentarios a aprobar a la brevedad este proyecto de ley.
 
-Con estos recursos compraremos nuevos equipos para los hospitales de regiones. La inversión en
-equipamiento hospitalario subirá un 83 por ciento este año. Tendremos nuevas salas de
-operaciones totalmente equipadas, incluyendo nuevas máquinas de anestesia. Así reduciremos los
-tiempos de espera para una operación. Adquiriremos 16 nuevos mamógrafos, cubriendo en un 100
-por ciento las necesidades de exámenes a las mamas, para así disminuir el riesgo de cáncer.
-También compraremos 150 nuevas ambulancias, distribuidas por todo el país. Y clínicas dentales
-móviles, que nos permitan llegar a los lugares más apartados, acercando la salud dental a muchas
-chilenas y chilenos de bajos recursos.
+El ahorro trae beneficios en el futuro, pero también ganancias en el presente. Precisamente porque hemos sido prudentes, hoy el fisco tiene activos financieros que le reportan intereses. En este año 2006, siempre dentro del marco de superávit estructural, vamos a gastar estos ingresos extra en proyectos de directo beneficio social.
 
-Y porque queremos barrios más seguros, adquiriremos 280 nuevos retenes móviles para las
-comunas en más alto riesgo. También equiparemos a las unidades investigativas, para apoyar
-mejor a las fiscalías creadas por la Reforma Procesal Penal.
+Con estos recursos compraremos nuevos equipos para los hospitales de regiones. La inversión en equipamiento hospitalario subirá un 83 por ciento este año. Tendremos nuevas salas de operaciones totalmente equipadas, incluyendo nuevas máquinas de anestesia. Así reduciremos los tiempos de espera para una operación. Adquiriremos 16 nuevos mamógrafos, cubriendo en un 100 por ciento las necesidades de exámenes a las mamas, para así disminuir el riesgo de cáncer.
 
-Y para mejorar el control policial del contrabando y del narcotráfico, potenciaremos el Plan Vigía
-comprando un vehículo aéreo para Carabineros, dotado de sensores infrarrojos y cámaras de
-video. ¡Queremos fronteras seguras, libres de narcotraficantes!
+También compraremos 150 nuevas ambulancias, distribuidas por todo el país. Y clínicas dentales móviles, que nos permitan llegar a los lugares más apartados, acercando la salud dental a muchas chilenas y chilenos de bajos recursos.
 
-También iremos en apoyo de nuestra agricultura, adquiriendo maquinarias y tecnologías de riego
-de última generación para que pequeños productores campesinos y agricultores medianos de maíz
-en la VI Región y de arroz en la VII Región. (Respondiendo a aplausos: Esos son los senadores de
-la región claro, viene más, viene más). Desarrollaremos un programa para mejorar la ganadería
-bovina de los pequeños productores, principalmente de la IX y la X Región, y así integrarlos a la
-cadena de exportación. Son algunos ejemplos, vamos a hacer más cosas.
+Y porque queremos barrios más seguros, adquiriremos 280 nuevos retenes móviles para las comunas en más alto riesgo. También equiparemos a las unidades investigativas, para apoyar mejor a las fiscalías creadas por la Reforma Procesal Penal.
 
-Dotaremos a la Corporación Nacional Forestal de nuevos aviones: no queremos volver a presenciar
-cómo los incendios consumen nuestros bosques.
+Y para mejorar el control policial del contrabando y del narcotráfico, potenciaremos el Plan Vigía comprando un vehículo aéreo para Carabineros, dotado de sensores infrarrojos y cámaras de video. ¡Queremos fronteras seguras, libres de narcotraficantes!
 
-Beneficiaremos a los exportadores con dos medidas. Inyectaremos más recursos al Fondo de
-Garantía de Pequeños Empresarios que administra BancoEstado, lo que beneficiará a todos los
-emprendedores del país. Y también impulsaremos una ambiciosa campaña de imagen-país en
-conjunto con el sector privado.
+También iremos en apoyo de nuestra agricultura, adquiriendo maquinarias y tecnologías de riego de última generación para que pequeños productores campesinos y agricultores medianos de maíz en la VI Región y de arroz en la VII Región. (Respondiendo a aplausos: Esos son los senadores de la región claro, viene más, viene más).
 
-La educación no va a estar ausente de este esfuerzo adicional del año 2006: incrementaremos en
-un 50 por ciento el número de jóvenes que salen a estudiar al extranjero con la Beca Presidente
-de la República. Queremos más chilenas y chilenos educados en las mejores universidades del
-mundo que después vuelvan a nuestra patria a hacer su aporte al bien común.
+Desarrollaremos un programa para mejorar la ganadería bovina de los pequeños productores, principalmente de la IX y la X Región, y así integrarlos a la cadena de exportación. Son algunos ejemplos, vamos a hacer más cosas.
 
-Se trata de programas concretos para el 2006. Son programas en que el gasto se realiza en el
-extranjero, de modo de no afectar la competitividad, pero los beneficios serán percibidos por las
-personas en Chile.
+Dotaremos a la Corporación Nacional Forestal de nuevos aviones: no queremos volver a presenciar cómo los incendios consumen nuestros bosques.
 
-Hoy he planteado al país cuatro grandes transformaciones que acometeremos de aquí al 2010.
-Pero ahí no termina la labor de mi gobierno. También he identificado cuatro áreas en que
-concretaremos grandes avances. La primera es la protección social.
+Beneficiaremos a los exportadores con dos medidas. Inyectaremos más recursos al Fondo de Garantía de Pequeños Empresarios que administra BancoEstado, lo que beneficiará a todos los emprendedores del país. Y también impulsaremos una ambiciosa campaña de imagen-país en conjunto con el sector privado.
 
-1. Un Chile más seguro
+La educación no va a estar ausente de este esfuerzo adicional del año 2006: incrementaremos en un 50 por ciento el número de jóvenes que salen a estudiar al extranjero con la Beca Presidente de la República. Queremos más chilenas y chilenos educados en las mejores universidades del mundo que después vuelvan a nuestra patria a hacer su aporte al bien común.
 
-Un buen sistema de protección social acompaña a las personas a lo largo de su ciclo vital,
-protegiendo sus primeros pasos, asegurando el acceso a las oportunidades de educarse y trabajar,
-cubriendo los riesgos de enfermedad e invalidez y garantizando una vejez digna. Eso es lo que
-pretendemos lograr.
+Se trata de programas concretos para el 2006. Son programas en que el gasto se realiza en el extranjero, de modo de no afectar la competitividad, pero los beneficios serán percibidos por las personas en Chile.
 
-La construcción de este sistema –con sus expresiones en el empleo, educación, salud, vivienda y
-previsión– es un objetivo prioritario y articulador de mi gobierno. Gracias a los avances alcanzados
-por muchos años ésta es hoy una tarea posible.
+Hoy he planteado al país cuatro grandes transformaciones que acometeremos de aquí al 2010. Pero ahí no termina la labor de mi gobierno. También he identificado cuatro áreas en que concretaremos grandes avances. La primera es la protección social.
 
-Es un tremendo desafío de gestión, que requiere la reforma de varias políticas públicas. Vamos a
-comenzar por renovar la caracterización social de los hogares chilenos. La ficha CAS ha quedado
-obsoleta, por eso estamos diseñando la nueva Ficha de Protección Social.
+### 1. Un Chile más seguro
 
-No se puede seguir castigando los años de esfuerzo que permitieron a los chilenos adquirir bienes
-tan básicos como un televisor o un refrigerador, o acceder al sueño de la casa propia, ni mucho
-menos castigar logros educacionales. Al revés, se trata de premiar el esfuerzo. Con esta nueva
-ficha podremos focalizar aún mejor ciertas políticas sociales clave, como las pensiones
-asistenciales y los subsidios habitacionales.
-La seguridad en el empleo es otro de los pilares del Chile más seguro que vamos a construir.
-Queremos más empleo y de mejor calidad. Trabajo decente, como he dicho tantas veces.
+Un buen sistema de protección social acompaña a las personas a lo largo de su ciclo vital, protegiendo sus primeros pasos, asegurando el acceso a las oportunidades de educarse y trabajar, cubriendo los riesgos de enfermedad e invalidez y garantizando una vejez digna. Eso es lo que pretendemos lograr.
 
-Esta semana hemos dado un paso para mejorar las condiciones de trabajo de muchas chilenas y
-chilenos. Hemos logrado un importante acuerdo con todos los sectores políticos respecto del
-proyecto de ley de subcontratación. Tendremos una ley que evite abusos sin afectar el empleo o el
-funcionamiento de las pequeñas empresas.
+La construcción de este sistema –con sus expresiones en el empleo, educación, salud, vivienda y previsión– es un objetivo prioritario y articulador de mi gobierno. Gracias a los avances alcanzados por muchos años ésta es hoy una tarea posible.
 
-Pero este no es sólo un asunto legal. Quiero apelar a la responsabilidad social de toda persona que
-contrate a alguien, para que seamos capaces de colocarnos en el papel del trabajador y pensar
-que todo ser humano merece un trato digno. Por eso digo que el trabajo decente es un imperativo
-no sólo legal, sino también moral.
+Es un tremendo desafío de gestión, que requiere la reforma de varias políticas públicas. Vamos a comenzar por renovar la caracterización social de los hogares chilenos. La ficha CAS ha quedado obsoleta, por eso estamos diseñando la nueva Ficha de Protección Social.
 
-También queremos que más chilenos, especialmente jóvenes y mujeres, puedan tener acceso al
-mundo del trabajo.
+No se puede seguir castigando los años de esfuerzo que permitieron a los chilenos adquirir bienes tan básicos como un televisor o un refrigerador, o acceder al sueño de la casa propia, ni mucho menos castigar logros educacionales. Al revés, se trata de premiar el esfuerzo. Con esta nueva ficha podremos focalizar aún mejor ciertas políticas sociales clave, como las pensiones asistenciales y los subsidios habitacionales.
 
-Hace pocos días envié un proyecto de ley al Congreso para aumentar los beneficios del contrato de
-aprendizaje para jóvenes, incrementando el subsidio de un 40 a un 50 por ciento del sueldo
-mínimo, y aumentando la edad para acceder a este programa de 21 a 25 años, como estaba
-contemplado en una de las 36 medidas. También he dispuesto aumentar los recursos disponibles
-para este subsidio. Y espero que el Congreso Nacional apruebe prontamente esta medida, que va
-a ir en beneficio de muchos jóvenes.
+La seguridad en el empleo es otro de los pilares del Chile más seguro que vamos a construir. Queremos más empleo y de mejor calidad. Trabajo decente, como he dicho tantas veces.
 
-El Consejo de Reforma Previsional se encuentra estudiando otra de las propuestas que hicimos al
-país en el Plan de los 100 días y que se materializará, sin duda, en un proyecto de ley. Me refiero
-al subsidio que pretendemos entregar a las cotizaciones previsionales de los jóvenes de menores
-ingresos.
+Esta semana hemos dado un paso para mejorar las condiciones de trabajo de muchas chilenas y chilenos. Hemos logrado un importante acuerdo con todos los sectores políticos respecto del proyecto de ley de subcontratación. Tendremos una ley que evite abusos sin afectar el empleo o el funcionamiento de las pequeñas empresas.
 
-Porque no queremos promover cualquier tipo de empleo. Queremos jóvenes con contrato, que
-aprendan, que se integren a la sociedad.
+Pero este no es sólo un asunto legal. Quiero apelar a la responsabilidad social de toda persona que contrate a alguien, para que seamos capaces de colocarnos en el papel del trabajador y pensar que todo ser humano merece un trato digno. Por eso digo que el trabajo decente es un imperativo no sólo legal, sino también moral.
 
-Para las mujeres la situación es similarmente desigual. Sólo el 37 por ciento tiene un empleo fuera
-de casa, y todos sabemos lo mucho que además trabajamos en la casa. En otros países de
-América Latina esta cifra se acerca al 50 por ciento y en Europa al 80 por ciento.
+También queremos que más chilenos, especialmente jóvenes y mujeres, puedan tener acceso al mundo del trabajo.
 
-El Informe de Competitividad del Foro Económico Mundial sitúa muy bien a Chile en varias
-categorías. Pero en las tres categorías que evalúa el mercado laboral femenino, Chile aparece en
-el puesto 96 entre 104 naciones.
+Hace pocos días envié un proyecto de ley al Congreso para aumentar los beneficios del contrato de aprendizaje para jóvenes, incrementando el subsidio de un 40 a un 50 por ciento del sueldo mínimo, y aumentando la edad para acceder a este programa de 21 a 25 años, como estaba contemplado en una de las 36 medidas. También he dispuesto aumentar los recursos disponibles para este subsidio. Y espero que el Congreso Nacional apruebe prontamente esta medida, que va a ir en beneficio de muchos jóvenes.
 
-Tenemos que hacer algo ya. Promoveremos la jornada parcial y el tele trabajo. Ampliaremos
-dramáticamente la cobertura pre escolar, para que las mujeres trabajen tranquilas, en la
-seguridad que sus hijos estarán bien atendidos.
+El Consejo de Reforma Previsional se encuentra estudiando otra de las propuestas que hicimos al país en el Plan de los 100 días y que se materializará, sin duda, en un proyecto de ley. Me refiero al subsidio que pretendemos entregar a las cotizaciones previsionales de los jóvenes de menores ingresos.
 
-Pero a veces el trabajo se acaba y por eso existe el Seguro de Cesantía, y esta fue una enorme
-herramienta de protección que creó el gobierno pasado, la cual queremos potenciar. Hoy son más
-de tres millones y medio los chilenos que están protegidos por este mecanismo en caso de perder
-el trabajo.
+Porque no queremos promover cualquier tipo de empleo. Queremos jóvenes con contrato, que aprendan, que se integren a la sociedad.
 
-Propondremos una reforma que amplíe sus beneficios y su cobertura. Diseñaremos incentivos para
-trabajadores independientes y por cuenta propia, a la vez que ampliaremos las condiciones de
-acceso al Fondo Solidario de Desempleo, de manera que los trabajadores que no cuentan con
-contrato indefinido, o aquellos que tienen menos de doce cotizaciones continuas puedan tener
-acceso a él.
+Para las mujeres la situación es similarmente desigual. Sólo el 37 por ciento tiene un empleo fuera de casa, y todos sabemos lo mucho que además trabajamos en la casa. En otros países de América Latina esta cifra se acerca al 50 por ciento y en Europa al 80 por ciento.
 
-Es un hecho que la economía a veces demora en traducir crecimiento en más puestos de trabajo.
-Ahí tiene que estar el Estado, atento, para ir en ayuda de quienes lo necesitan.
+El Informe de Competitividad del Foro Económico Mundial sitúa muy bien a Chile en varias categorías. Pero en las tres categorías que evalúa el mercado laboral femenino, Chile aparece en el puesto 96 entre 104 naciones.
 
-Tenemos toda una batería de instrumentos de apoyo, que van desde el empleo directo hasta el
-fomento al microemprendimiento. Ello nos va a permitir generar 130 mil empleos en este tercer
-trimestre, en pleno invierno, que es el período en que aumenta estacionalmente el desempleo. Lo
-haremos, además, bajo un nuevo diseño de mayor rigor y transparencia, que anuncié hace
-algunas semanas.
-El país sabe que estamos cumpliendo. En el Plan de los 100 días dijimos que iríamos en ayuda de
-aquellas ciudades que por diversas razones se encuentran especialmente deprimidas. Ya hemos
-anunciado siete mil 500 puestos de trabajo para Talcahuano y ocho mil 600 para Valparaíso. Y
-pronto estaremos en Coronel y en San Antonio.
+Tenemos que hacer algo ya. Promoveremos la jornada parcial y el tele trabajo. Ampliaremos dramáticamente la cobertura pre escolar, para que las mujeres trabajen tranquilas, en la seguridad que sus hijos estarán bien atendidos.
 
-Déjenme decir que también estoy convencida de que el empleo decente se promueve fortaleciendo
-la organización sindical. Impulsaremos un programa de diálogo social, que reúna a trabajadores,
-empresarios y gobierno. Porque Chile lo construimos entre todos. Y sin duda, las relaciones
-laborales modernas son parte fundamental de esta construcción.
+Pero a veces el trabajo se acaba y por eso existe el Seguro de Cesantía, y esta fue una enorme herramienta de protección que creó el gobierno pasado, la cual queremos potenciar. Hoy son más de tres millones y medio los chilenos que están protegidos por este mecanismo en caso de perder el trabajo.
 
-También avanzaremos en la lucha contra la pobreza. La meta al 2010 es ambiciosa: indigencia
-cero.
+Propondremos una reforma que amplíe sus beneficios y su cobertura. Diseñaremos incentivos para trabajadores independientes y por cuenta propia, a la vez que ampliaremos las condiciones de acceso al Fondo Solidario de Desempleo, de manera que los trabajadores que no cuentan con contrato indefinido, o aquellos que tienen menos de doce cotizaciones continuas puedan tener acceso a él.
 
-Este año ampliaremos el programa Chile Solidario a siete mil 254 personas en situación de calle y
-casi quince mil adultos mayores que viven solos. Además, incorporaremos 50 mil nuevas familias
-al programa Puente. Esto quiere decir que al terminar el año 2006 estarán protegidas 290 mil
-familias, que suman cerca de un millón de personas de extrema pobreza.
+Es un hecho que la economía a veces demora en traducir crecimiento en más puestos de trabajo. Ahí tiene que estar el Estado, atento, para ir en ayuda de quienes lo necesitan.
 
-Quiero anunciar, además, que estas personas tendrán una tarjeta especial del Sistema Chile
-Solidario, para que accedan a una atención preferente en todos los servicios sociales.
+Tenemos toda una batería de instrumentos de apoyo, que van desde el empleo directo hasta el fomento al microemprendimiento. Ello nos va a permitir generar 130 mil empleos en este tercer trimestre, en pleno invierno, que es el período en que aumenta estacionalmente el desempleo. Lo haremos, además, bajo un nuevo diseño de mayor rigor y transparencia, que anuncié hace algunas semanas.
 
-Por cierto los adultos mayores tendrán mi especial preocupación, una mejor previsión clara, pero
-también programas para desarrollar otras áreas: salud, educación, recreación, turismo para la
-clase media, pero también para los más pobres, atención y respeto de parte de todos nosotros. No
-quiero que nos olvidemos de nuestros padres y abuelos.
+El país sabe que estamos cumpliendo. En el Plan de los 100 días dijimos que iríamos en ayuda de aquellas ciudades que por diversas razones se encuentran especialmente deprimidas. Ya hemos anunciado siete mil 500 puestos de trabajo para Talcahuano y ocho mil 600 para Valparaíso. Y pronto estaremos en Coronel y en San Antonio.
+
+Déjenme decir que también estoy convencida de que el empleo decente se promueve fortaleciendo la organización sindical. Impulsaremos un programa de diálogo social, que reúna a trabajadores, empresarios y gobierno. Porque Chile lo construimos entre todos. Y sin duda, las relaciones laborales modernas son parte fundamental de esta construcción.
+
+También avanzaremos en la lucha contra la pobreza. La meta al 2010 es ambiciosa: indigencia cero.
+
+Este año ampliaremos el programa Chile Solidario a siete mil 254 personas en situación de calle y casi quince mil adultos mayores que viven solos. Además, incorporaremos 50 mil nuevas familias al programa Puente. Esto quiere decir que al terminar el año 2006 estarán protegidas 290 mil familias, que suman cerca de un millón de personas de extrema pobreza.
+
+Quiero anunciar, además, que estas personas tendrán una tarjeta especial del Sistema Chile Solidario, para que accedan a una atención preferente en todos los servicios sociales.
+
+Por cierto los adultos mayores tendrán mi especial preocupación, una mejor previsión clara, pero también programas para desarrollar otras áreas: salud, educación, recreación, turismo para la clase media, pero también para los más pobres, atención y respeto de parte de todos nosotros. No quiero que nos olvidemos de nuestros padres y abuelos.
 
 Pero un Chile más seguro es un Chile más sano.
 
-Y la puerta de entrada al sistema de salud es la atención primaria. Quiero una salud más cercana,
-de mayor calidad, con consultorios con mayor resolutividad. Tendremos más equipos, más
-medicamentos, especialistas, atención de salud mental y salud dental.
+Y la puerta de entrada al sistema de salud es la atención primaria. Quiero una salud más cercana, de mayor calidad, con consultorios con mayor resolutividad. Tendremos más equipos, más medicamentos, especialistas, atención de salud mental y salud dental.
 
-En estos días hemos avanzado en esta dirección. Estamos construyendo 65 Centros Comunitarios
-de Salud Familiar, centros en los barrios podríamos decir. Al cumplirse los 100 días, 260 mil
-personas tendrán acceso a estos centros. Al cabo de mi gobierno, tendremos 100 centros
-comunitarios en todo el país.
+En estos días hemos avanzado en esta dirección. Estamos construyendo 65 Centros Comunitarios de Salud Familiar, centros en los barrios podríamos decir. Al cumplirse los 100 días, 260 mil personas tendrán acceso a estos centros. Al cabo de mi gobierno, tendremos 100 centros comunitarios en todo el país.
 
-Eso no quiere decir que no vamos a seguir con el resto, con consultorios, hospitales. Este año,
-además de eso, vamos a inaugurar 31 nuevos consultorios y seguiremos edificando más para
-terminar con el déficit durante mi gobierno.
+Eso no quiere decir que no vamos a seguir con el resto, con consultorios, hospitales. Este año, además de eso, vamos a inaugurar 31 nuevos consultorios y seguiremos edificando más para terminar con el déficit durante mi gobierno.
 
-Continuaremos la Reforma de la Salud. El 1º de julio entrarán en régimen quince nuevas
-patologías, con lo que sumaremos 40 en el sistema AUGE. Al cabo de mi gobierno, tendremos las
-80 principales patologías en el régimen de garantías.
+Continuaremos la Reforma de la Salud. El 1º de julio entrarán en régimen quince nuevas patologías, con lo que sumaremos 40 en el sistema AUGE. Al cabo de mi gobierno, tendremos las 80 principales patologías en el régimen de garantías.
 
-Fonasa continuará su importante labor. Ya aseguramos la gratuidad en la atención a los mayores
-de 60 años, pero hay otros sectores que requieren especial atención, como son las temporeras y
-temporeros y los trabajadores independientes.
+Fonasa continuará su importante labor. Ya aseguramos la gratuidad en la atención a los mayores de 60 años, pero hay otros sectores que requieren especial atención, como son las temporeras y temporeros y los trabajadores independientes.
 
-Queremos una salud más digna. El Chile más sano reconoce también los derechos y los deberes
-de las personas. Voy a persistir en el actual proyecto de ley y enviaré próximamente indicaciones
-que le den curso a la deliberación parlamentaria.
+Queremos una salud más digna. El Chile más sano reconoce también los derechos y los deberes de las personas. Voy a persistir en el actual proyecto de ley y enviaré próximamente indicaciones que le den curso a la deliberación parlamentaria.
 
-Seguiremos construyendo un nuevo trato con los pacientes. He instruido a la ministra de Salud
-para que amplíe el horario de visitas a un mínimo de seis horas diarias. E iniciaremos un programa
-para que los padres puedan acompañar, incluso de noche, a los niños hospitalizados.
+Seguiremos construyendo un nuevo trato con los pacientes. He instruido a la ministra de Salud para que amplíe el horario de visitas a un mínimo de seis horas diarias. E iniciaremos un programa para que los padres puedan acompañar, incluso de noche, a los niños hospitalizados.
 
-Y, respecto de quienes no pueden valerse por sí mismos, impulsaremos la capacitación de quienes
-estén a cargo de su cuidado y también un apoyo desde la atención primaria. Al mismo tiempo,
-hemos creado un beneficio especial para apoyar a quienes deban cumplir con la abnegada tarea
-de atender a un familiar postrado. Esa es una de las 36 medidas y la vamos a cumplir.
-Queremos salud de calidad, oportuna, eficiente. Construiremos, en sistema de concesión, los
-hospitales de Maipú y La Florida. Renovaremos el hospital de Isla de Pascua. Mejoraremos y
-ampliaremos los hospitales de Concepción, Temuco, Antofagasta, Alto Hospicio, Talca, Curanilahue
-y Castro. El mismo esfuerzo de renovación haremos con los hospitales de Arica, Osorno, Copiapó,
-Punta Arenas, entre otros.
+Y, respecto de quienes no pueden valerse por sí mismos, impulsaremos la capacitación de quienes estén a cargo de su cuidado y también un apoyo desde la atención primaria. Al mismo tiempo, hemos creado un beneficio especial para apoyar a quienes deban cumplir con la abnegada tarea de atender a un familiar postrado. Esa es una de las 36 medidas y la vamos a cumplir.
 
-Queremos reforzar la prevención y promoción de estilos de vida saludable. Promoveremos la
-alimentación saludable. Nos preocuparemos de la obesidad, fomentaremos el deporte y la
-recreación.
+Queremos salud de calidad, oportuna, eficiente. Construiremos, en sistema de concesión, los hospitales de Maipú y La Florida. Renovaremos el hospital de Isla de Pascua. Mejoraremos y ampliaremos los hospitales de Concepción, Temuco, Antofagasta, Alto Hospicio, Talca, Curanilahue y Castro. El mismo esfuerzo de renovación haremos con los hospitales de Arica, Osorno, Copiapó, Punta Arenas, entre otros.
 
-2. Un Chile más próspero
+Queremos reforzar la prevención y promoción de estilos de vida saludable. Promoveremos la alimentación saludable. Nos preocuparemos de la obesidad, fomentaremos el deporte y la recreación.
+
+
+### 2. Un Chile más próspero
 
 Pero ¿cómo lograr un mayor crecimiento económico? Ya he dado una clave: productividad.
 
-Otra clave está en la inversión, y aquí andamos muy bien. La estabilidad, la confianza y las buenas
-políticas, y las bajas tasas de interés dan frutos. Este año alcanzaremos un récord, llegando a una
-inversión de más de 30 por ciento del Producto Interno Bruto.
+Otra clave está en la inversión, y aquí andamos muy bien. La estabilidad, la confianza y las buenas políticas, y las bajas tasas de interés dan frutos. Este año alcanzaremos un récord, llegando a una inversión de más de 30 por ciento del Producto Interno Bruto.
 
-Actualmente hay más de 25 mil millones de dólares en inversiones privadas proyectadas para
-2006–2010. Mi gobierno hará lo necesario para que éstas y otras inversiones se materialicen.
+Actualmente hay más de 25 mil millones de dólares en inversiones privadas proyectadas para 2006–2010. Mi gobierno hará lo necesario para que éstas y otras inversiones se materialicen.
 
-También invertiremos en infraestructura e integración física. Lo que hemos hecho en los últimos
-años en obras públicas no tiene precedentes. Hoy iniciamos una segunda etapa.
+También invertiremos en infraestructura e integración física. Lo que hemos hecho en los últimos años en obras públicas no tiene precedentes. Hoy iniciamos una segunda etapa.
 
-Tenemos la obligación de velar por la calidad de lo que se construye y el deber de cuidar el
-patrimonio fiscal. Enviaré un proyecto de ley que crea una Superintendencia de Obras Públicas,
-que fiscalice que todas las obras públicas sirvan adecuadamente a la ciudadanía. Al mismo tiempo,
-perfeccionaremos el sistema de concesiones, para resguardar adecuadamente el interés público.
+Tenemos la obligación de velar por la calidad de lo que se construye y el deber de cuidar el patrimonio fiscal. Enviaré un proyecto de ley que crea una Superintendencia de Obras Públicas, que fiscalice que todas las obras públicas sirvan adecuadamente a la ciudadanía. Al mismo tiempo, perfeccionaremos el sistema de concesiones, para resguardar adecuadamente el interés público.
 
-Promoveremos la competitividad de los sectores productivos, especialmente de aquellos que
-sostienen el crecimiento del empleo, como la minería, agricultura o el turismo.
+Promoveremos la competitividad de los sectores productivos, especialmente de aquellos que sostienen el crecimiento del empleo, como la minería, agricultura o el turismo.
 
-Vamos a reforzar nuestra red de aeropuertos de alto estándar en todo el país. Aceleraremos la
-construcción de la ruta Interlagos hasta Cochamó. Avanzaremos en la ruta altiplánica hasta San
-Pedro de Atacama y en la Ruta Austral en la X Región.
+Vamos a reforzar nuestra red de aeropuertos de alto estándar en todo el país. Aceleraremos la construcción de la ruta Interlagos hasta Cochamó. Avanzaremos en la ruta altiplánica hasta San Pedro de Atacama y en la Ruta Austral en la X Región.
 
-Seguiremos avanzando en la integración física con Argentina y Bolivia, con obras como el tren
-Trasandino y los pasos Pehuenche y Aguas Negras, entre otros. En el norte consolidaremos las
-rutas de Arica–Tambo Quemado e Iquique–Huara–Colchane.
+Seguiremos avanzando en la integración física con Argentina y Bolivia, con obras como el tren Trasandino y los pasos Pehuenche y Aguas Negras, entre otros. En el norte consolidaremos las rutas de Arica–Tambo Quemado e Iquique–Huara–Colchane.
 
-También impulsaré un Programa de Concesiones de Redes Viales para mejorar las rutas
-regionales. Porque junto con construir un país más competitivo, requerimos infraestructura que
-mejore la calidad de vida de las personas.
+También impulsaré un Programa de Concesiones de Redes Viales para mejorar las rutas regionales. Porque junto con construir un país más competitivo, requerimos infraestructura que mejore la calidad de vida de las personas.
 
-Habilitaremos la doble vía Copiapó–Vallenar–Caldera. Mejoraremos la conexión intermodal en toda
-la zona patagónica, desde Puerto Montt hasta Puerto Natales, pasando por Chiloé, Palena y Puerto
-Yungay. Además, facilitaremos la conectividad de más de 54 localidades aisladas.
+Habilitaremos la doble vía Copiapó–Vallenar–Caldera. Mejoraremos la conexión intermodal en toda la zona patagónica, desde Puerto Montt hasta Puerto Natales, pasando por Chiloé, Palena y Puerto Yungay. Además, facilitaremos la conectividad de más de 54 localidades aisladas.
 
-Esta preocupación por las zonas aisladas también se reflejará en territorios como Arauco, donde
-construiremos la doble vía desde los puertos del Bío Bío hasta Coronel, y desde Coronel hasta Tres
-Pinos.
+Esta preocupación por las zonas aisladas también se reflejará en territorios como Arauco, donde construiremos la doble vía desde los puertos del Bío-Bío hasta Coronel, y desde Coronel hasta Tres Pinos.
 
-En esta línea de mejoramiento de la calidad de vida, quiero anunciar que enviaré al Congreso
-Nacional una indicación al proyecto de ley sobre colectores de aguas lluvias, para facilitar la
-incorporación del capital privado en dichas obras. Se trata de solucionar el problema de las
-inundaciones de una vez por todas.
+En esta línea de mejoramiento de la calidad de vida, quiero anunciar que enviaré al Congreso Nacional una indicación al proyecto de ley sobre colectores de aguas lluvias, para facilitar la incorporación del capital privado en dichas obras. Se trata de solucionar el problema de las inundaciones de una vez por todas.
 
-Al año 2010, completaremos la infraestructura portuaria de la pesca artesanal en la mayor parte
-de las caletas, favoreciendo a más de 19 mil pescadores.
+Al año 2010, completaremos la infraestructura portuaria de la pesca artesanal en la mayor parte de las caletas, favoreciendo a más de 19 mil pescadores.
 
-Seguiremos priorizando la construcción de by-pass para sacar el tránsito de camiones de las
-ciudades. Lo haremos en San Pedro de la Paz, en Penco, entre otros lugares.
-Estoy cierta que todo este avance redundará en mayor competitividad, integrar zonas excluidas y
-mejorar la calidad de vida de las personas.
+Seguiremos priorizando la construcción de bypass para sacar el tránsito de camiones de las ciudades. Lo haremos en San Pedro de la Paz, en Penco, entre otros lugares.
 
-Durante la campaña presidencial adquirí un compromiso con el mundo rural: tenemos las
-condiciones, si trabajamos bien, de convertir a Chile en una potencia alimentaria a nivel mundial.
+Estoy cierta que todo este avance redundará en mayor competitividad, integrar zonas excluidas y mejorar la calidad de vida de las personas.
 
-Hoy la industria agroalimentaria genera aproximadamente un 25 por ciento del PIB y ocupa cerca
-del 20 por ciento de la fuerza de trabajo. Podemos crecer aún más. Como Estado orientaremos
-todos nuestros esfuerzos, institucionalidad e instrumentos de fomento en ese sentido. Por cierto,
-eso incluye contar, al término de mi gobierno, con un Ministerio de Agricultura y Alimentación.
+Durante la campaña presidencial adquirí un compromiso con el mundo rural: tenemos las condiciones, si trabajamos bien, de convertir a Chile en una potencia alimentaria a nivel mundial.
 
-Ya he mencionado el apoyo extraordinario que daremos a la agricultura con los recursos que
-hemos ahorrado. También fortaleceremos el Servicio Agrícola y Ganadero y apoyaremos aquellas
-obras hidráulicas que son indispensables para el desarrollo de la agricultura.
+Hoy la industria agroalimentaria genera aproximadamente un 25 por ciento del PIB y ocupa cerca del 20 por ciento de la fuerza de trabajo. Podemos crecer aún más. Como Estado orientaremos todos nuestros esfuerzos, institucionalidad e instrumentos de fomento en ese sentido. Por cierto, eso incluye contar, al término de mi gobierno, con un Ministerio de Agricultura y Alimentación.
+
+Ya he mencionado el apoyo extraordinario que daremos a la agricultura con los recursos que hemos ahorrado. También fortaleceremos el Servicio Agrícola y Ganadero y apoyaremos aquellas obras hidráulicas que son indispensables para el desarrollo de la agricultura.
 
 Incorporaremos más de 204 mil hectáreas de riego a la producción agrícola nacional.
-Terminaremos el Sistema Laja Diguillín, Faja Maisan y Corrales en el Valle del Choapa. Daremos
-inicio a la construcción de los embalses El Bato en Illapel y Convento Viejo en Chimbarongo.
-Agregaremos Ancoa en Linares y, mediante el sistema de concesiones, Punilla en Ñuble y Puntilla
-del Viento en Aconcagua.
 
-Queremos un desarrollo agrario inclusivo. El éxito de las grandes cifras es sólo aparente si no llega
-a las personas. Por eso potenciaremos la agricultura familiar campesina y nos preocuparemos de
-sus deudas, acceso al crédito y su inserción en la cadena exportadora.
+Terminaremos el Sistema Laja Diguillín, Faja Maisan y Corrales en el Valle del Choapa. Daremos inicio a la construcción de los embalses El Bato en Illapel y Convento Viejo en Chimbarongo.
 
-Pero muy especialmente, nos preocuparemos también de las condiciones laborales, seguridad e
-higiene de los trabajadores y trabajadoras del campo.
+Agregaremos Ancoa en Linares y, mediante el sistema de concesiones, Punilla en Ñuble y Puntilla del Viento en Aconcagua.
 
-Pero cuando la economía crece, sin duda, uno de los grandes desafíos es contar con la energía
-suficiente. Hemos planteado al país un plan ambicioso, pero realista, que garantice autonomía e
-independencia, diversificación y eficiencia energética.
+Queremos un desarrollo agrario inclusivo. El éxito de las grandes cifras es sólo aparente si no llega a las personas. Por eso potenciaremos la agricultura familiar campesina y nos preocuparemos de sus deudas, acceso al crédito y su inserción en la cadena exportadora.
+
+Pero muy especialmente, nos preocuparemos también de las condiciones laborales, seguridad e higiene de los trabajadores y trabajadoras del campo.
+
+Pero cuando la economía crece, sin duda, uno de los grandes desafíos es contar con la energía suficiente. Hemos planteado al país un plan ambicioso, pero realista, que garantice autonomía e independencia, diversificación y eficiencia energética.
 
 La seguridad energética tiene un costo; sin embargo, la falta de energía tiene un costo aún mayor.
 
-En esta línea se enmarcan las acciones que estamos tomando, como son el proyecto de GNL en
-Quinteros; las prospecciones de gas en Tierra del Fuego; la puesta en marcha de un activo
-programa público-privado de eficiencia energética; el fomento al desarrollo de la agro-energía; así
-como una activa participación en instancias de diálogo con países de la región para fomentar la
-interconexión energética sub continental.
+En esta línea se enmarcan las acciones que estamos tomando, como son el proyecto de GNL en Quinteros; las prospecciones de gas en Tierra del Fuego; la puesta en marcha de un activo programa público-privado de eficiencia energética; el fomento al desarrollo de la agro-energía; así como una activa participación en instancias de diálogo con países de la región para fomentar la interconexión energética sub continental.
 
-Chile debe utilizar todos los recursos de los que dispone para la generación eléctrica, incluyendo
-los recursos renovables, entre ellos hidráulicos, eólicos y geotérmicos, por mencionar algunos. El
-agua, viento y vapor son parte de nuestra riqueza. El país no puede darse el lujo de no usar estos
-recursos, especialmente a la luz del escenario mundial marcado por restricciones y altos precios.
+Chile debe utilizar todos los recursos de los que dispone para la generación eléctrica, incluyendo los recursos renovables, entre ellos hidráulicos, eólicos y geotérmicos, por mencionar algunos. El agua, viento y vapor son parte de nuestra riqueza. El país no puede darse el lujo de no usar estos recursos, especialmente a la luz del escenario mundial marcado por restricciones y altos precios.
 
-Sé que existe una preocupación en la gente, en la clase media, respecto de la inestabilidad y las
-alzas en el precio de los combustibles. Comparto esa preocupación. Por eso tomaremos medidas.
+Sé que existe una preocupación en la gente, en la clase media, respecto de la inestabilidad y las alzas en el precio de los combustibles. Comparto esa preocupación. Por eso tomaremos medidas.
 
-Por una parte, renovaremos el Fondo de Estabilización del Precio de los Combustibles.
-Prontamente enviaremos un proyecto de ley para crear un nuevo fondo, similar en objetivo y
-operatoria al anterior, pero con algunas mejoras técnicas.
+Por una parte, renovaremos el Fondo de Estabilización del Precio de los Combustibles. Prontamente enviaremos un proyecto de ley para crear un nuevo fondo, similar en objetivo y operatoria al anterior, pero con algunas mejoras técnicas.
 
-Pero quiero ser clara. En todo el mundo los combustibles son más caros que hace un año. Chile no
-es la excepción. El fondo sólo puede atenuar las fluctuaciones, no cambiar la tendencia de los
-precios.
+Pero quiero ser clara. En todo el mundo los combustibles son más caros que hace un año. Chile no es la excepción. El fondo sólo puede atenuar las fluctuaciones, no cambiar la tendencia de los precios.
 
-Por eso he decidido proteger a los más afectados con esta alza. Entregaré un bono especial a
-todas las familias del Chile Solidario, a las familias que reciben el subsidio único familiar y a las
-familias que reciben asignaciones familiares por rentas inferiores a 180 mil pesos. Todos ellos,
-más de un millón 225 mil familias, recibirán este bono especial de 18 mil pesos este invierno.
-Si la energía es un desafío para el crecimiento de la economía, otro gran desafío es nuestra
-estrategia de desarrollo del medioambiente. El desafío es encontrar un buen equilibrio entre
-crecimiento, desarrollo y protección ambiental. Impulsaremos una nueva política ambiental, más
-exigente y moderna, basada en el desarrollo sustentable y la participación social.
+Por eso he decidido proteger a los más afectados con esta alza. Entregaré un bono especial a todas las familias del Chile Solidario, a las familias que reciben el subsidio único familiar y a las familias que reciben asignaciones familiares por rentas inferiores a 180 mil pesos. Todos ellos, más de un millón 225 mil familias, recibirán este bono especial de 18 mil pesos este invierno.
 
-Ningún proyecto de inversión podrá pretender hacerse rentable a costa del medioambiente.
-Tampoco evaluaremos proyectos aislados, sino que incorporaremos el ordenamiento territorial, el
-manejo integrado de cuencas, como eje de nuestra nueva política.
+Si la energía es un desafío para el crecimiento de la economía, otro gran desafío es nuestra estrategia de desarrollo del medioambiente. El desafío es encontrar un buen equilibrio entre crecimiento, desarrollo y protección ambiental. Impulsaremos una nueva política ambiental, más exigente y moderna, basada en el desarrollo sustentable y la participación social.
 
-Ya he enviado al Congreso Nacional un proyecto de ley que crea la figura de Presidente del
-Consejo de Ministros de CONAMA, quien tendrá rango de Ministro, porque le de queremos dar al
-tema la relevancia que merece.
+Ningún proyecto de inversión podrá pretender hacerse rentable a costa del medioambiente. Tampoco evaluaremos proyectos aislados, sino que incorporaremos el ordenamiento territorial, el manejo integrado de cuencas, como eje de nuestra nueva política.
 
-Si el Congreso así lo aprueba, pronto podrá jurar, por primera vez en la historia de Chile, un
-Ministro o Ministra del Medioambiente. Esa persona tendrá la misión de reestructurar la nueva
-institucionalidad. Lo que incluye, por cierto, la creación del Ministerio del Medioambiente y de una
-Superintendencia Ambiental para privilegiar una fiscalización más activa y a la vez más
-preventiva.
+Ya he enviado al Congreso Nacional un proyecto de ley que crea la figura de Presidente del Consejo de Ministros de CONAMA, quien tendrá rango de Ministro, porque le de queremos dar al tema la relevancia que merece.
 
-3. Un Chile en que se vive mejor
+Si el Congreso así lo aprueba, pronto podrá jurar, por primera vez en la historia de Chile, un Ministro o Ministra del Medioambiente. Esa persona tendrá la misión de reestructurar la nueva institucionalidad. Lo que incluye, por cierto, la creación del Ministerio del Medioambiente y de una Superintendencia Ambiental para privilegiar una fiscalización más activa y a la vez más preventiva.
 
-Lo decía al comienzo: el norte de nuestra acción es el ciudadano. Él o ella estarán al centro de la
-política pública.
 
-Y la seguridad comienza por lo más básico, que es la seguridad personal y familiar. No quiero
-barrios atemorizados. Quiero familias que puedan disfrutar de la vida del vecindario, de las calles.
-Quiero jóvenes que disfruten de su juventud.
+### 3. Un Chile en que se vive mejor
 
-Hemos tomado la iniciativa en muchas áreas ligadas a la seguridad. Hemos perfeccionado nuestro
-sistema procesal penal. Estamos construyendo cárceles. Hemos incorporado más comunas al Plan
-Cuadrante: a fines de este año casi dos tercios de la población se encontrará viviendo en una
-comuna acogida a este plan. Estamos aumentando y modernizando nuestras policías. Y por eso
-también quiero agradecer a este Congreso el rápido despacho del proyecto de ley que aumentó la
-planta de Carabineros en mil 500 nuevos uniformados por año.
+Lo decía al comienzo: el norte de nuestra acción es el ciudadano. Él o ella estarán al centro de la política pública.
 
-Sabemos que la prevención es crucial si queremos derrotar la delincuencia. Iniciaremos y
-ampliaremos programas de empleo y capacitación juvenil, prevención de drogas, reforzaremos
-programas contra la deserción escolar, diseño de espacios públicos, junto a una fuerte inversión
-en infraestructura y masificación del deporte a nivel comunal.
+Y la seguridad comienza por lo más básico, que es la seguridad personal y familiar. No quiero barrios atemorizados. Quiero familias que puedan disfrutar de la vida del vecindario, de las calles. Quiero jóvenes que disfruten de su juventud.
 
-Pero queremos dar otro paso importante. En el mes de junio enviaré al Congreso Nacional un
-proyecto de ley que creará un ministerio encargado de la seguridad ciudadana, donde se
-concentren las labores de prevención y control del delito, para hacer más eficiente nuestra lucha
-contra la delincuencia.
+Hemos tomado la iniciativa en muchas áreas ligadas a la seguridad. Hemos perfeccionado nuestro sistema procesal penal. Estamos construyendo cárceles. Hemos incorporado más comunas al Plan Cuadrante: a fines de este año casi dos tercios de la población se encontrará viviendo en una comuna acogida a este plan. Estamos aumentando y modernizando nuestras policías. Y por eso también quiero agradecer a este Congreso el rápido despacho del proyecto de ley que aumentó la planta de Carabineros en mil 500 nuevos uniformados por año.
 
-La calidad de vida está también asociada a la modernización de nuestros sistemas de transporte
-público.
+Sabemos que la prevención es crucial si queremos derrotar la delincuencia. Iniciaremos y ampliaremos programas de empleo y capacitación juvenil, prevención de drogas, reforzaremos programas contra la deserción escolar, diseño de espacios públicos, junto a una fuerte inversión en infraestructura y masificación del deporte a nivel comunal.
 
-Tenemos un compromiso con la plena aplicación del Plan Transantiago. El país ha visto cómo
-hemos enfrentado con decisión este tema, para asegurar que esté funcionando en febrero de
-2007. Ese ambicioso plan, cuando esté operando en régimen, dará un servicio de mucho mayor
-calidad y seguridad a los usuarios, con menos congestión y –algo importante– con menos
-contaminación.
+Pero queremos dar otro paso importante. En el mes de junio enviaré al Congreso Nacional un proyecto de ley que creará un ministerio encargado de la seguridad ciudadana, donde se concentren las labores de prevención y control del delito, para hacer más eficiente nuestra lucha contra la delincuencia.
 
-También completaremos la expansión programada de la red de Metro, con las obras de ampliación
-de la Línea 2 hacia al norte y la construcción del tramo de la Línea 4 que corre por Américo
-Vespucio y que la une por el sur con la Línea 2. Junto a ello, extenderemos el Metro hasta Maipú,
-lo que beneficiará a los vecinos de las comunas de Quinta Normal, Estación Central, Pudahuel y Lo
-Prado. Allí habrá, además, una conexión hacia Cerro Navia. Estamos hablando de facilitar el
-traslado de 200 mil personas más cada día.
+La calidad de vida está también asociada a la modernización de nuestros sistemas de transporte público.
 
-Con estas nuevas obras, el año 2010 el Metro tendrá 105 kilómetros, servirá a 21 comunas del
-Gran Santiago y transportará a más de 785 millones de pasajeros al año.
-Pero no todo va a ser en Santiago, también en regiones. En Valparaíso y Concepción
-continuaremos desarrollando los planes de transporte, avanzando en los procesos de licitación de
-vías. Continuaremos implementando planes complementarios a los servicios de transporte ya
-licitados en Iquique, Antofagasta y Rancagua. Además, mantendremos el fondo de subsidio para el
-transporte regional, que beneficia especialmente a las zonas extremas.
+Tenemos un compromiso con la plena aplicación del Plan Transantiago. El país ha visto cómo hemos enfrentado con decisión este tema, para asegurar que esté funcionando en febrero de 2007. Ese ambicioso plan, cuando esté operando en régimen, dará un servicio de mucho mayor calidad y seguridad a los usuarios, con menos congestión y –algo importante– con menos contaminación.
 
-Nuestra tarea no estaría completa si no nos preocupamos de aquellos chilenos excluidos de la
-música, de las artes, de la literatura o la poesía. La cultura es un derecho y debemos garantizar
-que todos puedan ejercerlo. Además, la cultura nos permite un desarrollo mucho más integral
-como país.
+También completaremos la expansión programada de la red de Metro, con las obras de ampliación de la Línea 2 hacia al norte y la construcción del tramo de la Línea 4 que corre por Américo Vespucio y que la une por el sur con la Línea 2. Junto a ello, extenderemos el Metro hasta Maipú, lo que beneficiará a los vecinos de las comunas de Quinta Normal, Estación Central, Pudahuel y Lo Prado. Allí habrá, además, una conexión hacia Cerro Navia. Estamos hablando de facilitar el traslado de 200 mil personas más cada día.
 
-Reafirmo mi compromiso de habilitar al menos una biblioteca en cada comuna de Chile. Se trata
-de poner en el centro de la transmisión cultural al libro, como principal soporte de las ideas pero
-también de la creatividad.
+Con estas nuevas obras, el año 2010 el Metro tendrá 105 kilómetros, servirá a 21 comunas del Gran Santiago y transportará a más de 785 millones de pasajeros al año.
 
-Junto con ello, vamos a contar con un centro cultural en cada centro urbano que tenga más de 50
-mil habitantes. Lo haremos con los municipios, apoyando las iniciativas locales de difusión artística
-y cultural.
+Pero no todo va a ser en Santiago, también en regiones. En Valparaíso y Concepción continuaremos desarrollando los planes de transporte, avanzando en los procesos de licitación de vías. Continuaremos implementando planes complementarios a los servicios de transporte ya licitados en Iquique, Antofagasta y Rancagua. Además, mantendremos el fondo de subsidio para el transporte regional, que beneficia especialmente a las zonas extremas.
 
-Ratificaremos la Convención por la Protección y Promoción de la Diversidad Cultural aprobada por
-la Unesco. Esta es una oportunidad para reafirmar el valor de las expresiones culturales como
-parte del patrimonio de la humanidad.
+Nuestra tarea no estaría completa si no nos preocupamos de aquellos chilenos excluidos de la música, de las artes, de la literatura o la poesía. La cultura es un derecho y debemos garantizar que todos puedan ejercerlo. Además, la cultura nos permite un desarrollo mucho más integral como país.
+
+Reafirmo mi compromiso de habilitar al menos una biblioteca en cada comuna de Chile. Se trata de poner en el centro de la transmisión cultural al libro, como principal soporte de las ideas pero también de la creatividad.
+
+Junto con ello, vamos a contar con un centro cultural en cada centro urbano que tenga más de 50 mil habitantes. Lo haremos con los municipios, apoyando las iniciativas locales de difusión artística y cultural.
+
+Ratificaremos la Convención por la Protección y Promoción de la Diversidad Cultural aprobada por la Unesco. Esta es una oportunidad para reafirmar el valor de las expresiones culturales como parte del patrimonio de la humanidad.
 
 Ese es nuestro norte. Un Chile inclusivo es un país que democratiza también el acceso a la cultura.
 
-4. Un Chile más integrado
 
-Las transformaciones que proponemos tienen como telón de fondo una democracia cada vez más
-cohesionada. Una democracia donde todos los ciudadanos y ciudadanas tengan espacio para
-participar y deliberar. Donde todos los derechos y libertades son respetadas.
+### 4. Un Chile más integrado
 
-Queremos instituciones democráticas de calidad. Y ese es el desafío que tenemos hoy, después de
-las reformas a la Constitución del 2005. Enviaré prontamente al Congreso un proyecto de reforma
-al actual sistema electoral, tal cual fue mi compromiso de campaña.
+Las transformaciones que proponemos tienen como telón de fondo una democracia cada vez más cohesionada. Una democracia donde todos los ciudadanos y ciudadanas tengan espacio para participar y deliberar. Donde todos los derechos y libertades son respetadas.
 
-Seguramente surgirán distintas opiniones. Sé que es un asunto muy controvertido. Pero espero
-que todos estemos de acuerdo en que es esencial para la calidad de nuestra democracia, un
-sistema electoral más representativo, más competitivo y que garantice la gobernabilidad.
+Queremos instituciones democráticas de calidad. Y ese es el desafío que tenemos hoy, después de las reformas a la Constitución del 2005. Enviaré prontamente al Congreso un proyecto de reforma al actual sistema electoral, tal cual fue mi compromiso de campaña.
 
-Hemos de cambiar la ley, pero lo que hay que cambiar es bastante más que la ley. Nuestra
-democracia debe reflejar el país real y eso no está sucediendo en el caso de las mujeres.
+Seguramente surgirán distintas opiniones. Sé que es un asunto muy controvertido. Pero espero que todos estemos de acuerdo en que es esencial para la calidad de nuestra democracia, un sistema electoral más representativo, más competitivo y que garantice la gobernabilidad.
 
-Hay algo básico que no cuadra y creo que los honorables miembros del Parlamento estarán de
-acuerdo conmigo.
+Hemos de cambiar la ley, pero lo que hay que cambiar es bastante más que la ley. Nuestra democracia debe reflejar el país real y eso no está sucediendo en el caso de las mujeres.
 
-Pese a que a que a veces se habla de que hay que privilegiar a los grupos minoritarios y se habla
-de las mujeres, es una paradoja porque las mujeres son la mitad de los que nos miran desde las
-casas. Son la mitad de los que, ahora mismo, nos acaban de saludar alegremente en las calles.
-Son la mitad de los que están en las graderías, seguramente. Son más de la mitad de los que
-votan. Son la mitad del gabinete aquí presente y la Presidenta de la República es mujer.
+Hay algo básico que no cuadra y creo que los honorables miembros del Parlamento estarán de acuerdo conmigo.
 
-¡Y uno de los lugares donde estamos representadas tan bien pero tan escasamente es aquí, en el
-Parlamento!
+Pese a que a que a veces se habla de que hay que privilegiar a los grupos minoritarios y se habla de las mujeres, es una paradoja porque las mujeres son la mitad de los que nos miran desde las casas. Son la mitad de los que, ahora mismo, nos acaban de saludar alegremente en las calles.
 
-Digámoslo con fuerza, ¡esto no sucede por falta de capacidad! ¡No se trata de que nos interese
-menos lo que le suceda a Chile! ¡No se trata tampoco de que no sepamos usar el poder!
+Son la mitad de los que están en las graderías, seguramente. Son más de la mitad de los que votan. Son la mitad del gabinete aquí presente y la Presidenta de la República es mujer.
 
-Esto pasa porque se han mantenido barreras de siglos en nuestras instituciones, costumbres y
-mentes. Y ha llegado el momento de levantar esas barreras. Y yo me propongo que sea en estos
-años cuando se termine por reconocer, en la vida diaria y en la vida pública, la mayoría de edad
-histórica de la mujer chilena. Era que no, ¿no es verdad?
-Otra reforma que es esencial: el reconocimiento constitucional de nuestros pueblos originarios.
-Insistiremos en ella, porque nos parece que es un acto de justicia, es un acto de reparación
-histórica, es un imperativo ético, que nos reconozcamos como lo que somos: una nación
-construida por muchos pueblos.
+¡Y uno de los lugares donde estamos representadas tan bien pero tan escasamente es aquí, en el Parlamento!
 
-Queremos promover el desarrollo de nuestros pueblos originarios, rurales pero también urbanos,
-pero reconociendo y respetando su dignidad, sus derechos y sus raíces.
+Digámoslo con fuerza, ¡esto no sucede por falta de capacidad! ¡No se trata de que nos interese menos lo que le suceda a Chile! ¡No se trata tampoco de que no sepamos usar el poder!
 
-Quiero que nuestros pueblos indígenas se sientan incluidos en la sociedad chilena y que se sientan
-representados por el Estado.
+Esto pasa porque se han mantenido barreras de siglos en nuestras instituciones, costumbres y mentes. Y ha llegado el momento de levantar esas barreras. Y yo me propongo que sea en estos años cuando se termine por reconocer, en la vida diaria y en la vida pública, la mayoría de edad histórica de la mujer chilena. Era que no, ¿no es verdad?
 
-El Chile cohesionado que queremos construir también pasa por reconocer que hay muchas otras
-desigualdades y exclusiones de las que tenemos que hacernos cargo: la discriminación que sufren
-los discapacitados, los inmigrantes, las minorías sexuales, los más pobres, los más viejos. Muchas
-veces, producto de nuestros prejuicios, el país desperdicia el talento de tantas personas.
+Otra reforma que es esencial: el reconocimiento constitucional de nuestros pueblos originarios.
 
-Comenzaremos entonces dando el ejemplo desde el Estado, y dentro de los próximos días
-dictaremos un Código de Buenas Prácticas que prohíba la discriminación por cualquier tipo de
-razón, introduciendo medidas como, por ejemplo, la prohibición de exigir foto en el currículum al
-momento de contratar a alguien.
+Insistiremos en ella, porque nos parece que es un acto de justicia, es un acto de reparación histórica, es un imperativo ético, que nos reconozcamos como lo que somos: una nación construida por muchos pueblos.
+
+Queremos promover el desarrollo de nuestros pueblos originarios, rurales pero también urbanos, pero reconociendo y respetando su dignidad, sus derechos y sus raíces.
+
+Quiero que nuestros pueblos indígenas se sientan incluidos en la sociedad chilena y que se sientan representados por el Estado.
+
+El Chile cohesionado que queremos construir también pasa por reconocer que hay muchas otras desigualdades y exclusiones de las que tenemos que hacernos cargo: la discriminación que sufren los discapacitados, los inmigrantes, las minorías sexuales, los más pobres, los más viejos. Muchas veces, producto de nuestros prejuicios, el país desperdicia el talento de tantas personas.
+
+Comenzaremos entonces dando el ejemplo desde el Estado, y dentro de los próximos días dictaremos un Código de Buenas Prácticas que prohíba la discriminación por cualquier tipo de razón, introduciendo medidas como, por ejemplo, la prohibición de exigir foto en el currículum al momento de contratar a alguien.
 
 También pido al Congreso que apruebe prontamente la ley contra la discriminación.
 
-Les doy otro ejemplo de exclusión, señores y señoras parlamentarios: ¿por qué no nos ponemos
-de acuerdo de una vez por todas y le damos derecho a voto a los miles de chilenos que viven en el
-exterior?
+Les doy otro ejemplo de exclusión, señores y señoras parlamentarios: ¿por qué no nos ponemos de acuerdo de una vez por todas y le damos derecho a voto a los miles de chilenos que viven en el exterior?
 
-Porque queremos vivir en un Chile cada vez más incluyente, más inclusivo, y este Chile incluyente
-también se preocupa de incluir a las regiones en el desarrollo del país. No es posible que se
-desarrolle el país si no se desarrollan las regiones. Quiero reafirmar hoy mi compromiso más
-profundo con la descentralización, con los ciudadanos de regiones y comunas.
+Porque queremos vivir en un Chile cada vez más incluyente, más inclusivo, y este Chile incluyente también se preocupa de incluir a las regiones en el desarrollo del país. No es posible que se desarrolle el país si no se desarrollan las regiones. Quiero reafirmar hoy mi compromiso más profundo con la descentralización, con los ciudadanos de regiones y comunas.
 
-Mi compromiso es que los ciudadanos puedan elegir democráticamente a sus autoridades
-regionales. Mi compromiso es traspasar muchas más atribuciones centrales a los niveles
-regionales. Mi compromiso es también entregar a las regiones mayor poder de decisión acerca de
-sus instrumentos de fomento, entre otras, a través de las Agencias Regionales de Desarrollo
-Productivo que ya mencioné.
+Mi compromiso es que los ciudadanos puedan elegir democráticamente a sus autoridades regionales. Mi compromiso es traspasar muchas más atribuciones centrales a los niveles regionales. Mi compromiso es también entregar a las regiones mayor poder de decisión acerca de sus instrumentos de fomento, entre otras, a través de las Agencias Regionales de Desarrollo Productivo que ya mencioné.
 
-Mi compromiso es que las regiones decidan sus proyectos de inversión. Mi compromiso es también
-con la gestión municipal, que entregue mayores facultades y recursos a los municipios que
-demuestren una mejor gestión, por ejemplo. Y, por supuesto, mi compromiso es con fortalecer las
-organizaciones sociales, con programas específicos de apoyo y capacitación.
+Mi compromiso es que las regiones decidan sus proyectos de inversión. Mi compromiso es también con la gestión municipal, que entregue mayores facultades y recursos a los municipios que demuestren una mejor gestión, por ejemplo. Y, por supuesto, mi compromiso es con fortalecer las organizaciones sociales, con programas específicos de apoyo y capacitación.
 
-Porque un Chile cohesionado se construye desde la base, en terreno, allí donde los ciudadanos
-hacen su vida cotidiana.
+Porque un Chile cohesionado se construye desde la base, en terreno, allí donde los ciudadanos hacen su vida cotidiana.
 
-Hasta ahora nos habíamos estado preguntando qué tan lejos podemos llegar como nación. Ahora
-debemos plantearnos, con igual fuerza y determinación desde los poderes públicos, qué tan cerca
-podemos estar de la gente a la que servimos.
+Hasta ahora nos habíamos estado preguntando qué tan lejos podemos llegar como nación. Ahora debemos plantearnos, con igual fuerza y determinación desde los poderes públicos, qué tan cerca podemos estar de la gente a la que servimos.
 
-Porque, amigas y amigos, no es la gente la que debe estar al servicio del Estado. Es el Estado el
-que debe estar al servicio de la gente.
+Porque, amigas y amigos, no es la gente la que debe estar al servicio del Estado. Es el Estado el que debe estar al servicio de la gente.
 
-En Chile las personas pueden ser más o menos prósperas, pueden tener más o menos problemas.
-Pero para el Estado y para el gobierno no hay personas más o menos dignas. Todas, todas,
-merecen respeto y tienen derecho a exigir ese respeto y no permitiré que ninguno de mis
-colaboradores lo olvide.
+En Chile las personas pueden ser más o menos prósperas, pueden tener más o menos problemas. Pero para el Estado y para el gobierno no hay personas más o menos dignas. Todas, todas, merecen respeto y tienen derecho a exigir ese respeto y no permitiré que ninguno de mis colaboradores lo olvide.
 
-Porque quiero también un Chile más transparente. Para el Estado, queremos que se sepa qué,
-cómo y cuándo hacemos las cosas, cuánto vale, por qué lo hacemos. Más información es más
-democracia. Quiero un país donde la ética pública sea un bien preciado y extendido en todos los
-niveles del gobierno.
-Le pido a este Congreso que aprueba prontamente la ley de lobby actualmente en discusión, para
-que ésta sea una actividad pública y abierta. Modernizaremos la Contraloría General de la
-República, para que fiscalice preventivamente y con mayor eficacia. Exigiremos mayor
-transparencia en todos los sectores, en el gobierno central, en municipios, en empresas, en los
-partidos políticos.
+Porque quiero también un Chile más transparente. Para el Estado, queremos que se sepa qué, cómo y cuándo hacemos las cosas, cuánto vale, por qué lo hacemos. Más información es más democracia. Quiero un país donde la ética pública sea un bien preciado y extendido en todos los niveles del gobierno.
 
-Otro asunto muy importante: emprenderemos una reforma al sistema de notarios y conservadores
-de bienes raíces. No es posible que los trámites demoren varios días o semanas, ni que su costo
-sea tan elevado. El Estado ha hecho gran parte de su tarea y es pionero en la tramitación
-electrónica en los servicios de Impuestos Internos y de Registro Civil, entre otras instituciones.
-Ahora es el turno de notarios y conservadores.
+Le pido a este Congreso que aprueba prontamente la ley de lobby actualmente en discusión, para que ésta sea una actividad pública y abierta. Modernizaremos la Contraloría General de la República, para que fiscalice preventivamente y con mayor eficacia. Exigiremos mayor transparencia en todos los sectores, en el gobierno central, en municipios, en empresas, en los partidos políticos.
 
-Una democracia robusta es aquella que cuenta con una justicia imparcial, que sirve a los
-ciudadanos sin distinciones. Por ello reforzaremos la acción de la justicia.
+Otro asunto muy importante: emprenderemos una reforma al sistema de notarios y conservadores de bienes raíces. No es posible que los trámites demoren varios días o semanas, ni que su costo sea tan elevado. El Estado ha hecho gran parte de su tarea y es pionero en la tramitación electrónica en los servicios de Impuestos Internos y de Registro Civil, entre otras instituciones. Ahora es el turno de notarios y conservadores.
 
-Hemos dado pasos enormes. La Reforma Procesal Penal se extiende por todo Chile y nos
-preocuparemos de su adecuada implementación. Ahora, avanzaremos en ámbitos que emergen
-como prioritarios.
+Una democracia robusta es aquella que cuenta con una justicia imparcial, que sirve a los ciudadanos sin distinciones. Por ello reforzaremos la acción de la justicia.
 
-Este año daremos inicio al proceso de reforma de la justicia civil, la Reforma Procesal Civil.
-Debemos terminar con procesos que se alargan por años y años sin que las partes tengan la
-certeza de una sentencia firme. Debemos premiar la agilidad y no la dilación en el otorgamiento
-de justicia.
+Hemos dado pasos enormes. La Reforma Procesal Penal se extiende por todo Chile y nos preocuparemos de su adecuada implementación. Ahora, avanzaremos en ámbitos que emergen como prioritarios.
 
-Vamos a ampliar la capacidad institucional de resolver las controversias en el ámbito vecinal. Se
-trata de acercar más y más el sistema de justicia a los ciudadanos. Fortaleceremos, además, todo
-el aparato que defiende los derechos ciudadanos y del consumidor.
+Este año daremos inicio al proceso de reforma de la justicia civil, la Reforma Procesal Civil. Debemos terminar con procesos que se alargan por años y años sin que las partes tengan la certeza de una sentencia firme. Debemos premiar la agilidad y no la dilación en el otorgamiento de justicia.
 
-Quiero reafirmar aquí mi compromiso con implementar la nueva Ley de Responsabilidad Penal
-Adolescente el próximo año. Nos preocuparemos por asegurar a estos jóvenes una infraestructura
-adecuada, verdaderas oportunidades de educación y programas de rehabilitación de drogas.
+Vamos a ampliar la capacidad institucional de resolver las controversias en el ámbito vecinal. Se trata de acercar más y más el sistema de justicia a los ciudadanos. Fortaleceremos, además, todo el aparato que defiende los derechos ciudadanos y del consumidor.
 
-Y redoblaremos los esfuerzos conjuntos con el Poder Judicial para mejorar y agilizar la labor de
-nuestros tribunales de Familia y los nuevos tribunales del Trabajo.
+Quiero reafirmar aquí mi compromiso con implementar la nueva Ley de Responsabilidad Penal Adolescente el próximo año. Nos preocuparemos por asegurar a estos jóvenes una infraestructura adecuada, verdaderas oportunidades de educación y programas de rehabilitación de drogas.
 
-Pero hay un asunto que no puedo dejar de mencionar: una democracia sana se construye sobre la
-base de la verdad y la justicia. Miro hacia atrás y veo cuanto hemos avanzado en materia de
-derechos humanos. Ya nadie justifica lo injustificable en Chile. La memoria de miles no admite
-punto final.
+Y redoblaremos los esfuerzos conjuntos con el Poder Judicial para mejorar y agilizar la labor de nuestros tribunales de Familia y los nuevos tribunales del Trabajo.
 
-Me hago cargo de una herencia dolorosa. Responder con verdad, justicia y reparación a las
-violaciones a los derechos humanos de nuestro pasado reciente es necesario para sentar las bases
-de una buena convivencia entre los chilenos.
+Pero hay un asunto que no puedo dejar de mencionar: una democracia sana se construye sobre la base de la verdad y la justicia. Miro hacia atrás y veo cuanto hemos avanzado en materia de derechos humanos. Ya nadie justifica lo injustificable en Chile. La memoria de miles no admite punto final.
 
-Así lo han entendido los gobiernos de la Concertación. Así lo entiendo yo. Hemos aplicado medidas
-de reparación concretas, en reconocimiento de la verdad acerca de los detenidos desaparecidos y
-ejecutados políticos, así como de las víctimas de la prisión política y tortura. Escúchenme bien,
-conciudadanos: mientras haya detenidos desaparecidos nunca dejaremos de buscarlos.
+Me hago cargo de una herencia dolorosa. Responder con verdad, justicia y reparación a las violaciones a los derechos humanos de nuestro pasado reciente es necesario para sentar las bases de una buena convivencia entre los chilenos.
 
-Hemos ido del dolor al dolor. Las dificultades parecen insuperables para despejar en cada caso
-toda sombra de duda. Pero aunque sé que en algunos casos la identificación será extremadamente
-difícil, quiero decir como Presidenta que nos sostendremos en la empecinada esperanza de que
-hoy o mañana podamos saber su suerte. ¡Ese es mi compromiso!
+Así lo han entendido los gobiernos de la Concertación. Así lo entiendo yo. Hemos aplicado medidas de reparación concretas, en reconocimiento de la verdad acerca de los detenidos desaparecidos y ejecutados políticos, así como de las víctimas de la prisión política y tortura. Escúchenme bien, conciudadanos: mientras haya detenidos desaparecidos nunca dejaremos de buscarlos.
 
-El proceso de identificación de los restos de personas inhumadas ilegalmente ha enfrentado
-múltiples dificultades y retrasos. Los informes hechos públicos hace algunas semanas, que indican
-eventuales errores en la identificación de algunos detenidos desaparecidos, nos conmueven a
-todos y hieren profundamente nuestra conciencia.
+Hemos ido del dolor al dolor. Las dificultades parecen insuperables para despejar en cada caso toda sombra de duda. Pero aunque sé que en algunos casos la identificación será extremadamente difícil, quiero decir como Presidenta que nos sostendremos en la empecinada esperanza de que hoy o mañana podamos saber su suerte. ¡Ese es mi compromiso!
 
-Comprometemos todos los esfuerzos a nuestra disposición. Queremos poder decir al final de este
-camino a los familiares de las víctimas y a todos aquellos que sufrieron violaciones graves de los
-derechos humanos: ustedes son acogidos por una sociedad que solidariza en su sufrimiento. Y
-esta sociedad se compromete: hechos como éstos no volverán a ocurrir.
-Para ello hemos entregado y seguiremos entregando todos los recursos que se requieran. En
-colaboración con los Tribunales de Justicia evaluaremos los procesos de identificación y
-definiremos los casos que requieran nuevas pericias, con apoyo de expertos nacionales y
-extranjeros.
+El proceso de identificación de los restos de personas inhumadas ilegalmente ha enfrentado múltiples dificultades y retrasos. Los informes hechos públicos hace algunas semanas, que indican eventuales errores en la identificación de algunos detenidos desaparecidos, nos conmueven a todos y hieren profundamente nuestra conciencia.
+
+Comprometemos todos los esfuerzos a nuestra disposición. Queremos poder decir al final de este camino a los familiares de las víctimas y a todos aquellos que sufrieron violaciones graves de los derechos humanos: ustedes son acogidos por una sociedad que solidariza en su sufrimiento. Y esta sociedad se compromete: hechos como éstos no volverán a ocurrir.
+
+Para ello hemos entregado y seguiremos entregando todos los recursos que se requieran. En colaboración con los Tribunales de Justicia evaluaremos los procesos de identificación y definiremos los casos que requieran nuevas pericias, con apoyo de expertos nacionales y extranjeros.
 
 Seremos claros y transparentes. Diremos lo que podemos y lo que no podemos hacer.
 
-Esperamos que durante este año se pueda aprobar el proyecto de ley que crea el Instituto
-Nacional de Derechos Humanos, de manera de contar con un organismo autónomo que vele por la
-promoción y protección de los derechos humanos y que tenga capacidad de recomendar medidas
-que garanticen estos derechos.
+Esperamos que durante este año se pueda aprobar el proyecto de ley que crea el Instituto Nacional de Derechos Humanos, de manera de contar con un organismo autónomo que vele por la promoción y protección de los derechos humanos y que tenga capacidad de recomendar medidas que garanticen estos derechos.
 
-Mi compromiso con los derechos humanos, con la persona, con el derecho, tiene también
-expresión en nuestra política internacional.
+Mi compromiso con los derechos humanos, con la persona, con el derecho, tiene también expresión en nuestra política internacional.
 
-El mundo nos respeta por lo que somos: un país institucionalmente serio, democrático, que busca
-su camino al desarrollo. Pero también nos respeta por lo que promovemos: los valores de la
-democracia, la paz, el multilateralismo, el respeto del Derecho Internacional, el comercio libre
-pero justo, y los procesos de integración, que a veces son complejos pero imprescindibles para el
-desarrollo de nuestros pueblos.
+El mundo nos respeta por lo que somos: un país institucionalmente serio, democrático, que busca su camino al desarrollo. Pero también nos respeta por lo que promovemos: los valores de la democracia, la paz, el multilateralismo, el respeto del Derecho Internacional, el comercio libre pero justo, y los procesos de integración, que a veces son complejos pero imprescindibles para el desarrollo de nuestros pueblos.
 
-Sin descuidar las tareas globales, ni la profundización de nuestros lazos económicos
-internacionales, mi gobierno dará prioridad a nuestra política regional y vecinal, especialmente en
-un período en el cual parece haberse iniciado un debate acerca del futuro de la integración
-regional. Chile no ha sido ni será un actor pasivo en este debate y tiene un rol importante que
-jugar en esta etapa.
+Sin descuidar las tareas globales, ni la profundización de nuestros lazos económicos internacionales, mi gobierno dará prioridad a nuestra política regional y vecinal, especialmente en un período en el cual parece haberse iniciado un debate acerca del futuro de la integración regional. Chile no ha sido ni será un actor pasivo en este debate y tiene un rol importante que jugar en esta etapa.
 
-Continuaremos promoviendo la colaboración política y el comercio intra regional y, con especial
-énfasis, aquellas iniciativas de integración física, energética y de conectividad que mejoren la vida
-de los ciudadanos latinoamericanos.
+Continuaremos promoviendo la colaboración política y el comercio intra regional y, con especial énfasis, aquellas iniciativas de integración física, energética y de conectividad que mejoren la vida de los ciudadanos latinoamericanos.
 
-Aumentaremos nuestro esfuerzo de cooperación regional. Queremos impulsar a más profesionales
-y técnicos chilenos para que brinden asistencia técnica a nuestros vecinos. Queremos estrechar
-lazos. Para eso ofrecemos a la región lo mejor que tenemos: nuestra gente.
+Aumentaremos nuestro esfuerzo de cooperación regional. Queremos impulsar a más profesionales y técnicos chilenos para que brinden asistencia técnica a nuestros vecinos. Queremos estrechar lazos. Para eso ofrecemos a la región lo mejor que tenemos: nuestra gente.
 
-Un desafío inmediato y concreto es el de aportar al éxito de la democracia en Haití, donde se
-encuentran en juego tanto la estabilidad de la cuenca de El Caribe, como la credibilidad de las
-Naciones Unidas y, por qué no decirlo, de nuestra región.
+Un desafío inmediato y concreto es el de aportar al éxito de la democracia en Haití, donde se encuentran en juego tanto la estabilidad de la cuenca de El Caribe, como la credibilidad de las Naciones Unidas y, por qué no decirlo, de nuestra región.
 
-Haití es un desafío para los países latinoamericanos. Tenemos que demostrar que somos capaces
-de resolver nuestros problemas de desarrollo y de seguridad de manera concertada y que
-podemos buscar puntos de encuentro con la comunidad internacional, Europa y Estados Unidos.
+Haití es un desafío para los países latinoamericanos. Tenemos que demostrar que somos capaces de resolver nuestros problemas de desarrollo y de seguridad de manera concertada y que podemos buscar puntos de encuentro con la comunidad internacional, Europa y Estados Unidos.
 
-Hemos tenido éxito. Haití ha realizado las mejores elecciones democráticas de su historia y quiero
-agradecer muy sinceramente a este Congreso por haber aprobado la mantención de nuestras
-tropas en Haití. Me siento orgullosa como chilena, porque estamos construyendo la paz.
+Hemos tenido éxito. Haití ha realizado las mejores elecciones democráticas de su historia y quiero agradecer muy sinceramente a este Congreso por haber aprobado la mantención de nuestras tropas en Haití. Me siento orgullosa como chilena, porque estamos construyendo la paz.
 
-Y la estamos construyendo con unas Fuerzas Armadas y de Orden que son de todos los chilenos.
-Fuerzas Armadas para la paz, modernas y profesionalizadas. Avanzaremos hacia un servicio
-militar voluntario, más soldados profesionales y por cierto más mujeres. Tendremos una política
-de Defensa coherente con la estrategia de desarrollo del país, la que se manifiesta en nuestros
-Libros de la Defensa que están allí, a disposición de todos los chilenos, pero también de la
-comunidad internacional.
+Y la estamos construyendo con unas Fuerzas Armadas y de Orden que son de todos los chilenos. Fuerzas Armadas para la paz, modernas y profesionalizadas. Avanzaremos hacia un servicio militar voluntario, más soldados profesionales y por cierto más mujeres. Tendremos una política de Defensa coherente con la estrategia de desarrollo del país, la que se manifiesta en nuestros Libros de la Defensa que están allí, a disposición de todos los chilenos, pero también de la comunidad internacional.
 
 Conciudadanos y conciudadanas de este honorable Congreso:
 
-Hoy todos trabajamos para que Chile sea un país más próspero. En esta labor no cejaremos. Pero
-la prosperidad que buscamos puede ser excluyente o puede ser compartida. Chile puede ser un
-país dividido o un país solidario. Yo no dudo cuál debe ser la opción.
+Hoy todos trabajamos para que Chile sea un país más próspero. En esta labor no cejaremos. Pero la prosperidad que buscamos puede ser excluyente o puede ser compartida. Chile puede ser un país dividido o un país solidario. Yo no dudo cuál debe ser la opción.
 
-El compromiso de mi Gobierno es abrir un amplio camino de oportunidades. Un compromiso para
-todos, no para un solo bando.
-Los que estamos en este salón de honor, los hombres, las mujeres y los jóvenes que nos ven y
-nos escuchan, somos todos del mismo bando. Del bando de los que amamos a nuestro país y que
-queremos lo mejor para Chile. Es mucho más lo que nos une que lo que nos separa.
+El compromiso de mi Gobierno es abrir un amplio camino de oportunidades. Un compromiso para todos, no para un solo bando.
+
+Los que estamos en este salón de honor, los hombres, las mujeres y los jóvenes que nos ven y nos escuchan, somos todos del mismo bando. Del bando de los que amamos a nuestro país y que queremos lo mejor para Chile. Es mucho más lo que nos une que lo que nos separa.
 
 Amigas y amigos:
 
-Les he hablado de números y programas, de transformaciones y metas. Pero hay algo más en mi
-tarea de gobernar. Para mí gobernar es también ver, escuchar y responder a las personas.
+Les he hablado de números y programas, de transformaciones y metas. Pero hay algo más en mi tarea de gobernar. Para mí gobernar es también ver, escuchar y responder a las personas.
 
 Quiero leer una carta que me envió un niño. Aquí está, no la escribí yo.
 
-"Hola señora Presidenta:
+> Hola señora Presidenta:
+>
+> Quiero felicitarla porque usted sacará a Chile adelante. Usted puede lograr que Chile sea el mejor país para sus ciudadanos y ciudadanas.
+>
+> La pobreza se ve en las casas. Es como un resfriado, hay que encontrar la cura. Usted es la cura para los más necesitados.
+>
+> Señora Presidenta, sé que usted puede salir adelante por un Chile nuevo y confiable.
+>
+> Se despide alegremente,
+>
+> Rodrigo Valenzuela Mardones
+> Sexto A del Liceo Avenida Principal, Conchalí
 
-Quiero felicitarla porque usted sacará a Chile adelante. Usted puede lograr que Chile sea el mejor
-país para sus ciudadanos y ciudadanas.
+En su inocencia, el pequeño Rodrigo nos dice algo que jamás debemos olvidar: un Gobierno comprometido con su gente puede hacer una diferencia enorme en la vida de las personas.
 
-La pobreza se ve en las casas. Es como un resfriado, hay que encontrar la cura. Usted es la cura
-para los más necesitados.
+Quiero decirle a Rodrigo y a los Rodrigos que, con la ayuda de todos, tendremos este Chile "nuevo y confiable" que él anhela.
 
-Señora Presidenta, sé que usted puede salir adelante por un Chile nuevo y confiable.
+El año 2010, cuando termine mi Gobierno, Rodrigo va a estar en la enseñanza media. Estará pensando en rendir la PSU y en entrar a la universidad. Trabajaré para que Rodrigo y los Rodrigos, y las Marías –para que no me rete ninguna de las mujeres que está acá–, tengan una beca en premio a su esfuerzo y estudio. Para que su capacidad de crear no tenga límites. Para que puedan aprender, puedan navegar en Internet, puedan salir al mundo.
 
-Se despide alegremente,
+Trabajaré para que sus vecinos más pequeños puedan ir al jardín infantil, donde reciban cuidado y buena educación. Para que su madre pueda trabajar fuera de casa si lo desea, en un empleo digno, con un horario que le permita tener vida familiar.
 
-Rodrigo Valenzuela Mardones
-Sexto A del Liceo Avenida Principal, Conchalí".
+El año 2010, la ciudad en que Rodrigo y su familia vivirán será más segura y amable. Rodrigo y su hermano viajarán al colegio en transporte público cómodo y limpio. Su abuelo recibirá una pensión digna y su abuela podrá atenderse en un consultorio cercano y bien equipado.
 
-En su inocencia, el pequeño Rodrigo nos dice algo que jamás debemos olvidar: un Gobierno
-comprometido con su gente puede hacer una diferencia enorme en la vida de las personas.
+Así es el Chile que quiero para Rodrigo y para todos los chilenos y chilenas. Un Chile nuevo y confiable como nos dice él. Alegremente, como él dice.
 
-Quiero decirle a Rodrigo y a los Rodrigos que, con la ayuda de todos, tendremos este Chile "nuevo
-y confiable" que él anhela.
-
-El año 2010, cuando termine mi Gobierno, Rodrigo va a estar en la enseñanza media. Estará
-pensando en rendir la PSU y en entrar a la universidad. Trabajaré para que Rodrigo y los Rodrigos,
-y las Marías –para que no me rete ninguna de las mujeres que está acá–, tengan una beca en
-premio a su esfuerzo y estudio. Para que su capacidad de crear no tenga límites. Para que puedan
-aprender, puedan navegar en Internet, puedan salir al mundo.
-
-Trabajaré para que sus vecinos más pequeños puedan ir al jardín infantil, donde reciban cuidado y
-buena educación. Para que su madre pueda trabajar fuera de casa si lo desea, en un empleo
-digno, con un horario que le permita tener vida familiar.
-
-El año 2010, la ciudad en que Rodrigo y su familia vivirán será más segura y amable. Rodrigo y su
-hermano viajarán al colegio en transporte público cómodo y limpio. Su abuelo recibirá una pensión
-digna y su abuela podrá atenderse en un consultorio cercano y bien equipado.
-
-Así es el Chile que quiero para Rodrigo y para todos los chilenos y chilenas. Un Chile nuevo y
-confiable como nos dice él. Alegremente, como él dice.
-
-Un Chile de todos, más moderno y acogedor, más integrado y más integrador, más justo, más
-humano.
+Un Chile de todos, más moderno y acogedor, más integrado y más integrador, más justo, más humano.
 
 Ese es el Chile del 2010 y hacia allá vamos a avanzar.
 
-Buenos días y muchas gracias
-
+Buenos días y muchas gracias.
