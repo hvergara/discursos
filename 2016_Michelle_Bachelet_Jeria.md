@@ -1,5 +1,8 @@
-Michelle Bachelet 
-Presidenta 2014-2018
+# Michelle Bachelet
+
+## MENSAJE PRESIDENCIAL, 21 DE MAYO DE 2016
+
+![Michelle Bachelet](https://prensa.presidencia.cl/lfi-content/uploads/2016/05/_srq4767.jpg)
 
 Queridos compatriotas,
 
@@ -73,7 +76,8 @@ Esta debe ser nuestra motivación como país, converger hacia una gran voluntad 
 Permítanme mostrarles cómo este avance al desarrollo se está haciendo realidad hoy en la vida de todos nosotros. Déjenme mostrarles que cuando Chile quiere cambiar para bien, lo hace.
 
 
-1. La reforma educacional ya está en marcha
+
+## La reforma educacional ya está en marcha
 
 Las familias chilenas conocen el valor de la educación. Saben que es el ámbito de las oportunidades y las esperanzas, y saben muy bien que en 2014 el panorama estaba lejos de ser lo que Chile necesita.
 
@@ -153,7 +157,10 @@ Junto con concluir la tramitación de los proyectos que actualmente están en ma
 
 Hoy tenemos el orgullo de decir que la Reforma Educacional dejó de ser una promesa. Es una realidad que estamos construyendo. Los resultados tomarán tiempo, pero lo lograremos con persistencia y unidad.
 
-2. Sin crecimiento económico no hay desarrollo social Así como hemos sido capaces como sociedad de mejorar la educación mediante una reforma integral, debemos poner la economía de Chile a la altura de las nuevas exigencias.
+
+## Sin crecimiento económico no hay desarrollo social
+
+Así como hemos sido capaces como sociedad de mejorar la educación mediante una reforma integral, debemos poner la economía de Chile a la altura de las nuevas exigencias.
 
 Debemos tomarnos muy en serio el crecimiento económico. De ello depende que haya más y mejores empleos, más prosperidad, que podamos ampliar nuestros derechos y oportunidades.
 
@@ -336,7 +343,7 @@ Y sabemos que todo eso se logra con instituciones fuertes, legítimas e independ
 Estoy segura de que podemos trabajar juntos sobre la base de estos principios.
 
 
-3. Más protección para vivir tranquilos 
+## Más protección para vivir tranquilos 
 
 Amigas y amigos,
 
@@ -517,7 +524,10 @@ En noviembre de 2015 también se inauguró el nuevo Sistema de Respaldo de Comun
 Así, con un trabajo sistemático y unitario, con una nueva institucionalidad y fuerte inversión, sumando tecnología a recursos humanos mejor preparados, estamos abocados a la gran demanda de la ciudadanía, de asegurar la protección que les permita vivir tranquilos.
 
 
-4. Ciudades y barrios más amables El avance hacia el desarrollo tiene que expresarse también en que vivamos mejor juntos, en ambientes de calidad y amables. Y en esto Chile tiene temas pendientes que estamos enfrentando con decisión.
+
+## Ciudades y barrios más amableS
+
+El avance hacia el desarrollo tiene que expresarse también en que vivamos mejor juntos, en ambientes de calidad y amables. Y en esto Chile tiene temas pendientes que estamos enfrentando con decisión.
 
 ¿Por qué un trabajador debe viajar dos horas para llegar a su lugar de trabajo?
 
@@ -615,7 +625,8 @@ Junto con ello, nos hemos trazado el objetivo de crear una Área Marina Protegid
 En otras palabras, es posible concebir otra forma de desarrollo de nuestros barrios, de nuestro territorio, buscando mayor integración y cohesión. Es lo que ha guiado nuestras políticas en estos dos años y lo seguirá haciendo en los dos que quedan.
 
 
-5. Chile inserto en los desafíos del mundo
+
+## Chile inserto en los desafíos del mundo
 
 Un pilar para un país que quiere ampliar sus oportunidades es su capacidad para insertarse favorablemente en el mundo actual y hacer valer su soberanía.
 
@@ -643,7 +654,8 @@ He instruido a los ministros correspondientes para que trabajen con las Fuerzas 
 ámbitos de la vida nacional.
 
 
-6. Nueva democracia, mejores reglas
+
+## Nueva democracia, mejores reglas
 
 Ciudadanos y ciudadanas,
 
@@ -731,6 +743,7 @@ Quien se margina no sólo se queda abajo del carro de la historia chilena, sino 
 La democracia chilena no es inmune a la fatiga ni a las malas prácticas, pero hemos mostrado que tenemos las herramientas para rediseñar las instituciones, ponerlas a tono con los tiempos, hacerlas más transparentes y representativas, y poner atajo a quienes quieren hacer trampa.
 
 Hemos demostrado entre todos, que está naciendo una nueva democracia para el nuevo Chile.
+
 
 Conciudadanos de mi Patria,
 
