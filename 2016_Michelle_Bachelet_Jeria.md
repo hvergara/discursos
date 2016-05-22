@@ -525,7 +525,7 @@ Así, con un trabajo sistemático y unitario, con una nueva institucionalidad y 
 
 
 
-## Ciudades y barrios más amableS
+## Ciudades y barrios más amables
 
 El avance hacia el desarrollo tiene que expresarse también en que vivamos mejor juntos, en ambientes de calidad y amables. Y en esto Chile tiene temas pendientes que estamos enfrentando con decisión.
 
