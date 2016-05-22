@@ -1,0 +1,25 @@
+{
+  "name": "discursos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generator.js",
+  "scripts": {
+    "start": "node generator.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hvergara/discursos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hvergara/discursos/issues"
+  },
+  "homepage": "https://github.com/hvergara/discursos",
+  "dependencies": {
+    "async": "^2.0.0-rc.5",
+    "ejs": "^2.4.1",
+    "marked": "^0.3.5",
+    "request": "^2.72.0"
+  }
+}

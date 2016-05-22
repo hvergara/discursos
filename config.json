@@ -1,0 +1,54 @@
+{
+	"years": {
+		"1971": {
+			"filename": "1971_Salvador_Allende_Gossens.md",
+			"president": "Salvador_Allende"
+		},
+		"1972":	{
+			"filename": "1972_Salvador_Allende_Gossens.md",
+			"president": "Salvador_Allende"
+		},
+		"1973":	{
+			"filename": "1973_Salvador_Allende_Gossens.md",
+			"president": "Salvador_Allende"
+		},
+		"2006":	{
+			"filename": "2006_Michelle_Bachelet_Jeria.md",
+			"president": "Michelle_Bachelet"
+		},
+		"2007":	{
+			"filename": "2007_Michelle_Bachelet_Jeria.md",
+			"president": "Michelle_Bachelet"
+		},
+		"2008":	{
+			"filename": "2008_Michelle_Bachelet_Jeria.md",
+			"president": "Michelle_Bachelet"
+		},
+		"2009":	{
+			"filename": "2009_Michelle_Bachelet_Jeria.md",
+			"president": "Michelle_Bachelet"
+		},
+		"2014":	{
+			"filename": "2014_Michelle_Bachelet_Jeria.md",
+			"president": "Michelle_Bachelet"
+		},
+		"2015":	{
+			"filename": "2015_Michelle_Bachelet_Jeria.md",
+			"president": "Michelle_Bachelet"
+		},
+		"2016":	{
+			"filename": "2016_Michelle_Bachelet_Jeria.md",
+			"president": "Michelle_Bachelet"
+		}
+	},
+	"presidents": {
+		"Salvador_Allende": {
+			"name": "Salvador Allende Gossens"
+		},
+		"Michelle_Bachelet": {
+			"name": "Michelle Bachelet Jeria"
+		}
+	},
+	"base_url": "https://raw.githubusercontent.com/hvergara/discursos/master/",
+	"title_template": "%s - 21 de mayo de %s"
+}

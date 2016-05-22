@@ -1,0 +1,71 @@
+body {
+	font-family: Garamond, serif;
+	width: 650px;
+	margin: 0 auto;
+	font-size: 18px;
+}
+
+h1, h2, h3, h4, h5 {
+	text-align: center;
+}
+
+h1 {
+	margin: 90px 0 30px;
+	font-size: 48px;
+}
+
+h2 {
+	margin: 60px 0 30px;
+	font-size: 32px;
+}
+
+h3 {
+	margin: 40px 0 15px;
+}
+
+p {
+	line-height: 1.4;
+}
+
+/* Combinations */
+
+h1 + h2 {
+	margin-top: 0;
+}
+
+h2 + h2 {
+	margin: 10px 0;
+}
+
+/* Media */
+
+img {
+	max-width: 100%;
+	margin: 0 auto;
+	display: block;
+}
+
+
+/* Ornaments */
+
+h2::after {
+	content: '';
+  width: 200px;
+  height: 1px;
+  background: #CCC;
+  display: block;
+  margin: 10px auto 0;
+}
+
+h1 + h2::after {
+	display: none;
+}
+
+body::after {
+	content: '';
+  width: 200px;
+  height: 1px;
+  background: #ccc;
+  display: block;
+  margin: 60px auto 60px;
+}

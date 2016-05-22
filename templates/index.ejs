@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Discursos 21 de mayo</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="../main.css" />
+  </head>
+  <body>
+    <section id="content">
+      
+      <% 
+        for (var id in presidents) { 
+          var president = presidents[id] 
+      %>
+      <div class="president">
+        <h2><%= president.name %></h2>
+
+        <% years[id].map((year) => { %>
+          <a href="<%= year %>/index.html"><%= year %></a>
+        <% }) %>
+
+      </div>
+      <% } %>
+
+    </section>
+  </body>
+</html>
