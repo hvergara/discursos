@@ -21,8 +21,7 @@ Estamos orgullosos de Chile.
 
 En las últimas décadas, después de recuperar la democracia, hemos construido un país con rostro nuevo. Un país que defiende los derechos humanos, con ciudadanos más conscientes y empoderados, con mayor prosperidad, oportunidades y protección social, con más diversidad cultural, integrado y valorado en el mundo.
 
-Avanzamos como nunca antes. Y aunque tenemos una gran oportunidad de ser desarrollados,
-no hemos tenido todas las capacidades que se requieren para aprovecharla plenamente.
+Avanzamos como nunca antes. Y aunque tenemos una gran oportunidad de ser desarrollados, no hemos tenido todas las capacidades que se requieren para aprovecharla plenamente.
 
 Durante demasiados años la productividad ha estado estancada y nuestra economía se ha centrado en unas pocas materias primas; nuestro sistema político no se adaptó a las mayores exigencias de los ciudadanos y permitió malas prácticas; la educación de calidad era sólo para los que podían pagarla; el Estado ha sido lento para actuar y los mercados han sido poco transparentes y poco competitivos.
 
@@ -50,16 +49,9 @@ Pero debo señalar también que ha habido resistencia a los cambios. Algunos no 
 
 Entiendo a los que sienten temor frente a los cambios, es normal. Es cierto que la desaceleración de nuestra economía y la pérdida de confianza en la política traen incertidumbres.
 
-Pero este no es un argumento para paralizarse: si no hacemos los cambios todos juntos y ahora,
-las tensiones y obstáculos crecerán y frustraremos nuestra oportunidad de progreso.
+Pero este no es un argumento para paralizarse: si no hacemos los cambios todos juntos y ahora, las tensiones y obstáculos crecerán y frustraremos nuestra oportunidad de progreso.
 
-
-
-
-Debemos confiar en Chile y sus ciudadanos, este es un país maduro y sensato. Nadie está
-dispuesto a arriesgar lo que ha costado tanto conseguir. Pero no podemos seguir haciendo más de lo mismo. Esto ya no es una opción.
-
-
+Debemos confiar en Chile y sus ciudadanos, este es un país maduro y sensato. Nadie está dispuesto a arriesgar lo que ha costado tanto conseguir. Pero no podemos seguir haciendo más de lo mismo. Esto ya no es una opción.
 
 Por eso nos hemos puesto en marcha. Y ahora, cuando nos encontramos en la mitad del mandato, tenemos la satisfacción de decir que hemos cumplido con gran parte de nuestros compromisos. Los resultados ya están comenzando a verse, como les mostraré hoy.
 
@@ -67,9 +59,7 @@ Por eso nos hemos puesto en marcha. Y ahora, cuando nos encontramos en la mitad 
 
 Con hechos reales, ya empieza a concluirse lo que podríamos llamar la “obra gruesa” de nuestras reformas. Hemos llevado a cabo aquel conjunto de iniciativas que son la base para seguir avanzando, las que permiten superar los obstáculos más importantes, y las que tienen a la larga un impacto positivo y duradero sobre la vida de los chilenos y chilenas.
 
-Obra gruesa es la reforma tributaria, la expansión de la cobertura preescolar y el inicio de la gratuidad e inclusión en educación, la carrera docente, las iniciativas para mejorar la productividad de nuestra economía, el fin del binominal y la partida del proceso constituyente,
-las nuevas reglas del juego para una política y unos negocios más transparentes y sin abusos,
-el reconocimiento a nuestras diversidades.
+Obra gruesa es la reforma tributaria, la expansión de la cobertura preescolar y el inicio de la gratuidad e inclusión en educación, la carrera docente, las iniciativas para mejorar la productividad de nuestra economía, el fin del binominal y la partida del proceso constituyente, las nuevas reglas del juego para una política y unos negocios más transparentes y sin abusos, el reconocimiento a nuestras diversidades.
 
 ¡Hemos avanzado mucho en tan sólo 26 meses!
 
@@ -77,8 +67,7 @@ Continuaremos con las propuestas pendientes, menos numerosas, que hacen posible 
 
 Para el tiempo que viene nuestra principal tarea es asegurar que cada reforma se lleve a la práctica correctamente, mejorando la gestión donde sea necesario.
 
-Creo profundamente que los cambios que hemos emprendido son necesarios y tienen sentido,
-porque los ganadores son los chilenos y chilenas. Las generaciones de hoy y las de mañana.
+Creo profundamente que los cambios que hemos emprendido son necesarios y tienen sentido, porque los ganadores son los chilenos y chilenas. Las generaciones de hoy y las de mañana.
 Esta debe ser nuestra motivación como país, converger hacia una gran voluntad nacional para hacer real el futuro que nos merecemos.
 
 Permítanme mostrarles cómo este avance al desarrollo se está haciendo realidad hoy en la vida de todos nosotros. Déjenme mostrarles que cuando Chile quiere cambiar para bien, lo hace.
@@ -90,17 +79,9 @@ Las familias chilenas conocen el valor de la educación. Saben que es el ámbito
 
 ¿Acaso teníamos una educación que daba oportunidades equitativas? ¿Una educación que permitía que las grandes mayorías tuvieran derecho a una educación de calidad?
 
-¿Acaso teníamos una educación que transmitiera valores de cooperación y solidaridad? ¿O una
-
-
-
-
-
-educación realmente al servicio del desarrollo de la nación?
+¿Acaso teníamos una educación que transmitiera valores de cooperación y solidaridad? ¿O una educación realmente al servicio del desarrollo de la nación?
 
 Los chilenos y chilenas tienen claro que no se podía seguir esperando para realizar cambios de verdad.
-
-
 
 Tenemos los recursos y el deber de invertir en el mayor talento de nuestro país, que son sus capacidades humanas.
 
@@ -108,12 +89,9 @@ El progreso demanda conocimiento. El desarrollo exige que todos puedan desplegar
 
 Es por eso que hoy la reforma educacional está en marcha.
 
-Se trata de una de las transformaciones más profundas en décadas al sistema educacional,
-comparable con la reforma de los años ‘20, que garantizó seis años de educación obligatoria;
-o la reforma de los ‘60, que la amplió a ocho años y garantizó el acceso a todos y todas a las escuelas.
+Se trata de una de las transformaciones más profundas en décadas al sistema educacional, comparable con la reforma de los años ‘20, que garantizó seis años de educación obligatoria; o la reforma de los ‘60, que la amplió a ocho años y garantizó el acceso a todos y todas a las escuelas.
 
-Hoy Chile está dando forma a un sistema donde se pueda acceder a una buena educación desde la sala cuna a la educación superior y técnica. Mejorar el acceso y mejorar la calidad:
-esos son los dos principios que sustentan todas las iniciativas de la reforma educacional, las que ya son ley y las que lo serán antes de que termine el gobierno.
+Hoy Chile está dando forma a un sistema donde se pueda acceder a una buena educación desde la sala cuna a la educación superior y técnica. Mejorar el acceso y mejorar la calidad: esos son los dos principios que sustentan todas las iniciativas de la reforma educacional, las que ya son ley y las que lo serán antes de que termine el gobierno.
 
 Queremos que nuestros hijos e hijas, sin importar donde vivan, tengan alternativas reales para recibir educación preescolar, algo esencial para equiparar derechos y abrirles un mundo de nuevas posibilidades. Toda la evidencia muestra que el apoyo y estímulo recibido en los tres primeros años de vida marcarán sus oportunidades en el futuro.
 
@@ -129,22 +107,11 @@ Son las propias familias las que lo pueden decir: desde marzo de este año, más
 
 Pero los cambios abarcan muchos más temas que la gratuidad. La reforma a la educación se juega en las salas de clase, donde profesores y profesoras trabajan incansablemente.
 
-A ellos les estamos dando el reconocimiento y las condiciones laborales y materiales que se merecen. Tendrán sueldos dignos, capacitaciones, más horas para preparar sus clases y nuevos métodos que motiven en sus alumnos el amor por el saber. Y pondremos énfasis en la calidad 21 DE MAYO DE 2016
+A ellos les estamos dando el reconocimiento y las condiciones laborales y materiales que se merecen. Tendrán sueldos dignos, capacitaciones, más horas para preparar sus clases y nuevos métodos que motiven en sus alumnos el amor por el saber. Y pondremos énfasis en la calidad de su formación y estableceremos requisitos más exigentes para estudiar pedagogía.
 
+Además, estamos entrando a la sala de clase con mejor material. Ya hemos entregado 194 mil computadores a los estudiantes de 7° básico de establecimientos públicos entre el 2015 y este año. Al finalizar este gobierno, alcanzaremos a 300 mil alumnos, conectados para aprender y abrirse al mundo.
 
-
-
-de su formación y estableceremos requisitos más exigentes para estudiar pedagogía.
-
-Además, estamos entrando a la sala de clase con mejor material. Ya hemos entregado 194 mil computadores a los estudiantes de 7° básico de establecimientos públicos entre el 2015 y este
-
-
-
-año. Al finalizar este gobierno, alcanzaremos a 300 mil alumnos, conectados para aprender y abrirse al mundo.
-
-También hemos entregado más de 18,5 millones de textos escolares que, a partir de este año,
-son además propiedad del alumno. Esto se suma a las 57 mil tablets distribuidas para prekínder,
-kínder y primero básico que apoyarán el desarrollo de las habilidades de estos auténticos nativos digitales.
+También hemos entregado más de 18,5 millones de textos escolares que, a partir de este año, son además propiedad del alumno. Esto se suma a las 57 mil tablets distribuidas para prekínder, kínder y primero básico que apoyarán el desarrollo de las habilidades de estos auténticos nativos digitales.
 
 Como sabemos que los directivos cumplen un rol clave en el mejoramiento de la calidad educativa, hemos creado dos Centros de Liderazgo Escolar, que contribuirán al fortalecimiento de las capacidades en investigación, innovación y procesos formativos de más de mil 500 directivos escolares en todo Chile.
 
@@ -156,8 +123,7 @@ Quienes estudian gratuitamente representan el 54,3 por ciento de la matrícula 2
 
 Este es un proceso en que no hay vuelta atrás. Enviaré el proyecto de Ley de Educación Superior el próximo mes. Fijaremos las reglas permanentes de la gratuidad y la manera en que aumentará la cobertura.
 
-Desde el próximo año incluiremos a la gratuidad a los institutos profesionales y centros de formación técnica sin fines de lucro y acreditados por cuatro años, para estudiantes de los primeros cinco deciles de ingresos. El año 2018 habremos ampliado la gratuidad hasta el 6°
-decil y luego la ley fijará los mecanismos para avanzar en cubrir los deciles restantes. Las condiciones de esta progresión quedarán establecidas explícitamente en la ley.
+Desde el próximo año incluiremos a la gratuidad a los institutos profesionales y centros de formación técnica sin fines de lucro y acreditados por cuatro años, para estudiantes de los primeros cinco deciles de ingresos. El año 2018 habremos ampliado la gratuidad hasta el 6° decil y luego la ley fijará los mecanismos para avanzar en cubrir los deciles restantes. Las condiciones de esta progresión quedarán establecidas explícitamente en la ley.
 
 Junto a la inclusión, debemos dar un sustento institucional para asegurar calidad.
 
@@ -167,21 +133,17 @@ Por esta razón, transformaremos la actual Comisión Nacional de Acreditación e
 
 La acreditación, entregada por este consejo, será obligatoria, con criterios conocidos y públicos que aborden de manera integral la exigencia de calidad.
 
-
 No olvidemos que además estamos creando dos universidades estatales en las únicas regiones que no tenían hasta ahora: O’Higgins y Aysén, porque el rol específico de la educación superior estatal es la integración, la excelencia y el compromiso con el desarrollo de todo el territorio.
 
-Y para que la educación superior técnica sea cada vez más atractiva para nuestros jóvenes, ya es ley la creación de quince Centros de Formación Técnica estatales, uno en cada región, con altos estándares y con una oferta formativa con alta pertinencia territorial. Así, en la región de Valparaíso,
-en las sedes de San Antonio y Los Andes, se priorizará la logística portuaria, agrícola y mantención industrial, y, en Ovalle, las áreas priorizadas serán agroindustria y energías renovables.
+Y para que la educación superior técnica sea cada vez más atractiva para nuestros jóvenes, ya es ley la creación de quince Centros de Formación Técnica estatales, uno en cada región, con altos estándares y con una oferta formativa con alta pertinencia territorial. Así, en la región de Valparaíso, en las sedes de San Antonio y Los Andes, se priorizará la logística portuaria, agrícola y mantención industrial, y, en Ovalle, las áreas priorizadas serán agroindustria y energías renovables.
 
 Queremos cambiar la visión que hay sobre la formación técnica y reconocer su importancia estratégica. Para enfrentar los desafíos de productividad, competitividad e innovación conformaremos un Consejo Nacional de Formación Técnico Profesional liderado por el Ministerio de Educación, junto a los ministerios del Trabajo y de Economía, representantes de los empleadores, de los trabajadores y expertos.
 
 Paralelamente, pusimos en marcha el Programa PACE, que apoya no sólo el ingreso sino que también la permanencia en la universidad o el CFT. A fines del gobierno, las tres primeras generaciones que han participado en este innovador programa contarán con once mil cupos garantizados para acceder a la educación superior.
 
-También tenemos que tener claro que para perfeccionar un sistema mixto de educación como el que existe en Chile, se requiere fortalecer la educación pública. Necesitamos que sea un ejemplo para el sistema educativo en su conjunto y que recupere el lugar que le corresponde,
-en el corazón de la República y de los chilenos.
+También tenemos que tener claro que para perfeccionar un sistema mixto de educación como el que existe en Chile, se requiere fortalecer la educación pública. Necesitamos que sea un ejemplo para el sistema educativo en su conjunto y que recupere el lugar que le corresponde, en el corazón de la República y de los chilenos.
 
-Por eso se están llevando adelante programas específicos para mejorar la educación pública,
-en infraestructura, implementación deportiva, pero además en materia de aprendizaje y convivencia escolar, en particular el control del bullying.
+Por eso se están llevando adelante programas específicos para mejorar la educación pública, en infraestructura, implementación deportiva, pero además en materia de aprendizaje y convivencia escolar, en particular el control del bullying.
 
 Con el mismo propósito, presentamos el proyecto de ley que crea el Sistema Nacional de Educación Pública, que actualmente se discute en este Congreso. La razón es muy sencilla: la calidad de la educación pública no puede depender de las capacidades que tenga el municipio.
 
@@ -191,19 +153,11 @@ Junto con concluir la tramitación de los proyectos que actualmente están en ma
 
 Hoy tenemos el orgullo de decir que la Reforma Educacional dejó de ser una promesa. Es una realidad que estamos construyendo. Los resultados tomarán tiempo, pero lo lograremos con persistencia y unidad.
 
-
 2. Sin crecimiento económico no hay desarrollo social Así como hemos sido capaces como sociedad de mejorar la educación mediante una reforma integral, debemos poner la economía de Chile a la altura de las nuevas exigencias.
 
-Debemos tomarnos muy en serio el crecimiento económico. De ello depende que haya más y 21 DE MAYO DE 2016
-
-
-
-
-mejores empleos, más prosperidad, que podamos ampliar nuestros derechos y oportunidades.
+Debemos tomarnos muy en serio el crecimiento económico. De ello depende que haya más y mejores empleos, más prosperidad, que podamos ampliar nuestros derechos y oportunidades.
 
 Sin crecimiento sostenido el progreso social termina siendo una ilusión.
-
-
 
 Nuestra economía enfrenta retos que son más profundos que una mala racha pasajera en los precios del cobre. Pero la bonanza minera los ocultó. O dicho en forma más clara, algunos prefirieron no ver lo que se estaba incubando.
 
@@ -225,8 +179,7 @@ Junto con estas medidas, no abandonaremos el trabajo con sentido de largo plazo.
 Esta es mi invitación hoy: hagamos un pacto por un crecimiento que se sostenga en el tiempo.
 Sabemos que necesitamos mejorar nuestro capital humano con una educación de calidad y capacitaciones alineadas con las necesidades económicas: es lo que estamos haciendo.
 
-Sabemos que Chile debe modernizar su economía. Eso significa más integración internacional,
-más productividad, más diversificación e innovación, mejor equilibrio entre crecimiento y medio ambiente: ¡los invito a hacerlo juntos!
+Sabemos que Chile debe modernizar su economía. Eso significa más integración internacional, más productividad, más diversificación e innovación, mejor equilibrio entre crecimiento y medio ambiente: ¡los invito a hacerlo juntos!
 
 Porque sin complementariedad entre el Estado y el sector privado, sin lazos de confianza entre empresarios, trabajadores y comunidades, todo esfuerzo será en vano.
 
@@ -235,8 +188,6 @@ Buscamos relaciones laborales justas, que propicien metas estratégicas comparti
 La experiencia de los países que hoy son desarrollados así lo indica: el diálogo social es clave para combinar crecimiento e inclusión. Todos cedieron un poco, todos se esforzaron un poco más, y al final todos salieron ganando.
 
 Estoy optimista, porque hemos visto cómo se ha instalado una visión y acciones comunes sobre uno de nuestros principales retos: elevar la productividad. Ya contamos con muchas y muy buenas propuestas, y lo más importante, hemos comenzado a hacerlas realidad.
-
-
 
 Está en marcha la Agenda de Productividad, Innovación y Crecimiento. Y hoy puedo decir que más del 80 por ciento de sus medidas están en funcionamiento y produciendo resultados. Este Congreso ya está discutiendo el proyecto de ley que promueve las exportaciones de servicios y mejora el acceso al financiamiento.
 
@@ -266,8 +217,6 @@ Y hemos propuesto la creación del Fondo de Infraestructura, que con un potencia
 
 La infraestructura de calidad se traduce en más integración en el territorio y más oportunidades de emprendimiento para el campo, la costa y las zonas turísticas.
 
-
-
 Son los habitantes de sectores aislados los que ganan con la reposición del muelle de Puerto Sur de la isla Santa María de Coronel, la construcción del muelle multipropósito de Raúl Marín Balmaceda de la comuna de Cisnes o el terminal portuario de Puerto Aguirre de Aysén.
 
 La pesca artesanal es el sustento para miles de familias. Por eso hemos dado un impulso especial a su infraestructura. Terminamos las obras de la caleta de Puerto Williams y mejoramos las caletas de Hornos, Tongoy, Coliumo, Maullín, Maguellines de Constitución y Guardiamarina Riquelme de Iquique.
@@ -288,18 +237,11 @@ Nuestro compromiso es perfeccionar la legislación pesquera, para asegurar la su
 
 Sin agua no hay desarrollo. Por eso estamos avanzando con obras concretas para asegurar agua para el consumo humano y para la actividad agrícola.
 
-Estamos cumpliendo nuestro compromiso de aumentar en 35 por ciento la capacidad de acumulación de agua. Ya están en construcción los grandes embalses de Valle Hermoso, en la Región de Coquimbo, y este año comienzan las obras de ampliación del embalse Los Aromos en el río Aconcagua. Se sumarán 25 pequeños embalses y los embalses Punilla y Chironta,
-actualmente en proceso de adjudicación y licitación.
+Estamos cumpliendo nuestro compromiso de aumentar en 35 por ciento la capacidad de acumulación de agua. Ya están en construcción los grandes embalses de Valle Hermoso, en la Región de Coquimbo, y este año comienzan las obras de ampliación del embalse Los Aromos en el río Aconcagua. Se sumarán 25 pequeños embalses y los embalses Punilla y Chironta, actualmente en proceso de adjudicación y licitación.
 
 Además de la energía y la infraestructura, la proyección de nuestra economía descansa cada vez más en lo que hagamos en conectividad digital.
 
-
-
-
-
 Todos hemos hecho grandes esfuerzos para estar bien conectados: el Estado, las empresas y las familias. Y hemos tenido buenos resultados: hoy, de cada 100 habitantes, 76 son usuarios de Internet. Esto equivale a 12,7 millones de internautas, lo que nos sitúa en el primer lugar de América Latina.
-
-
 
 Son muchas las iniciativas en curso, como el despliegue de la banda de 700 MHz, que ofrece conexiones más rápidas y de menor costo para los usuarios. O la instalación de tendidos submarinos y terrestres de fibra óptica para mejorar la conexión y abrir nuevas posibilidades de negocio en Los Lagos, Aysén y Magallanes.
 
@@ -312,8 +254,7 @@ No podemos hablar de impulsar el desarrollo económico si no hablamos de las emp
 
 Una de nuestras primeras medidas fue capitalizar BancoEstado y el Fondo de Garantías para Pequeños Empresarios, lo que permitió ampliar el financiamiento disponible. Así, el año pasado los créditos otorgados llegaron a más de 2,5 billones de pesos en total.
 
-Pero el financiamiento no es suficiente. Necesitamos emprendedores con motivación y capacidades. Para ellos hemos creado una red de apoyos, con asistencia técnica,
-acompañamiento en la gestión y vínculos con proveedores y clientes.
+Pero el financiamiento no es suficiente. Necesitamos emprendedores con motivación y capacidades. Para ellos hemos creado una red de apoyos, con asistencia técnica, acompañamiento en la gestión y vínculos con proveedores y clientes.
 
 Ya están funcionando cuatro Hub-Globales y 26 centros de cowork orientados al trabajo colaborativo. Además, hay 18 Centros de Desarrollo de Negocios abiertos al público a lo largo del país.
 
@@ -330,8 +271,6 @@ Ambas han sido pilares de nuestro desarrollo y ahora enfrentan el desafío de es
 La agricultura chilena tiene un enorme potencial en la producción de alimentos sanos para el mundo y en el desarrollo forestal sustentable. Aprovecharlo exige concentrar esfuerzos en innovación, en sanidad e inocuidad, y en diversificación.
 
 No hemos descuidado a la Agricultura Familiar Campesina, pilar de la vida en el campo. Junto con anular la deuda de miles de productores, rediseñamos los programas del Indap para integrar y hacer más eficaces los instrumentos de apoyo tecnológico y financiero.
-
-
 
 Retomaremos el diálogo tripartito para presentar este año un proyecto de ley que modificar las normas especiales para los temporeros y temporeras.
 
@@ -364,8 +303,6 @@ Seis de estos programas ya se encuentran en pleno proceso de ejecución: los pro
 
 La atracción de inversiones extranjeras es una tarea ineludible del Estado, por eso creamos la Agencia de Promoción de Inversión Extranjera, la que lanzará su estrategia la próxima semana.
 
-
-
 Para hacer que este foco en productividad sea permanente, y siguiendo una recomendación de la Comisión Nacional de Productividad, instruiré a la brevedad para que todas las leyes que sean iniciativa del Ejecutivo incluyan una evaluación de su impacto sobre la productividad.
 
 Quiero decirlo con todas sus letras: una de las contribuciones mayores que puede hacer el Estado es mejorar significativamente su gestión. Pero también digo con humildad que hay mucho por hacer.
@@ -384,15 +321,13 @@ Finalmente, un rol crucial del Estado es garantizar que los mercados funcionen y
 
 Ya enviamos al Congreso un proyecto de ley con controles estrictos y medidas severas para quienes transgredan el principio de la libre competencia. Y en ese mismo sentido, el fortalecimiento del Sernac busca darle más poder para cuidar a los consumidores. Confío en que el proyecto de ley será aprobado prontamente.
 
-Sé muy bien que estas convergencias que estamos promoviendo entre los actores de la economía requieren de confianzas: confianza en el cumplimiento de los acuerdos;
-confianza en que los costos y beneficios serán equitativos para todos, confianza en el marco básico de valores.
+Sé muy bien que estas convergencias que estamos promoviendo entre los actores de la economía requieren de confianzas: confianza en el cumplimiento de los acuerdos; confianza en que los costos y beneficios serán equitativos para todos, confianza en el marco básico de valores.
 
 Chile atraviesa un momento de confianzas debilitadas en muchos ámbitos. Hay causas de larga data y otras más recientes. Pero tenemos una experiencia histórica profunda que nos permite afirmar que existen principios en los que podemos encontrarnos.
 
 Sabemos que necesitamos de un Estado efectivo y mercados dinámicos y, sobre todo, que se refuercen y no se obstruyan entre sí.
 
 Sabemos, como ha sido nuestra tradición jurídica, que son claves el respeto a la propiedad privada y el reconocimiento a su función social, y que al mismo tiempo requerimos derechos sociales que protejan a las personas y equidad para la cohesión de la sociedad.
-
 
 Sabemos que debemos velar por el medioambiente y las comunidades a lo largo de nuestro territorio.
 
@@ -401,10 +336,11 @@ Y sabemos que todo eso se logra con instituciones fuertes, legítimas e independ
 Estoy segura de que podemos trabajar juntos sobre la base de estos principios.
 
 
-3. Más protección para vivir tranquilos Amigas y amigos,
+3. Más protección para vivir tranquilos 
 
-Así como tenemos clara nuestra responsabilidad en el funcionamiento de nuestra economía,
-sabemos que tenemos el deber de cumplirles a las familias, a nuestros compatriotas, que en lo cotidiano quieren vivir tranquilos y sentirse protegidos frente a las enfermedades, los riesgos y las amenazas.
+Amigas y amigos,
+
+Así como tenemos clara nuestra responsabilidad en el funcionamiento de nuestra economía, sabemos que tenemos el deber de cumplirles a las familias, a nuestros compatriotas, que en lo cotidiano quieren vivir tranquilos y sentirse protegidos frente a las enfermedades, los riesgos y las amenazas.
 
 Nuestra tarea es proteger, no con discursos, sino con un trabajo constante y mancomunado.
 
@@ -427,12 +363,9 @@ Para que las familias tengan la certeza de que podrán llegar a un establecimien
 A la fecha, ya está terminado el hospital de Puerto Williams y están en construcción otros 22 hospitales, cuyas obras habrán culminado al final de mi mandato, entre los que puedo mencionar, por ejemplo, los de Antofagasta, Gustavo Fricke de Viña del Mar, Penco-Lirquén,
 Carahue, Porvenir y Natales.
 
-
-
 Además, iniciarán su construcción en los próximos meses un conjunto de 23 hospitales entre los que se encuentran los de Marga Marga, Curicó, tercera etapa del Hospital La Higuera en Talcahuano y el de Quellón.
 
 Ya hay once nuevos Centros de Salud Familiar en operación, tres terminados y otros 21 en obras.
-
 
 A esto se suman los 19 Centros Comunitarios de Salud Familiar terminados y los 38 en ejecución.
 
@@ -462,8 +395,6 @@ Y en tercer lugar, mediante convenios, estamos realizando operativos médicos ju
 
 Frente al duro momento de una emergencia médica, estamos desplegando más medios que nunca para llegar más rápido. Entre 2014 y 2015 adquirimos 571 ambulancias, de las cuales cinco son ambulanchas para Chiloé. Este año entregaremos 108 ambulancias más.
 
-
-
 Pero eso no es todo, estamos ampliando el acceso a medicamentos seguros, de calidad y a un precio justo con la nueva Ley de Fármacos. Y gracias al Fondo de Farmacia ya se han despachado 28 millones de recetas para cerca de cinco millones de chilenos y chilenas.
 
 Y por cierto, otro adelanto que nació desde la ciudadanía es la Ley Ricarte Soto, que apoya directamente a familias que antes tenían la angustia de no poder pagar los medicamentos de enfermedades de alto costo. Para este primer año de vigencia, el presupuesto para cubrir estos medicamentos de alto costo alcanza los 30 mil millones de pesos y para el segundo se duplicará para alcanzar los 60 mil millones.
@@ -472,8 +403,7 @@ Hay pocas cosas tan dolorosas como ver sufrir a un hijo o hija. Hoy les anuncio 
 
 El financiamiento de este mecanismo se hará con cargo a un fondo integrado con una pequeña cotización sobre la remuneración mensual del trabajador y una cotización equivalente de cargo del empleador y además un pequeño aporte inicial del Fisco.
 
-Esta medida constituye un importante fortalecimiento del Sistema de Protección Social y avanzan en la conciliación de la vida laboral y familiar y de la corresponsabilidad parental. Así
-se va construyendo un sistema de salud de calidad. Y eso debe incluir también una cultura de cuidado y prevención.
+Esta medida constituye un importante fortalecimiento del Sistema de Protección Social y avanzan en la conciliación de la vida laboral y familiar y de la corresponsabilidad parental. Así se va construyendo un sistema de salud de calidad. Y eso debe incluir también una cultura de cuidado y prevención.
 
 Es también lo que buscan los programas de vacunaciones en Sarampión o Influenza para los grupos de mayor riesgo. Además, 483 mil niñas ya recibieron sin costo la vacuna contra el Virus del Papiloma Humano que ayuda a prevenir el cáncer cérvico-uterino.
 
@@ -485,13 +415,7 @@ Los jóvenes de Cuarto Medio de colegios municipales y particulares subvencionad
 
 Finalmente, el programa “Más Sonrisas para Chile” entregará 400 mil altas odontológicas durante el período de gobierno, para revertir el deterioro de la salud bucal de mujeres, que dificulta su inserción laboral y provoca inseguridad.
 
-Si la salud es uno de los pilares del bienestar de las familias, el sistema de protección social
-
-
-
-
-
-es la base de una sociedad más inclusiva, para que niñas y niños, mujeres y hombres, jóvenes y adultos mayores, personas en situación de discapacidad puedan constituirse en sujetos plenos de derecho.
+Si la salud es uno de los pilares del bienestar de las familias, el sistema de protección social es la base de una sociedad más inclusiva, para que niñas y niños, mujeres y hombres, jóvenes y adultos mayores, personas en situación de discapacidad puedan constituirse en sujetos plenos de derecho.
 
 La primera tarea de la protección social es la reducción de la pobreza. Ha sido necesario lograr un antes y un después en su medición, acorde con las nuevas caras que hoy adquiere este fenómeno. Para actuar con eficacia perfeccionamos la medición de la pobreza, incorporando a la Encuesta Casen la medición de pobreza multidimensional.
 
@@ -518,14 +442,7 @@ Sabemos que este es un tema complejo y que requiere intervenciones integrales. C
 
 En primer lugar, aliviaremos la carga de la institución encargada, traspasando algunas tareas a otros organismos públicos.
 
-En segundo lugar, propondremos al Congreso un rediseño al Sistema de Protección de la 21 DE MAYO DE 2016
-
-
-
-
-Infancia, la creación de un servicio de reinserción social juvenil y transformaremos el Sename en el Servicio Nacional de Protección de Menores.
-
-
+En segundo lugar, propondremos al Congreso un rediseño al Sistema de Protección de la Infancia, la creación de un servicio de reinserción social juvenil y transformaremos el Sename en el Servicio Nacional de Protección de Menores.
 
 Para mí los adultos mayores han sido siempre una prioridad. En mi anterior gobierno logramos implementar la reforma previsional más importante desde la puesta en marcha del actual sistema al crear el Aporte Previsional Solidario y la Pensión Básica Solidaria.
 
@@ -535,8 +452,7 @@ Así, hemos restituido el Bono de Invierno, hemos mejorado las condiciones de pa
 
 A fines de este año se completa la medida que eliminó la cotización del cinco por ciento de los adultos mayores.
 
-Pero no podemos esperar más para hacernos cargo de soluciones más integrales. Vamos a acelerar la tramitación del proyecto que crea la AFP estatal, que traerá más competencia,
-menores costos de administración y mejor cobertura.
+Pero no podemos esperar más para hacernos cargo de soluciones más integrales. Vamos a acelerar la tramitación del proyecto que crea la AFP estatal, que traerá más competencia, menores costos de administración y mejor cobertura.
 
 Adicionalmente, le he pedido al Comité de Ministros que transforme los resultados de la Comisión Bravo en una hoja de ruta para los próximos años. Tenemos que abordar este tema con la responsabilidad que amerita.
 
@@ -554,14 +470,7 @@ Para enfrentar este flagelo en toda su complejidad, modificaremos la actual legi
 
 Seguiremos acogiendo y protegiendo a las mujeres que son víctimas de la violencia. Ese es mi compromiso personal como mujer y como Presidenta de un país civilizado.
 
-Hemos reforzado las políticas de prevención de la violencia de género, en particular estamos
-
-
-
-
-
-cumpliendo mi compromiso de duplicar las Casas de Acogida, llegando a 48. Además ya llegamos a un total de 103 Centros de la Mujer a nivel nacional, donde más de 33 mil mujeres pudieron recibir apoyo y orientación durante el año 2015.
-
+Hemos reforzado las políticas de prevención de la violencia de género, en particular estamos cumpliendo mi compromiso de duplicar las Casas de Acogida, llegando a 48. Además ya llegamos a un total de 103 Centros de la Mujer a nivel nacional, donde más de 33 mil mujeres pudieron recibir apoyo y orientación durante el año 2015.
 
 Todos queremos vivir seguros y en paz. Las familias merecen la tranquilidad de que la delincuencia no pondrá en peligro la integridad de los suyos o lo que tanto esfuerzo ha costado conseguir.
 
@@ -581,25 +490,19 @@ Algunos dirán que lo más importante es la rehabilitación: junto con las inici
 
 Finalmente, otros apuntarán a la dura realidad del tráfico de drogas: con el Plan Nacional contra el Narcotráfico, se están reforzando los controles fronterizos, y se instalaron 98 equipos de trabajo a nivel nacional. Esto ya ha dado resultados, con 867 puntos de microtráfico desarticulados.
 
-Seguiremos trabajando con perseverancia, sin artificios, sin maquillar cifras ni buscar titulares,
-atacando cada dimensión de un fenómeno complejo, junto a los municipios, a los vecinos organizados, con una mejor coordinación con las policías y los jueces.
+Seguiremos trabajando con perseverancia, sin artificios, sin maquillar cifras ni buscar titulares, atacando cada dimensión de un fenómeno complejo, junto a los municipios, a los vecinos organizados, con una mejor coordinación con las policías y los jueces.
 
-Porque la inseguridad es un fenómeno que no se resuelve en cuatro años, ni con una política aislada ni menos con discursos altisonantes: es una tarea lenta que demanda mucha seriedad,
-esfuerzos múltiples y sostenidos en el tiempo.
+Porque la inseguridad es un fenómeno que no se resuelve en cuatro años, ni con una política aislada ni menos con discursos altisonantes: es una tarea lenta que demanda mucha seriedad, esfuerzos múltiples y sostenidos en el tiempo.
 
 Por eso, le hace un gran daño a Chile quien pretende usar este tema con fines políticos.
 
-Si protegemos a nuestros compatriotas para hacer frente a sus necesidades de salud, frente a 21 DE MAYO DE 2016
-
-la inseguridad ciudadana y social, también debemos hacerlo frente a los desastres naturales a los que lamentablemente estamos expuestos.
+Si protegemos a nuestros compatriotas para hacer frente a sus necesidades de salud, frente a la inseguridad ciudadana y social, también debemos hacerlo frente a los desastres naturales a los que lamentablemente estamos expuestos.
 
 En los últimos años hemos vivido nueve emergencias que han provocado mucho dolor y que han dañado más de 280 mil viviendas: Tocopilla, Chaitén, el terremoto y tsunami del 27 de febrero de 2010, el Norte Grande, Valparaíso, Atacama y Antofagasta, Calbuco, Villarrica y Coquimbo.
 
-Si se toma en cuenta la magnitud de los daños y el tiempo que normalmente toma recuperarlos, de acuerdo a la experiencia internacional, podemos decir que Chile está
-cumpliendo como corresponde.
+Si se toma en cuenta la magnitud de los daños y el tiempo que normalmente toma recuperarlos, de acuerdo a la experiencia internacional, podemos decir que Chile está cumpliendo como corresponde.
 
-A la fecha, se ha cumplido más del 85 por ciento de las soluciones habitacionales. Sin embargo,
-sabemos que este avance ha tenido distinta velocidad en las diferentes localidades. Y no nos detendremos hasta concluir satisfactoriamente con esta tarea.
+A la fecha, se ha cumplido más del 85 por ciento de las soluciones habitacionales. Sin embargo, sabemos que este avance ha tenido distinta velocidad en las diferentes localidades. Y no nos detendremos hasta concluir satisfactoriamente con esta tarea.
 
 Hicimos un esfuerzo particular en recuperar los cuarteles de bomberos dañados producto del terremoto de 2010, de los cuales ya se han entregado 25.
 
@@ -611,12 +514,10 @@ Hemos ido consolidando la Red Sismológica Nacional, que ya tiene 109 estaciones
 
 En noviembre de 2015 también se inauguró el nuevo Sistema de Respaldo de Comunicaciones del Ejército, que permitirá fortalecer el apoyo brindado por las Fuerzas Armadas a la ONEMI en la gestión de las emergencias.
 
-Así, con un trabajo sistemático y unitario, con una nueva institucionalidad y fuerte inversión,
-sumando tecnología a recursos humanos mejor preparados, estamos abocados a la gran demanda de la ciudadanía, de asegurar la protección que les permita vivir tranquilos.
+Así, con un trabajo sistemático y unitario, con una nueva institucionalidad y fuerte inversión, sumando tecnología a recursos humanos mejor preparados, estamos abocados a la gran demanda de la ciudadanía, de asegurar la protección que les permita vivir tranquilos.
 
 
-4. Ciudades y barrios más amables El avance hacia el desarrollo tiene que expresarse también en que vivamos mejor juntos,
-en ambientes de calidad y amables. Y en esto Chile tiene temas pendientes que estamos enfrentando con decisión.
+4. Ciudades y barrios más amables El avance hacia el desarrollo tiene que expresarse también en que vivamos mejor juntos, en ambientes de calidad y amables. Y en esto Chile tiene temas pendientes que estamos enfrentando con decisión.
 
 ¿Por qué un trabajador debe viajar dos horas para llegar a su lugar de trabajo?
 
@@ -627,18 +528,13 @@ en ambientes de calidad y amables. Y en esto Chile tiene temas pendientes que es
 
 Son preguntas que nos señalan que como sociedad no nos hemos hecho cargo adecuadamente de nuestra convivencia ni de la forma en que crecen los territorios.
 
-Por eso estamos abordando las políticas públicas en vivienda, transporte, deporte, cultura,
-medio ambiente, con una visión de conjunto.
-
-
+Por eso estamos abordando las políticas públicas en vivienda, transporte, deporte, cultura, medio ambiente, con una visión de conjunto.
 
 Por eso estamos convirtiendo los espacios urbanos en oportunidades para reducir las brechas de desigualdad y no agudizarlas; es decir, planificar con un equilibrio social, económico y ambiental.
 
 En estos dos años, hemos mejorado los instrumentos de la política de vivienda para que los subsidios sean más pertinentes y que permitan soluciones habitacionales de mayor calidad.
 
-Si una familia de menores ingresos postula al Subsidio de elección de vivienda, ahora podrá
-optar a proyectos con más y mejores equipamientos, espacios públicos y áreas verdes. Además,
-como lo pudieron comprobar 27 mil 494 postulantes en 2015, se trata de un monto más elevado para mejorar la localización de la vivienda, su diseño y sus materiales.
+Si una familia de menores ingresos postula al Subsidio de elección de vivienda, ahora podrá optar a proyectos con más y mejores equipamientos, espacios públicos y áreas verdes. Además, como lo pudieron comprobar 27 mil 494 postulantes en 2015, se trata de un monto más elevado para mejorar la localización de la vivienda, su diseño y sus materiales.
 
 Para las familias de clase media aumentamos el valor máximo de la vivienda a adquirir con subsidio y otorgamos nuevos beneficios a las familias que requieran de un crédito hipotecario.
 Durante 2015 se asignó un total de 36 mil 528 subsidios.
@@ -660,14 +556,7 @@ Hemos decidido ampliarlo y llegar a 203 nuevos barrios durante este gobierno. Ha
 
 Pero fuimos más allá. A partir del año 2015, 53 de estos barrios han podido postular al programa de protección del patrimonio familiar, con lo que más de cuatro mil hogares podrán, no sólo mejorar sus entornos, sino también sus propias viviendas.
 
-
-
-
-
-Pero tener ciudades más integradas nos exige mejorar la experiencia del transporte público,
-algo vital para la gran mayoría de las familias de nuestro país, sea en las grandes ciudades o en los poblados rurales.
-
-
+Pero tener ciudades más integradas nos exige mejorar la experiencia del transporte público, algo vital para la gran mayoría de las familias de nuestro país, sea en las grandes ciudades o en los poblados rurales.
 
 La jornada laboral o escolar, se inicia cada mañana caminando hasta el paradero más cercano o hasta la estación más cercana. Desgraciadamente, muchas veces este servicio sigue siendo muy deficitario en comodidad, seguridad y en tiempo de desplazamiento.
 
@@ -689,14 +578,9 @@ Entre las ciclovías destaca el mejoramiento de la interconexión vial que unir�
 
 Pero no es todo. Nuestras zonas urbanas deben contar con áreas naturales al servicio de la recreación y el deporte, amplias e integradas a los barrios.
 
-Ya hay cinco parques urbanos terminados en las comunas de Lebu, Marchigüe, Mulchén, Alhué
-y La Pintana. Otros siete parques están en ejecución y serán terminados este año. Además vamos a financiar iniciativas de conservación y mantención de parques públicos y que cuenten con una superficie mínima de dos hectáreas, uno por región.
+Ya hay cinco parques urbanos terminados en las comunas de Lebu, Marchigüe, Mulchén, Alhué y La Pintana. Otros siete parques están en ejecución y serán terminados este año. Además vamos a financiar iniciativas de conservación y mantención de parques públicos y que cuenten con una superficie mínima de dos hectáreas, uno por región.
 
 Son muchos los que no hacen actividad física por falta de espacios públicos o un adecuado acompañamiento. Eso está cambiando con el Programa de Escuelas Deportivas Integrales presente en las quince regiones del país. Hemos beneficiado en 2014 a más de 42 mil personas.
-
-
-
-
 
 En 2015 cuadruplicamos esta cifra. Y entre 2014 y 2015, casi un millón y medio de personas participó en el Programa Deporte y Participación Social.
 
@@ -716,22 +600,17 @@ Los planes ya comienzan a surtir algunos efectos positivos: a nivel nacional hem
 
 Adicionalmente, con la Política de la Leña estamos promoviendo mejores estándares de calidad, únicos y obligatorios. Una mejor producción puede ser una oportunidad de desarrollo para pequeños productores.
 
-Y hemos dado un paso muy importante para fortalecer la cultura y la institucionalidad del reciclaje, porque queremos espacios comunes más limpios. Esta semana promulgamos la Ley de Incentivo al Reciclaje y Responsabilidad Extendida del Productor, la que nos permitirá
-coordinar los esfuerzos de empresas, consumidores y recicladores de base, para darle nueva vida útil a desechos contaminantes.
+Y hemos dado un paso muy importante para fortalecer la cultura y la institucionalidad del reciclaje, porque queremos espacios comunes más limpios. Esta semana promulgamos la Ley de Incentivo al Reciclaje y Responsabilidad Extendida del Productor, la que nos permitirá coordinar los esfuerzos de empresas, consumidores y recicladores de base, para darle nueva vida útil a desechos contaminantes.
 
 Nuestro compromiso con el medioambiente exige estándares internacionales. En la Conferencia Internacional sobre el Cambio Climático, hicimos el compromiso de reducir nuestras emisiones contaminantes y así ser parte de un movimiento global vital para el futuro de nuestro planeta.
 
-Para implementar este acuerdo, vamos a crear una Agencia de Cambio Climático y Desarrollo Sustentable, que articulará acuerdos entre el gobierno y empresas para realizar concretamente,
-medidas de mitigación, adaptación y fortalecimiento de capacidades en torno a esta nueva realidad, a través de un Comité Corfo.
+Para implementar este acuerdo, vamos a crear una Agencia de Cambio Climático y Desarrollo Sustentable, que articulará acuerdos entre el gobierno y empresas para realizar concretamente, medidas de mitigación, adaptación y fortalecimiento de capacidades en torno a esta nueva realidad, a través de un Comité Corfo.
 
 Los océanos son fuente de vida, aunque sabemos que su situación es frágil. Como el país marítimo que somos, debemos comprometernos con el cuidado de nuestro mar.
 
 Asimismo, vamos a crear el Parque Marino Nazca-Desventuradas, que implica proteger una superficie de 297 mil kilómetros cuadrados. También creamos los Parques Marinos “Montes Submarinos Crusoe y Selkirk”, y la Red de Parques Marinos “Lobería Selkirk”, “El Arenal”, “Tierra Blanca”, y “El Palillo”.
 
-
-
-Junto con ello, nos hemos trazado el objetivo de crear una Área Marina Protegida en Rapa Nui,
-para proteger su flora y fauna marina, así como la pesca ancestral. Ya empezamos a trabajar con la comunidad mediante consultas.
+Junto con ello, nos hemos trazado el objetivo de crear una Área Marina Protegida en Rapa Nui, para proteger su flora y fauna marina, así como la pesca ancestral. Ya empezamos a trabajar con la comunidad mediante consultas.
 
 En otras palabras, es posible concebir otra forma de desarrollo de nuestros barrios, de nuestro territorio, buscando mayor integración y cohesión. Es lo que ha guiado nuestras políticas en estos dos años y lo seguirá haciendo en los dos que quedan.
 
@@ -746,8 +625,7 @@ Impulsamos activamente el acercamiento entre la Alianza del Pacífico y el Merco
 
 Nuestra línea es y seguirá siendo la búsqueda de acuerdos y la certeza de que debe prevalecer el derecho internacional.
 
-Con respecto a la demanda boliviana, nuestro país presentará en su momento una contra-
-memoria sólida, elaborada por un equipo de primer nivel, y que defiende los intereses nacionales con argumentos jurídicos, históricos y diplomáticos.
+Con respecto a la demanda boliviana, nuestro país presentará en su momento una contra- memoria sólida, elaborada por un equipo de primer nivel, y que defiende los intereses nacionales con argumentos jurídicos, históricos y diplomáticos.
 
 Hemos asumido la responsabilidad de participar en los grandes temas globales y trabajar en la construcción de las nuevas agendas en materia multilateral.
 
@@ -757,8 +635,7 @@ Frente a estos desafíos múltiples, deberemos evaluar adecuaciones a nuestra in
 
 Estar insertos en el mundo, también nos exige estar preparados para defender la paz, que ha sido nuestro sello histórico en las relaciones internacionales.
 
-Nuestras Fuerzas Armadas son reconocidas internacionalmente por su profesionalismo,
-corroborado una y otra vez en las numerosas misiones de paz.
+Nuestras Fuerzas Armadas son reconocidas internacionalmente por su profesionalismo, corroborado una y otra vez en las numerosas misiones de paz.
 
 Deseo hacer un reconocimiento a los miles de miembros de las Fuerzas Armadas que diariamente cumplen su labor en la defensa nacional. Todos hemos visto, además, la entrega con que los soldados, marinos y aviadores, y también Carabineros, han reaccionado luego de las catástrofes que hemos debido afrontar.
 
@@ -772,11 +649,9 @@ Ciudadanos y ciudadanas,
 
 He querido mostrar logros que servirán de base para que aprovechemos, al fin, la oportunidad de alcanzar el desarrollo para todos.
 
-Pero ninguna de las transformaciones que hemos puesto en marcha tendrá el efecto que buscamos si descansan sobre instituciones y liderazgos con pies de barro. Ningún avance podrá
-consolidarse si persiste el divorcio entre las élites y la ciudadanía.
+Pero ninguna de las transformaciones que hemos puesto en marcha tendrá el efecto que buscamos si descansan sobre instituciones y liderazgos con pies de barro. Ningún avance podrá consolidarse si persiste el divorcio entre las élites y la ciudadanía.
 
-Estoy consciente que las prácticas de muchos líderes, del mundo político y del mundo privado,
-inspiran desconfianza.
+Estoy consciente que las prácticas de muchos líderes, del mundo político y del mundo privado, inspiran desconfianza.
 
 Se trata de un reto mayor para Chile. Con toda franqueza, mayor incluso de lo que se apreciaba hace dos años. No tomamos el camino del inmovilismo. Le he dedicado personalmente una atención especial, poniendo todas las fuerzas de mi gobierno en crear nuevas reglas para nuestra convivencia.
 
@@ -792,8 +667,6 @@ Este año creamos además el Consejo Nacional de Participación Ciudadana y Fort
 Y hacia el mismo objetivo apuntan las políticas de participación juvenil y de red de voluntarios que impulsa el Instituto Nacional de la Juventud.
 
 Es fundamental que la representación parlamentaria refleje bien la realidad de nuestra sociedad. Al fin dimos el paso que tuvo que esperar 25 años: eliminamos el sistema binominal y lo sustituimos por un sistema electoral más proporcional. Hemos devuelto el poder al voto de los ciudadanos.
-
-
 
 No es la única falencia democrática que estamos enfrentando. En Chile, sólo un 15,8 por ciento de los integrantes del Congreso Nacional son mujeres. Gracias a la reforma al sistema electoral, al menos un 40 por ciento de las candidaturas parlamentarias tendrán que corresponder a mujeres.
 
@@ -819,15 +692,9 @@ Nuestras iniciativas contra la corrupción no son palabras al viento, esto va en
 
 Primero, enfrentamos la corrupción con la ley de probidad en la función pública, que eleva las exigencias y los controles de transparencia para los funcionarios públicos. Esto incluye a las autoridades como senadores y diputados, el Contralor General y por supuesto, el Presidente o Presidenta de la República.
 
-
-
-
-
 Al Estado deben venir los mejores y deben venir a servir, no a obtener privilegios.
 
 Segundo, hemos hecho más fuerte a nuestra democracia eliminando el poder del dinero en las decisiones políticas, prohibiendo el aporte de las empresas, poniendo límites al gasto electoral y sancionando fuertemente a quienes infrinjan las normas sobre financiamiento, lo que incluye la pérdida del cargo para los infractores.
-
-
 
 Hemos hecho a los partidos más democráticos y transparentes, para que toda la ciudadanía y no sólo los adherentes puedan conocer, por ejemplo, sus estatutos y balances. Además, dimos mayores capacidades al Servicio Electoral, para asegurar que este nuevo marco legal sea efectivamente respetado.
 
@@ -839,8 +706,7 @@ Ya se encuentra listo para ser votado por la sala del Senado el proyecto de ley 
 
 No podemos permitir que se perjudique a los consumidores, sea con el precio de los pollos o con el valor de los instrumentos financieros, porque con eso se está afectando la confianza de los ciudadanos en el funcionamiento de la democracia y del mercado mismo.
 
-Quiero agradecer a todos los parlamentarios el haber aprobado, con apoyo transversal,
-proyectos tan importantes. Lo entiendo como una prueba de que nuestros dirigentes políticos están escuchando a los ciudadanos.
+Quiero agradecer a todos los parlamentarios el haber aprobado, con apoyo transversal, proyectos tan importantes. Lo entiendo como una prueba de que nuestros dirigentes políticos están escuchando a los ciudadanos.
 
 En tercer lugar, para reconstruir confianzas y certezas, necesitamos reglas de convivencia basadas en valores compartidos.
 
@@ -848,16 +714,13 @@ La promoción y defensa de los Derechos Humanos es uno de los consensos más pot
 
 Al mismo tiempo, hemos avanzado en el cumplimiento de nuestro compromiso en los proyectos de tipificación del delito de tortura y la imprescriptibilidad e inamnistiabilidad de los delitos de lesa humanidad.
 
-Pero nuestra convivencia necesita además contar con una Constitución moderna,
-actualizada y reconocida por todos como propia. Esto es lo que quiere la inmensa mayoría de chilenas y chilenos. Una Constitución que rescate lo que hemos aprendido a lo largo de nuestra historia, pero que no sirva de freno a los cambios, sino de impulso para enfrentar juntos los desafíos del futuro.
+Pero nuestra convivencia necesita además contar con una Constitución moderna, actualizada y reconocida por todos como propia. Esto es lo que quiere la inmensa mayoría de chilenas y chilenos. Una Constitución que rescate lo que hemos aprendido a lo largo de nuestra historia, pero que no sirva de freno a los cambios, sino de impulso para enfrentar juntos los desafíos del futuro.
 
 El país ha cambiado. Afortunadamente, el Chile de hoy no es el de 1980.
 
-En la historia no siempre se presentan oportunidades como esta, en que nuestra ley fundamental 21 DE MAYO DE 2016 puede ser elaborada serenamente en democracia y donde los ciudadanos pueden participar libremente con sus ideas y velar porque ellas se expresen en su Carta Magna.
+En la historia no siempre se presentan oportunidades como esta, en que nuestra ley fundamental puede ser elaborada serenamente en democracia y donde los ciudadanos pueden participar libremente con sus ideas y velar porque ellas se expresen en su Carta Magna.
 
 Hoy pienso en los jóvenes y en la oportunidad que tienen de construir el país en el que quieren vivir. Una oportunidad por la que tantos tuvimos que esperar toda una vida.
-
-
 
 Hemos hecho a nuestros compatriotas una invitación a participar en un Proceso Constituyente y estamos dando las garantías de que será transparente y sin manipulaciones. El Consejo Ciudadano de Observadores ha velado porque así sea y los pueblos indígenas tienen además una consulta específica.
 
@@ -865,8 +728,7 @@ Los chilenos y chilenas están participando: hasta ayer 30 mil 478 personas ya h
 
 Quien se margina no sólo se queda abajo del carro de la historia chilena, sino que le resta valor a sus ideas.
 
-La democracia chilena no es inmune a la fatiga ni a las malas prácticas, pero hemos mostrado que tenemos las herramientas para rediseñar las instituciones, ponerlas a tono con los tiempos,
-hacerlas más transparentes y representativas, y poner atajo a quienes quieren hacer trampa.
+La democracia chilena no es inmune a la fatiga ni a las malas prácticas, pero hemos mostrado que tenemos las herramientas para rediseñar las instituciones, ponerlas a tono con los tiempos, hacerlas más transparentes y representativas, y poner atajo a quienes quieren hacer trampa.
 
 Hemos demostrado entre todos, que está naciendo una nueva democracia para el nuevo Chile.
 
@@ -880,8 +742,7 @@ A pesar de las dificultades y algunos dolorosos retrocesos, la nuestra es una hi
 
 Hoy nuestra historia enfrenta un nuevo reto y han sido, una vez más, los ciudadanos y ciudadanas los responsables de poner en movimiento nuestro presente.
 
-Aspiran a un Chile mejor, con bienestar y derechos para todos, con una economía potente y equitativa, con democracia participativa y una política limpia. Saben que el momento es ahora,
-que Chile puede, y que las oportunidades no se dan dos veces.
+Aspiran a un Chile mejor, con bienestar y derechos para todos, con una economía potente y equitativa, con democracia participativa y una política limpia. Saben que el momento es ahora, que Chile puede, y que las oportunidades no se dan dos veces.
 
 No van a permitir que se frustren sus esperanzas.
 
@@ -890,10 +751,6 @@ La ciudadanía espera de nosotros que conduzcamos esta tarea y la hemos asumido 
 Lo que ayer muchos creían imposible o improbable, hoy entre todos lo estamos haciendo realidad.
 
 Antes las mayorías se sentían excluidas de las decisiones del país; hoy las cosas se hacen con la gente. Chile es hoy más participativo.
-
-
-
-
 
 Antes la buena educación era para unos pocos; hoy hemos abierto la puerta de la buena educación para todos. Ha comenzado la gratuidad, ha avanzado la calidad.
 
