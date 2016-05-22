@@ -367,7 +367,7 @@ Esos fueron días difíciles, créanme, y sobre todo difíciles para los santiag
 
 El episodio del Transantiago hizo evidente otro punto importante: que el transporte en las ciudades modernas requiere de un subsidio estatal. Porque se trata, antes que nada, de un servicio público, que podrá ser provisto por privados, pero que requiere apoyo del Estado para asegurar calidad suficiente y tarifas razonables.
 
-Por ello que espero del Congreso la aprobación de la ley que establece un subsidio nacional para el transporte público en todo Chile. Porque es un proyecto que va en beneficio del medioambiente, de las ciudades, y que es sin duda tan anhelado en muchas regiones del país y por tantos estudiantes, tando de enseñanza básica como universitarios, para que puedan bajar sus tarifas. Pero sobre todo, significará un salto adelante en la calidad de vida de nuestros ciudadanos.
+Por ello que espero del Congreso la aprobación de la ley que establece un subsidio nacional para el transporte público en todo Chile. Porque es un proyecto que va en beneficio del medioambiente, de las ciudades, y que es sin duda tan anhelado en muchas regiones del país y por tantos estudiantes, tanto de enseñanza básica como universitarios, para que puedan bajar sus tarifas. Pero sobre todo, significará un salto adelante en la calidad de vida de nuestros ciudadanos.
 
 Pero quiero agregar algo en materia de transportes.
 
@@ -501,7 +501,7 @@ En esa línea quisiera señalar que promoveremos una modificación al Aporte Fis
 
 Otro capítulo fundamental es la educación técnica a nivel superior. Tenemos el deber de asegurar, por una parte, que todas las instituciones de formación técnica sean de calidad acreditada y, por otra, tenemos que aumentar las oportunidades de acceso a todos los jóvenes de Chile y ello supone fortalecer los mecanismos de financiamiento.
 
-Por eso, desde el año 2006 ya triplicamos las Necas Nuevo Milenio.
+Por eso, desde el año 2006 ya triplicamos las Becas Nuevo Milenio.
 
 Pero requerimos más. He ordenado hacer un llamado extraordinario de estas becas, para otorgar quince mil nuevos beneficios durante el segundo semestre del año 2009. Para los que no los conozcan, los beneficiarios de las Becas Milenio son los estudiantes de menores recursos, centros de formación técnica e institutos profesionales. Así, este año sobrepasaremos las 50 mil becas, más de cinco veces las que se entregaban en el año 2005.
 
@@ -942,3 +942,4 @@ Caminamos con el esfuerzo de todos, para que Chile tenga un rostro más humano. 
 El rostro de 17 millones de chilenos y chilenas a quienes me debo y por quienes seguiré trabajando incansablemente.
 
 ¡Viva Chile!
+
